@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Notes.md",
+                "file": "DailyNotes/2024-02-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Notes.md",
+                "file": "DailyNotes/2024-02-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Notes.md",
+                "file": "DailyNotes/2024-02-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Notes.md"
+                "file": "DailyNotes/2024-02-06.md"
               }
             }
           }
@@ -184,11 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99fb77a483a767a2",
+  "active": "82218e2c437411e2",
   "lastOpenFiles": [
+    "Code Notes.md",
     "My debuging and modifications to sym.md",
     "Introduction to F1Tenth Research.md",
-    "Code Notes.md",
     "DailyNotes/2024-02-06.md",
     "README.md",
     "DailyNotes/2024-02-05.md",
