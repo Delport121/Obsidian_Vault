@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-02-02.md",
+                "file": "Code Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-02-02.md",
+                "file": "Code Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-02-02.md",
+                "file": "Code Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-02-02.md"
+                "file": "Code Notes.md"
               }
             }
           }
@@ -186,9 +186,11 @@
   },
   "active": "82218e2c437411e2",
   "lastOpenFiles": [
+    "README.md",
+    "Code Notes.md",
+    "DailyNotes/2024-02-06.md",
     "DailyNotes/2024-02-05.md",
     "DailyNotes/2024-02-02.md",
-    "Code Notes.md",
     "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
     "Journal Club/Untitled.md",
     "Untitled.canvas",
@@ -227,7 +229,6 @@
     "uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
     "uPennLectures/L04 PID control.md",
     "uPennLectures/L03 Rigid body transformations.md",
-    "uPennLectures/L02 Autonomous Emergency Breaking.md",
     "Untitled 1"
   ]
 }
