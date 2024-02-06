@@ -19,14 +19,17 @@
 	
 		`>>> np.convolve([1, 2, 3], [0, 1, 0.5])`
 		`array([0. , 1. , 2.5, 4. , 1.5])
-		Convolv two matrices is a type of elementwise matrix multiplication. The kernal is flipped and shifted through the first array.
+		Convolve two matrices is a type of elementwise matrix multiplication. The kernal is flipped and shifted through the first array.
 		`0 = 1 * 0`
 		`1 = 1 * 1 + 2 * 0` 
 		`2.5 = 1 * 0.5 +1 * 2 + 3 * 0`
-		`4 = 3 * 1 + 2 * 1`
+		`4 = 3 * 1 + 2 * 0.5
 		`1.5 = 3 *0.5`  
 		Adding a second parameter; "same" to the function cuts of the output vector to be the same size as the original vector
+		`array([1. , 2.5, 4.0 ])
 		
 	4) Clips ranges
 	5) Return ranges
+	
+- 
 	
