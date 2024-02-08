@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-02-06.md",
+                "file": "Introduction to F1Tenth Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08199c7083907c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-02-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6749b759432f0588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-02-08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-02-06.md",
+                "file": "DailyNotes/2024-02-08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-02-06.md",
+                "file": "DailyNotes/2024-02-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-02-06.md"
+                "file": "DailyNotes/2024-02-08.md"
               }
             }
           }
@@ -184,37 +208,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82218e2c437411e2",
+  "active": "6749b759432f0588",
   "lastOpenFiles": [
+    "Introduction to F1Tenth Research.md",
+    "DailyNotes/2024-02-08.md",
+    "Paper Notes/Fast and Accurate- The Perception System of a Formula Student Driverless Car.md",
+    "Paper Notes/Accurate mapping and planning for autonomous racing.md",
+    "DailyNotes/2024-02-05.md",
+    "DailyNotes/2024-02-06.md",
+    "DailyNotes/2024-02-07.md",
+    "Paper Notes/Optimisation-based Control in Unmapped Environments- The Local Map Framework for Autonomous Racing.md",
+    "DailyNotes/Unformatted Daily.md",
+    "uPennLectures/L022 Raceline optimization.md",
+    "uPennLectures/L09 Particle filters.md",
+    "uPennLectures/L010 Pure pursuit.md",
+    "Pasted image 20240207114937.png",
+    "DailyNotes/2024-02-01.md",
+    "DailyNotes/2024-02-02.md",
     "Code Notes.md",
     "My debuging and modifications to sym.md",
-    "Introduction to F1Tenth Research.md",
-    "DailyNotes/2024-02-06.md",
     "README.md",
-    "DailyNotes/2024-02-05.md",
-    "DailyNotes/2024-02-02.md",
     "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
     "Journal Club/Untitled.md",
     "Untitled.canvas",
     "Untitled",
     "Journal Club/RMF-Owl.md",
     "2024-02-02.md",
-    "DailyNotes/2024-02-01.md",
-    "DailyNotes/Unformatted Daily.md",
     "DailyNotes/2024-01-28.md",
     "Autonomous Vehicles on the Edge A Survey on Autonomous Vehicle Racing.md",
     "Starting off.md",
-    "Paper Notes/Optimisation-based Control in Unmapped Environments- The Local Map Framework for Autonomous Racing.md",
     "Paper Notes",
     "Journal Club",
     "Images",
     "uPennLectures",
     "DailyNotes",
     "Paper Notes/Andrew's Thesis.md",
-    "uPennLectures/L09 Particle filters.md",
-    "uPennLectures/L010 Pure pursuit.md",
     "DailyNotes/2024-01-31.md",
-    "uPennLectures/L022 Raceline optimization.md",
     "Images/Pasted image 20240129094651.png",
     "Images/Pasted image 20240129094634.png",
     "Images/Pasted image 20240129093945.png",
@@ -224,11 +253,6 @@
     "Images/Pasted image 20240129092537.png",
     "Images/Pasted image 20240129092107.png",
     "Images/Pasted image 20240129092013.png",
-    "Images/Pasted image 20240129091902.png",
-    "uPennLectures/L01 Introduction.md",
-    "uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
-    "uPennLectures/L04 PID control.md",
-    "uPennLectures/L03 Rigid body transformations.md",
     "Untitled 1"
   ]
 }
