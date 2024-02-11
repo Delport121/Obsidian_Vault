@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-02-08.md",
+                "file": "DailyNotes/2024-02-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-02-08.md",
+                "file": "DailyNotes/2024-02-12.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-02-08.md",
+                "file": "DailyNotes/2024-02-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-02-08.md"
+                "file": "DailyNotes/2024-02-12.md"
               }
             }
           }
@@ -210,15 +210,16 @@
   },
   "active": "6749b759432f0588",
   "lastOpenFiles": [
-    "Introduction to F1Tenth Research.md",
     "DailyNotes/2024-02-08.md",
+    "DailyNotes/2024-02-12.md",
+    "DailyNotes/Unformatted Daily.md",
+    "Introduction to F1Tenth Research.md",
+    "Paper Notes/Optimisation-based Control in Unmapped Environments- The Local Map Framework for Autonomous Racing.md",
     "Paper Notes/Fast and Accurate- The Perception System of a Formula Student Driverless Car.md",
     "Paper Notes/Accurate mapping and planning for autonomous racing.md",
+    "DailyNotes/2024-02-07.md",
     "DailyNotes/2024-02-05.md",
     "DailyNotes/2024-02-06.md",
-    "DailyNotes/2024-02-07.md",
-    "Paper Notes/Optimisation-based Control in Unmapped Environments- The Local Map Framework for Autonomous Racing.md",
-    "DailyNotes/Unformatted Daily.md",
     "uPennLectures/L022 Raceline optimization.md",
     "uPennLectures/L09 Particle filters.md",
     "uPennLectures/L010 Pure pursuit.md",
@@ -243,7 +244,6 @@
     "uPennLectures",
     "DailyNotes",
     "Paper Notes/Andrew's Thesis.md",
-    "DailyNotes/2024-01-31.md",
     "Images/Pasted image 20240129094651.png",
     "Images/Pasted image 20240129094634.png",
     "Images/Pasted image 20240129093945.png",
