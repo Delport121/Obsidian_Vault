@@ -4,71 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b527f52bd488640",
+        "id": "3d2553be62486641",
         "type": "tabs",
         "children": [
           {
-            "id": "fdbba0224ed8a85c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-02-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "649c61b22199f4be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal Club/RMF-Owl.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "627536faefc7ca6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-02-05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82218e2c437411e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to F1Tenth Research.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08199c7083907c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2024-02-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6749b759432f0588",
+            "id": "657167c007121f42",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,17 +147,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6749b759432f0588",
+  "active": "657167c007121f42",
   "lastOpenFiles": [
-    "DailyNotes/2024-02-08.md",
+    "2024-02-11.md",
     "DailyNotes/2024-02-12.md",
-    "DailyNotes/Unformatted Daily.md",
+    "Untitled 1.canvas",
+    "DailyNotes/2024-02-07.md",
     "Introduction to F1Tenth Research.md",
+    "DailyNotes/2024-02-05.md",
+    "Untitled 2.canvas",
+    "DailyNotes/2024-02-08.md",
+    "DailyNotes/Unformatted Daily.md",
     "Paper Notes/Optimisation-based Control in Unmapped Environments- The Local Map Framework for Autonomous Racing.md",
     "Paper Notes/Fast and Accurate- The Perception System of a Formula Student Driverless Car.md",
     "Paper Notes/Accurate mapping and planning for autonomous racing.md",
-    "DailyNotes/2024-02-07.md",
-    "DailyNotes/2024-02-05.md",
     "DailyNotes/2024-02-06.md",
     "uPennLectures/L022 Raceline optimization.md",
     "uPennLectures/L09 Particle filters.md",
@@ -237,13 +179,11 @@
     "2024-02-02.md",
     "DailyNotes/2024-01-28.md",
     "Autonomous Vehicles on the Edge A Survey on Autonomous Vehicle Racing.md",
-    "Starting off.md",
     "Paper Notes",
     "Journal Club",
     "Images",
     "uPennLectures",
     "DailyNotes",
-    "Paper Notes/Andrew's Thesis.md",
     "Images/Pasted image 20240129094651.png",
     "Images/Pasted image 20240129094634.png",
     "Images/Pasted image 20240129093945.png",
