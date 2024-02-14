@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-02-13.md",
+                "file": "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-02-13.md",
+                "file": "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-02-13.md",
+                "file": "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-02-13.md"
+                "file": "uPennLectures/L05 Follow the gap for obstacle avoidance.md"
               }
             }
           }
@@ -232,15 +232,17 @@
   },
   "active": "e21730955039b937",
   "lastOpenFiles": [
-    "DailyNotes/2024-02-14.md",
-    "DailyNotes/2024-02-13.md",
-    "Paper Notes/ROS-based localization of a race vehicle at high-speed using LIDAR.md",
-    "Paper Notes/Accurate mapping and planning for autonomous racing.md",
-    "General Notes.md",
-    "DailyNotes/2024-02-12.md",
     "Code Notes.md",
-    "Images/Pasted image 20240207114937.png",
+    "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
+    "DailyNotes/2024-02-14.md",
+    "DailyNotes/2024-02-15.md",
     "Introduction to F1Tenth Research.md",
+    "Paper Notes/ROS-based localization of a race vehicle at high-speed using LIDAR.md",
+    "General Notes.md",
+    "DailyNotes/2024-02-13.md",
+    "Paper Notes/Accurate mapping and planning for autonomous racing.md",
+    "DailyNotes/2024-02-12.md",
+    "Images/Pasted image 20240207114937.png",
     "My debuging and modifications to sym.md",
     "README.md",
     "DailyNotes/2024-02-08.md",
@@ -255,12 +257,10 @@
     "uPennLectures/L010 Pure pursuit.md",
     "DailyNotes/2024-02-01.md",
     "DailyNotes/2024-02-02.md",
-    "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
     "Journal Club/Untitled.md",
     "Untitled.canvas",
     "Untitled",
     "Journal Club/RMF-Owl.md",
-    "2024-02-02.md",
     "Paper Notes",
     "Journal Club",
     "Images",
