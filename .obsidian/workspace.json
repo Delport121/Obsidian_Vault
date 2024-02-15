@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
+                "file": "Code Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
+                "file": "Code Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
+                "file": "Code Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uPennLectures/L05 Follow the gap for obstacle avoidance.md"
+                "file": "Code Notes.md"
               }
             }
           }
@@ -233,9 +233,12 @@
   "active": "e21730955039b937",
   "lastOpenFiles": [
     "Code Notes.md",
-    "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
-    "DailyNotes/2024-02-14.md",
+    "uPennLectures/L04 PID control.md",
     "DailyNotes/2024-02-15.md",
+    "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
+    "Pasted image 20240215122432.png",
+    "Pasted image 20240215122347.png",
+    "DailyNotes/2024-02-14.md",
     "Introduction to F1Tenth Research.md",
     "Paper Notes/ROS-based localization of a race vehicle at high-speed using LIDAR.md",
     "General Notes.md",
@@ -260,7 +263,6 @@
     "Journal Club/Untitled.md",
     "Untitled.canvas",
     "Untitled",
-    "Journal Club/RMF-Owl.md",
     "Paper Notes",
     "Journal Club",
     "Images",
@@ -273,8 +275,6 @@
     "Images/Pasted image 20240129093000.png",
     "Images/Pasted image 20240129092948.png",
     "Images/Pasted image 20240129092537.png",
-    "Images/Pasted image 20240129092107.png",
-    "Images/Pasted image 20240129092013.png",
     "Untitled 1"
   ]
 }

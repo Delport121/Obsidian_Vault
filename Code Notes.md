@@ -27,6 +27,11 @@
 		`1.5 = 3 *0.5`  
 		Adding a second parameter; "same" to the function cuts of the output vector to be the same size as the original vector
 		`array([1. , 2.5, 4.0 ])
+		Convolution is applied to smoothing affect on the data and enhance the data:
+		- Noise Reduction
+		- Smoothing for better interpretation
+		- Averaging over a window
+		- Preventing spurious peaks
 		
 	4) Clips ranges
 	5) Return ranges

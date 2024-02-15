@@ -6,6 +6,7 @@
 		- Doesnt consider car's dimensions
 		- Hard to decide threshold t
 
+![[Pasted image 20240215122432.png|]]
 ##### FTG Tweak 1:
 1) Find nearest Lidar point and put safety bubble $r_b$ around it
 2) Set all points inside bubble to zero and the rest is free space 
