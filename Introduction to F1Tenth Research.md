@@ -13,7 +13,7 @@
 - [ ] Study repo
 
 # Introductory tasks
-- [ ] Implement follow the gap
+- [x] Implement follow the gap
 - [ ] Implement a pure pursuit controller to follow centre line
 	- Track centre line at constant speed
 	- Tune lookahead distance
