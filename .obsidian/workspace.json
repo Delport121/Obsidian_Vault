@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-02-19.md",
+                "file": "DailyNotes/2024-02-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-02-19.md",
+                "file": "DailyNotes/2024-02-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-02-19.md",
+                "file": "DailyNotes/2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-02-19.md"
+                "file": "DailyNotes/2024-02-20.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "e21730955039b937",
   "lastOpenFiles": [
-    "Introduction to F1Tenth Research.md",
     "DailyNotes/2024-02-19.md",
+    "DailyNotes/2024-02-20.md",
+    "Introduction to F1Tenth Research.md",
     "Meeting notes.md",
     "Untitled.canvas",
     "DailyNotes/2024-02-15.md",
@@ -190,7 +191,6 @@
     "uPennLectures/L022 Raceline optimization.md",
     "uPennLectures/L09 Particle filters.md",
     "uPennLectures/L010 Pure pursuit.md",
-    "DailyNotes/2024-02-01.md",
     "Untitled",
     "Paper Notes",
     "Journal Club",
