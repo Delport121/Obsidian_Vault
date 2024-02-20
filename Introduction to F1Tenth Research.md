@@ -10,7 +10,7 @@
 - [x] Run follow the gap
 - [x] Generate racing line
 - [x] Track it with pure pursuit algorithm
-- [ ] Study repo
+- [x] Study repo
 
 # Introductory tasks
 - [x] Implement follow the gap
