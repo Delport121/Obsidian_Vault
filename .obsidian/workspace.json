@@ -56,19 +56,31 @@
             }
           },
           {
+            "id": "9a06d966bfe828a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0b02787c7744c867",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-02-19.md",
+                "file": "DailyNotes/2024-02-21.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -196,12 +208,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81511e6b321f2e2c",
+  "active": "0b02787c7744c867",
   "lastOpenFiles": [
     "DailyNotes/2024-02-20.md",
     "DailyNotes/2024-02-21.md",
-    "General Notes.md",
     "Meeting notes.md",
+    "General Notes.md",
+    "DailyNotes/2024-02-19.md",
+    "To do.md",
+    "DailyNotes/Unformatted Daily.md",
     "Introduction to F1Tenth Research.md",
     "Code Notes for Simulator/run_functions.py.md",
     "Code Notes for Simulator/F1tenth_sim class.md",
@@ -211,7 +226,6 @@
     "Code Notes for Simulator",
     "uPennLectures/L02 Autonomous Emergency Breaking.md",
     "Journal Club/Untitled.md",
-    "DailyNotes/2024-02-19.md",
     "Untitled.canvas",
     "DailyNotes/2024-02-15.md",
     "uPennLectures/L04 PID control.md",
@@ -227,8 +241,6 @@
     "My debuging and modifications to sym.md",
     "README.md",
     "DailyNotes/2024-02-08.md",
-    "Paper Notes/Fast and Accurate- The Perception System of a Formula Student Driverless Car.md",
-    "DailyNotes/2024-02-05.md",
     "Paper Notes",
     "Journal Club",
     "Images",

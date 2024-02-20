@@ -1,0 +1,6 @@
+- [ ] Oefen program
+- [ ] Reset windows/Organise the files
+- [ ] Get diary book
+- [ ] Look at garmin watch
+- [ ] Music
+- [ ] Leetcode

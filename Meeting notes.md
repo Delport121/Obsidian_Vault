@@ -7,7 +7,6 @@
 - Finished FollowotheGap
 - Busy with block lectures and preparing for that
 - Started with studying pure pursuit
-
 # Plan for next week:
  - Get going with pure pursuit controller
  - Start studying state estimation theory
