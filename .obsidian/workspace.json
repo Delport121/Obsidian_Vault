@@ -1,50 +1,14 @@
 {
   "main": {
-    "id": "8bf78c0d74b3da2f",
+    "id": "86dff1c1c9f0a5e6",
     "type": "split",
     "children": [
       {
-        "id": "2b527f52bd488640",
+        "id": "844bbe021191c5f5",
         "type": "tabs",
         "children": [
           {
-            "id": "e21730955039b937",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Notes for Simulator/F1tenth_sim class.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61fe706737fdf5e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Notes for Simulator/F1tenth_sim class.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08340cf152d932f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Notes for Simulator/F1tenth_sim class.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81511e6b321f2e2c",
+            "id": "6986139c056c425c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,57 +20,33 @@
             }
           },
           {
-            "id": "9a06d966bfe828a3",
+            "id": "f6b45092e3319234",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b02787c7744c867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to F1Tenth Research.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5c7c89e594ba7ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Notes for Simulator/GlobalPurePursuit.md",
+                "file": "DailyNotes/2024-02-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "917423f021db392b",
+    "id": "75053e5f4a33a785",
     "type": "split",
     "children": [
       {
-        "id": "19ea15ef75ed48cd",
+        "id": "2aae3a6f8e31f634",
         "type": "tabs",
         "children": [
           {
-            "id": "99fb77a483a767a2",
+            "id": "9d147d309d1c0ef7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -116,7 +56,7 @@
             }
           },
           {
-            "id": "5f8cc6e8812b26d9",
+            "id": "7106643754c4bed7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -131,7 +71,7 @@
             }
           },
           {
-            "id": "8bf1ac1d96c8b022",
+            "id": "15153b136b7fe67a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -142,24 +82,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "a75b6cc1f51023dc",
+    "id": "4fb82ea968d9f8ef",
     "type": "split",
     "children": [
       {
-        "id": "7701e5eeb1779c52",
+        "id": "5cce7c2e2785c247",
         "type": "tabs",
         "children": [
           {
-            "id": "b2f12538fbc6ed71",
+            "id": "39183ec9384c600c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Notes for Simulator/GlobalPurePursuit.md",
-                "collapseAll": true,
+                "file": "DailyNotes/2024-02-22.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -170,19 +110,19 @@
             }
           },
           {
-            "id": "7fc247311d5375c4",
+            "id": "9235ee5df43fda9b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Notes for Simulator/GlobalPurePursuit.md",
+                "file": "DailyNotes/2024-02-22.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "783f8e9b3111054b",
+            "id": "961a4562de82e383",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -193,21 +133,20 @@
             }
           },
           {
-            "id": "1b49b7bbcb79d4f6",
+            "id": "6f37db470bea4095",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Notes for Simulator/GlobalPurePursuit.md"
+                "file": "DailyNotes/2024-02-22.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -220,51 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5c7c89e594ba7ef",
+  "active": "f6b45092e3319234",
   "lastOpenFiles": [
     "Introduction to F1Tenth Research.md",
-    "Code Notes for Simulator/GlobalPurePursuit.md",
-    "Meeting notes.md",
-    "README.md",
+    "Meetings/Meeting notes 1.md",
+    "Meetings",
     "To do.md",
-    "DailyNotes/2024-02-21.md",
+    "DailyNotes/2024-02-22.md",
     "DailyNotes/2024-02-20.md",
-    "General Notes.md",
-    "DailyNotes/2024-02-19.md",
+    "DailyNotes/2024-02-21.md",
     "DailyNotes/Unformatted Daily.md",
-    "Code Notes for Simulator/run_functions.py.md",
-    "Code Notes for Simulator/F1tenth_sim class.md",
-    "Code Notes for Simulator/BasePlanner class.md",
-    "uPennLectures/L01 Introduction.md",
-    "Code Notes for Simulator/Follow the Gap.md",
-    "Code Notes for Simulator",
-    "uPennLectures/L02 Autonomous Emergency Breaking.md",
-    "Journal Club/Untitled.md",
-    "Untitled.canvas",
-    "DailyNotes/2024-02-15.md",
-    "uPennLectures/L04 PID control.md",
-    "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
-    "Images/Pasted image 20240215122432.png",
-    "Images/Pasted image 20240215122347.png",
-    "DailyNotes/2024-02-14.md",
-    "Paper Notes/ROS-based localization of a race vehicle at high-speed using LIDAR.md",
-    "DailyNotes/2024-02-13.md",
-    "Paper Notes/Accurate mapping and planning for autonomous racing.md",
-    "DailyNotes/2024-02-12.md",
-    "Images/Pasted image 20240207114937.png",
-    "My debuging and modifications to sym.md",
-    "Paper Notes",
-    "Journal Club",
-    "Images",
-    "uPennLectures",
-    "DailyNotes",
-    "Images/Pasted image 20240129094651.png",
-    "Images/Pasted image 20240129094634.png",
-    "Images/Pasted image 20240129093945.png",
-    "Images/Pasted image 20240129093741.png",
-    "Images/Pasted image 20240129093000.png",
-    "Images/Pasted image 20240129092948.png",
-    "Images/Pasted image 20240129092537.png",
-    "Untitled 1"
+    "README.md"
   ]
 }
