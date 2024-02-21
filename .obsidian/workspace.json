@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-02-22.md",
+                "file": "To do.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-02-22.md",
+                "file": "To do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-02-22.md",
+                "file": "To do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-02-22.md"
+                "file": "To do.md"
               }
             }
           }
@@ -161,11 +161,11 @@
   },
   "active": "f6b45092e3319234",
   "lastOpenFiles": [
+    "DailyNotes/2024-02-22.md",
     "Introduction to F1Tenth Research.md",
     "Meetings/Meeting notes 1.md",
     "Meetings",
     "To do.md",
-    "DailyNotes/2024-02-22.md",
     "DailyNotes/2024-02-20.md",
     "DailyNotes/2024-02-21.md",
     "DailyNotes/Unformatted Daily.md",

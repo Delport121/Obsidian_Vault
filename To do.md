@@ -1,6 +1,8 @@
 - [ ] Oefen program
-- [ ] Reset windows/Organise the files
+- [ ] Organise the files
+- [ ] Reset windows
 - [ ] Get diary book
 - [ ] Look at garmin watch
 - [ ] Music
 - [ ] Leetcode
+- [ ] Get cracked version of FL studio
