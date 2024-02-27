@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper Notes/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results.md",
+                "file": "Meetings/Meeting notes 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper Notes/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results.md",
+                "file": "Meetings/Meeting notes 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper Notes/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results.md",
+                "file": "Meetings/Meeting notes 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper Notes/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results.md"
+                "file": "Meetings/Meeting notes 1.md"
               }
             }
           }
@@ -197,8 +197,10 @@
   },
   "active": "4817b50c8311c22d",
   "lastOpenFiles": [
-    "Paper Notes/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results 1.md",
+    "Meetings/Meeting notes.md",
+    "Meetings/Meeting notes 1.md",
     "Paper Notes/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results.md",
+    "Paper Notes/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results 1.md",
     "General Notes.md",
     "README.md",
     "Introduction to F1Tenth Research.md",
@@ -206,8 +208,6 @@
     "DailyNotes/2024-02-26.md",
     "Journal Club/ROBOMINER - Development of a Highly Conﬁgurable and Modular Scaled-Down Prototype of a Mining Robot.md",
     "Journal Club/RMF-Owl.md",
-    "Meetings/Meeting notes 1.md",
-    "Meetings/Meeting notes.md",
     "DailyNotes/2024-02-22.md",
     "DailyNotes/Unformatted Daily.md",
     "Meetings",

@@ -2,12 +2,12 @@
 - What exactly is being done with the convolution and normalising the lidar data
 - How can you view the full variable in vs code
 - How can I access IEEE through the university?
+- Do you have latex templates for articles and stuff?
+- What software do you use for making diagrams and are there certain resources in that regard that would be hepfull?
 # What have I done:
-- Started with classes. Two blocks this week
-- Finished FollowotheGap
-- Busy with block lectures and preparing for that
-- Started with studying pure pursuit
+- Got a good introduction with ros at  ground level.
+- Read your paper and on of callen's for journal club.
 # Plan for next week:
- - Get going with pure pursuit controller
+ - Finish pure pursuit
  - Start studying state estimation theory
- - Do some research in regards to where there a gaps in the industry (Such as the fast image processing for racing)
+ - Do some research in regards to where there a gaps in the industry (Such as the fast image processing for racing
