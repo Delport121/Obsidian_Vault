@@ -1,3 +1,5 @@
+[[Fast_and_Accurate_The_Perception_System_of_a_Formula_Student_Driverless_Car.pdf]]
+
 The paper describe the fusion of 3D lidar data and camera for autonomous racing. 
 
 -  The Lidar pipeline uses a GPF algorithm and Euclidian clustering to process the original point cloud data 

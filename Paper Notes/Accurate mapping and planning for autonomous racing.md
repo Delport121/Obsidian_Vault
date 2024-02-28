@@ -1,3 +1,5 @@
+[[Accurate_Mapping_and_Planning_for_Autonomous_Racing.pdf]]
+
 The paper present a perception, mapping and planning pipeline implementation. It combines lidar and camera data for sensor fusion with a layered mapping  approach that uses Bayesian filtering. This achieves high speed driving in unmapped environments. 
 
 The pipeline enables the raise of maximum driving speed fro 3 to 12 m/s with a RSME of 0.29 m.

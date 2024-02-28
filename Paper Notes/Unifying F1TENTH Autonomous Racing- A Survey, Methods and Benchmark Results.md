@@ -1,3 +1,5 @@
+[[UnifyingF1TenthRacing.pdf]]
+
 - What is the paper about in our own words?
 	 - The paper aims to unify F1Tenth racing by surveying advances in different approaches, describing common methods, providing benchmark results to facilitate comparison and establish a baseline for future work. It provides an overview of what is currently being done in the field and how it is connected. It aims to provide a more unified approach and overview to the field as researchers often isolate themselves in certain aspects of the field.
 - What are the best parts of it?

@@ -1,3 +1,5 @@
+[[ROS_based localization of a race vehicle at highspeed using LIDAR.pdf]]
+
 The presented approach allows LIDAR based
 localization at high speeds.
 # Related work

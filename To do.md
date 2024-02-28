@@ -13,6 +13,7 @@ path does not include Calendar
 - [ ] Leetcode
 - [ ] Get cracked version of FL studio
 - [ ] Study how to take notes of academic papers
+- [ ] Look at deans Skripsie
 
 Calendar Events
 ```tasks

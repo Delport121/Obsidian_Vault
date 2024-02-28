@@ -61,7 +61,7 @@ Expand the current method into a localisation and mapping algorithm
 	- Use the curvature of the inner and outer boundaries to check where the vehicle is at each time step
 - [ ] Reading
 	- [ ] [Vehicle dynamics state estimation and localization for high performance race cars](https://www.sciencedirect.com/science/article/pii/S2405896319303957)
-	- [ ] [ROS-based localization of a race vehicle at high-speed using LIDAR](https://www.e3s-conferences.org/articles/e3sconf/abs/2019/21/e3sconf_icpeme2018_04002/e3sconf_icpeme2018_04002.html)
+	- [x] [ROS-based localization of a race vehicle at high-speed using LIDAR](https://www.e3s-conferences.org/articles/e3sconf/abs/2019/21/e3sconf_icpeme2018_04002/e3sconf_icpeme2018_04002.html)  [completion:: 2024-02-28]
 	- [x] Accurate Mapping and Planning for Autonomous Racing
 	      https://ieeexplore.ieee.org/abstract/document/9341702?casa_token=VeSlTFSJFPsAAAAA:XKLNhTaQSBvh__9Jdau_YvyV_P5Cg6k6o2xr7Gln5usg83_A2kpSoGTcq4eqYqxZJr9S3Jdl5rMY
 	- [ ] formula student driverless

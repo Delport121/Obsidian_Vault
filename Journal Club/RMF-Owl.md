@@ -1,5 +1,7 @@
-The paper describes the design and implementation of an autonomous drone equipped with a special roll cage for mine exploration and mapping (GPS-denied environment)
 
+[[ROBOMINER_Development_of_a_Highly_Configurable_and.pdf]]
+
+The paper describes the design and implementation of an autonomous drone equipped with a special roll cage for mine exploration and mapping (GPS-denied environment)
 ### System Design
 - Airframe
 - Electronics
