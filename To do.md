@@ -1,3 +1,9 @@
+```tasks
+not done
+path does not include Calendar
+
+```
+
 - [ ] Oefen program
 - [ ] Organise the files
 - [ ] Reset windows
@@ -7,3 +13,18 @@
 - [ ] Leetcode
 - [ ] Get cracked version of FL studio
 - [ ] Study how to take notes of academic papers
+
+Calendar Events
+```tasks
+path includes Calendar
+group by happens
+not done
+```
+
+
+
+
+Complete
+```tasks
+done
+```

@@ -61,10 +61,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meetings/Meeting notes 1.md",
+                "file": "Introduction to F1Tenth Research.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "c119a88562baf6b3",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ],
@@ -134,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meetings/Meeting notes 1.md",
+                "file": "Introduction to F1Tenth Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meetings/Meeting notes 1.md",
+                "file": "Introduction to F1Tenth Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meetings/Meeting notes 1.md"
+                "file": "Introduction to F1Tenth Research.md"
               }
             }
           }
@@ -182,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,26 +199,41 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "4817b50c8311c22d",
   "lastOpenFiles": [
-    "Meetings/Meeting notes.md",
-    "Meetings/Meeting notes 1.md",
-    "Paper Notes/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results.md",
-    "Paper Notes/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results 1.md",
+    "Paper Notes/Accurate mapping and planning for autonomous racing.md",
+    "DailyNotes/2024-02-28.md",
+    "DailyNotes/2024-02-26.md",
+    "Templates/Daily Template.md",
+    "DailyNotes/Unformatted Daily.md",
+    "DailyNotes/2024-01-31.md",
+    "Templates",
+    "DailyNotes/2024-02-20.md",
+    "DailyNotes/2024-02-13.md",
+    "DailyNotes/2024-02-14.md",
+    "DailyNotes/2024-02-21.md",
+    "To do.md",
+    "Calendar/(Every W) Supervisor meeting.md",
+    "DailyNotes/2024-02-22.md",
+    "Calendar",
+    "Introduction to F1Tenth Research.md",
+    "Paper Notes/Andrew's Thesis.md",
     "General Notes.md",
     "README.md",
-    "Introduction to F1Tenth Research.md",
-    "To do.md",
-    "DailyNotes/2024-02-26.md",
+    "uPennLectures/L01 Introduction.md",
+    "Paper Notes/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results.md",
+    "Papers",
+    "Code Notes for Simulator/GlobalPurePursuit.md",
+    "Code Notes for Simulator/run_functions.py.md",
+    "Meetings/Meeting notes 1.md",
+    "Meetings/Meeting notes.md",
+    "Paper Notes/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results 1.md",
     "Journal Club/ROBOMINER - Development of a Highly Conﬁgurable and Modular Scaled-Down Prototype of a Mining Robot.md",
     "Journal Club/RMF-Owl.md",
-    "DailyNotes/2024-02-22.md",
-    "DailyNotes/Unformatted Daily.md",
-    "Meetings",
-    "DailyNotes/2024-02-20.md",
-    "DailyNotes/2024-02-21.md"
+    "Meetings"
   ]
 }
