@@ -6,4 +6,8 @@ What is the need in agriculture
 - What have been used in agriculture
 - Look at mapping and path planning
 
+- What is the need in agriculture
+- What have been used in agriculture
+- Look at mapping and path planning
+
 

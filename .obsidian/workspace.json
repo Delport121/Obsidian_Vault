@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d807f2bc67d9d1b3",
+        "id": "ada352b1af35a955",
         "type": "tabs",
         "children": [
           {
-            "id": "620885792389424f",
+            "id": "24a87fb60284b5a5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Journal Club/RMF-Owl A Collision Tolerant Flying robot for autonomous subterranean exploration.pdf"
+                "file": "To do.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal Club/RMF-Owl A Collision Tolerant Flying robot for autonomous subterranean exploration.pdf",
+                "file": "To do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal Club/RMF-Owl A Collision Tolerant Flying robot for autonomous subterranean exploration.pdf",
+                "file": "To do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal Club/RMF-Owl A Collision Tolerant Flying robot for autonomous subterranean exploration.pdf"
+                "file": "To do.md"
               }
             }
           }
@@ -144,42 +146,43 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9d147d309d1c0ef7",
+  "active": "24a87fb60284b5a5",
   "lastOpenFiles": [
+    "DailyNotes/Unformatted Daily.md",
+    "To do.md",
+    "DailyNotes/2024-02-28.md",
+    "DailyNotes/2024-02-26.md",
+    "DailyNotes/2024-02-22.md",
+    "DailyNotes/2024-02-21.md",
+    "DailyNotes/2024-02-20.md",
+    "DailyNotes/2024-02-19.md",
+    "DailyNotes/2024-02-15.md",
+    "DailyNotes/2024-02-14.md",
+    "DailyNotes/2024-02-13.md",
+    "DailyNotes/2024-02-12.md",
+    "DailyNotes/2024-02-08.md",
+    "DailyNotes/2024-02-07.md",
+    "DailyNotes/2024-02-06.md",
+    "General Notes.md",
+    "Introduction to F1Tenth Research.md",
+    "DailyNotes/2024-02-05.md",
+    "DailyNotes/2024-02-02.md",
+    "DailyNotes/2024-02-01.md",
+    "DailyNotes/2024-01-31.md",
+    "DailyNotes/2024-01-28.md",
+    "Journal Club/RMF-Owl A Collision Tolerant Flying robot for autonomous subterranean exploration.pdf",
     "Journal Club/ROBOMINER - Development of a Highly Conﬁgurable and Modular Scaled-Down Prototype of a Mining Robot.md",
     "Journal Club/RMF-Owl.md",
-    "Journal Club/RMF-Owl A Collision Tolerant Flying robot for autonomous subterranean exploration.pdf",
     "Journal Club/ROBOMINER_Development_of_a_Highly_Configurable_and.pdf",
     "Paper Notes/Andrew's Thesis.md",
     "uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
-    "DailyNotes/2024-02-01.md",
-    "uPennLectures/L09 Particle filters.md",
-    "Paper Notes/Accurate mapping and planning for autonomous racing.md",
     "Papers/Accurate_Mapping_and_Planning_for_Autonomous_Racing.pdf",
-    "DailyNotes/2024-02-21.md",
-    "uPennLectures/L010 Pure pursuit.md",
-    "DailyNotes/2024-02-26.md",
-    "Paper Notes/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results.md",
     "Papers/AMurdoch_Thesis.pdf",
-    "Paper Notes/Fast and Accurate- The Perception System of a Formula Student Driverless Car.md",
     "Papers/Fast_and_Accurate_The_Perception_System_of_a_Formula_Student_Driverless_Car.pdf",
-    "Introduction to F1Tenth Research.md",
-    "Paper Notes/High-performance Racing on Unmapped Tracks using Local Maps.md",
-    "Paper Notes/ROS-based localization of a race vehicle at high-speed using LIDAR.md",
     "Papers/UnifyingF1TenthRacing.pdf",
     "Papers/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results (1).pdf",
     "Papers/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results 1.pdf",
     "Papers/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results.pdf",
-    "Papers/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf",
-    "To do.md",
-    "README.md",
-    "DailyNotes/2024-01-31.md",
-    "DailyNotes/2024-01-28.md",
-    "DailyNotes/2024-02-28.md",
-    "Templates/Daily Template.md",
-    "DailyNotes/Unformatted Daily.md",
-    "DailyNotes/2024-02-20.md",
-    "DailyNotes/2024-02-13.md",
-    "DailyNotes/2024-02-14.md"
+    "Papers/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf"
   ]
 }
