@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "86dff1c1c9f0a5e6",
+    "id": "dd26177eba2a3c5e",
     "type": "split",
     "children": [
       {
-        "id": "ad516ddbf0e3f6d9",
+        "id": "aeb52eb3f1a8fac7",
         "type": "tabs",
         "children": [
           {
-            "id": "974f631a5629f0c5",
+            "id": "305e7e400df78c0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uPennLectures/L010 Pure pursuit.md",
+                "file": "DailyNotes/2024-03-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "75053e5f4a33a785",
+    "id": "4f6c81dcec50392a",
     "type": "split",
     "children": [
       {
-        "id": "2aae3a6f8e31f634",
+        "id": "3a7d1e77ef8c5850",
         "type": "tabs",
         "children": [
           {
-            "id": "9d147d309d1c0ef7",
+            "id": "abd27d7aec10381f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "7106643754c4bed7",
+            "id": "af81ee31e2cfc59f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "15153b136b7fe67a",
+            "id": "be33e676010c3ff1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,44 +72,44 @@
     "width": 200
   },
   "right": {
-    "id": "4fb82ea968d9f8ef",
+    "id": "1d415f416b402fc5",
     "type": "split",
     "children": [
       {
-        "id": "5cce7c2e2785c247",
+        "id": "ff39eb93c4611213",
         "type": "tabs",
         "children": [
           {
-            "id": "39183ec9384c600c",
+            "id": "0855e4289f1ff34d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uPennLectures/L010 Pure pursuit.md",
+                "file": "DailyNotes/2024-03-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9235ee5df43fda9b",
+            "id": "d953cc2f62ed1def",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uPennLectures/L010 Pure pursuit.md",
+                "file": "DailyNotes/2024-03-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "961a4562de82e383",
+            "id": "be266e19850567c9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "6f37db470bea4095",
+            "id": "840a4ad6991566fa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "uPennLectures/L010 Pure pursuit.md"
+                "file": "DailyNotes/2024-03-01.md"
               }
             }
           }
@@ -133,57 +133,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "974f631a5629f0c5",
+  "active": "305e7e400df78c0b",
   "lastOpenFiles": [
-    "Screenshot from 2024-02-29 11-47-39.png",
-    "DailyNotes/2024-02-19.md",
-    "Meetings/Meeting notes 1.md",
     "DailyNotes/2024-02-29.md",
-    "DailyNotes/2024-02-22.md",
-    "DailyNotes/2024-02-26.md",
-    "DailyNotes/2024-02-28.md",
-    "Introduction to F1Tenth Research.md",
-    "To do.md",
-    "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf",
-    "PocketCube",
-    "General Notes.md",
-    "DailyNotes/Unformatted Daily.md",
-    "DailyNotes/2024-02-21.md",
-    "DailyNotes/2024-02-20.md",
-    "DailyNotes/2024-02-15.md",
-    "DailyNotes/2024-02-14.md",
-    "DailyNotes/2024-02-13.md",
-    "DailyNotes/2024-02-12.md",
-    "DailyNotes/2024-02-08.md",
-    "DailyNotes/2024-02-07.md",
-    "DailyNotes/2024-02-06.md",
-    "DailyNotes/2024-02-05.md",
-    "DailyNotes/2024-02-02.md",
-    "DailyNotes/2024-02-01.md",
-    "DailyNotes/2024-01-31.md",
-    "DailyNotes/2024-01-28.md",
-    "Journal Club/RMF-Owl A Collision Tolerant Flying robot for autonomous subterranean exploration.pdf",
-    "Journal Club/ROBOMINER - Development of a Highly Conﬁgurable and Modular Scaled-Down Prototype of a Mining Robot.md",
-    "Journal Club/ROBOMINER_Development_of_a_Highly_Configurable_and.pdf",
-    "Papers/Accurate_Mapping_and_Planning_for_Autonomous_Racing.pdf",
-    "Papers/AMurdoch_Thesis.pdf",
-    "Papers/Fast_and_Accurate_The_Perception_System_of_a_Formula_Student_Driverless_Car.pdf",
-    "Papers/UnifyingF1TenthRacing.pdf",
-    "Papers/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results (1).pdf",
-    "Papers/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results 1.pdf"
+    "DailyNotes/2024-03-01.md",
+    "Journal Club/ANEMONA.pdf",
+    "Journal Club/ANEMONA.md",
+    "Journal Club/ARTI.pdf"
   ]
 }
