@@ -30,6 +30,8 @@ $$\gamma = \frac{1}{r} = \frac{2*|y|}{L^2}$$
 1) Find the current waypoint
 2) Actuate to the waypoint with the calculated steering angle
 3) Localize to find the new pose, repeat
+ 
+![[Screenshot from 2024-02-29 11-47-39.png]]
 ### Effect of changing the lookahead distance $L$
 - Small L: Aggressive
 - Large L: Smoother but larger trajectory tracking errors

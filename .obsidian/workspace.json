@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-02-28.md",
+                "file": "uPennLectures/L010 Pure pursuit.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4fb82ea968d9f8ef",
@@ -85,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-02-28.md",
+                "file": "uPennLectures/L010 Pure pursuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-02-28.md",
+                "file": "uPennLectures/L010 Pure pursuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-02-28.md"
+                "file": "uPennLectures/L010 Pure pursuit.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,18 +149,21 @@
   },
   "active": "974f631a5629f0c5",
   "lastOpenFiles": [
-    "To do.md",
+    "Screenshot from 2024-02-29 11-47-39.png",
+    "DailyNotes/2024-02-19.md",
+    "Meetings/Meeting notes 1.md",
+    "DailyNotes/2024-02-29.md",
+    "DailyNotes/2024-02-22.md",
+    "DailyNotes/2024-02-26.md",
     "DailyNotes/2024-02-28.md",
+    "Introduction to F1Tenth Research.md",
+    "To do.md",
     "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf",
     "PocketCube",
-    "Introduction to F1Tenth Research.md",
     "General Notes.md",
     "DailyNotes/Unformatted Daily.md",
-    "DailyNotes/2024-02-26.md",
-    "DailyNotes/2024-02-22.md",
     "DailyNotes/2024-02-21.md",
     "DailyNotes/2024-02-20.md",
-    "DailyNotes/2024-02-19.md",
     "DailyNotes/2024-02-15.md",
     "DailyNotes/2024-02-14.md",
     "DailyNotes/2024-02-13.md",
@@ -174,9 +178,7 @@
     "DailyNotes/2024-01-28.md",
     "Journal Club/RMF-Owl A Collision Tolerant Flying robot for autonomous subterranean exploration.pdf",
     "Journal Club/ROBOMINER - Development of a Highly Conﬁgurable and Modular Scaled-Down Prototype of a Mining Robot.md",
-    "Journal Club/RMF-Owl.md",
     "Journal Club/ROBOMINER_Development_of_a_Highly_Configurable_and.pdf",
-    "Paper Notes/Andrew's Thesis.md",
     "Papers/Accurate_Mapping_and_Planning_for_Autonomous_Racing.pdf",
     "Papers/AMurdoch_Thesis.pdf",
     "Papers/Fast_and_Accurate_The_Perception_System_of_a_Formula_Student_Driverless_Car.pdf",
