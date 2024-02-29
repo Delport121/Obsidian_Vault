@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ada352b1af35a955",
+        "id": "ad516ddbf0e3f6d9",
         "type": "tabs",
         "children": [
           {
-            "id": "24a87fb60284b5a5",
+            "id": "974f631a5629f0c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do.md",
+                "file": "DailyNotes/2024-02-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To do.md",
+                "file": "DailyNotes/2024-02-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To do.md",
+                "file": "DailyNotes/2024-02-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To do.md"
+                "file": "DailyNotes/2024-02-28.md"
               }
             }
           }
@@ -146,11 +146,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "24a87fb60284b5a5",
+  "active": "974f631a5629f0c5",
   "lastOpenFiles": [
-    "DailyNotes/Unformatted Daily.md",
     "To do.md",
     "DailyNotes/2024-02-28.md",
+    "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf",
+    "PocketCube",
+    "Introduction to F1Tenth Research.md",
+    "General Notes.md",
+    "DailyNotes/Unformatted Daily.md",
     "DailyNotes/2024-02-26.md",
     "DailyNotes/2024-02-22.md",
     "DailyNotes/2024-02-21.md",
@@ -163,8 +167,6 @@
     "DailyNotes/2024-02-08.md",
     "DailyNotes/2024-02-07.md",
     "DailyNotes/2024-02-06.md",
-    "General Notes.md",
-    "Introduction to F1Tenth Research.md",
     "DailyNotes/2024-02-05.md",
     "DailyNotes/2024-02-02.md",
     "DailyNotes/2024-02-01.md",
@@ -175,14 +177,11 @@
     "Journal Club/RMF-Owl.md",
     "Journal Club/ROBOMINER_Development_of_a_Highly_Configurable_and.pdf",
     "Paper Notes/Andrew's Thesis.md",
-    "uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
     "Papers/Accurate_Mapping_and_Planning_for_Autonomous_Racing.pdf",
     "Papers/AMurdoch_Thesis.pdf",
     "Papers/Fast_and_Accurate_The_Perception_System_of_a_Formula_Student_Driverless_Car.pdf",
     "Papers/UnifyingF1TenthRacing.pdf",
     "Papers/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results (1).pdf",
-    "Papers/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results 1.pdf",
-    "Papers/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results.pdf",
-    "Papers/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf"
+    "Papers/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results 1.pdf"
   ]
 }
