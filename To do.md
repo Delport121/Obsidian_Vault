@@ -1,9 +1,3 @@
-```tasks
-not done
-path does not include Calendar
-
-```
-
 - [ ] Oefen program
 - [ ] Organise the files
 - [ ] Reset windows
@@ -17,14 +11,12 @@ path does not include Calendar
 - [ ] Up typespeed
 
 Calendar Events
+
 ```tasks
-path includes Calendar
-group by happens
 not done
+path does not include Calendar
+
 ```
-
-
-
 
 Complete
 ```tasks
