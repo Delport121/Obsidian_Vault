@@ -11,11 +11,9 @@
             "id": "5406f77f5ccab535",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "DailyNotes/2024-03-03.md",
-                "mode": "source",
-                "source": false
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-03-03.md",
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-03-03.md",
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-03-03.md"
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
               }
             }
           }
@@ -150,8 +148,10 @@
   "active": "5406f77f5ccab535",
   "lastOpenFiles": [
     "Introduction to F1Tenth Research.md",
-    "DailyNotes/2024-03-03.md",
+    "DailyNotes/2024-03-04.md",
     "DailyNotes/2024-03-01.md",
+    "DailyNotes/2024-03-03.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
     "Journal Club/ANEMONA.pdf",
     "Journal Club/ARTI.pdf",
     "Journal Club/ANEMONA.md",
