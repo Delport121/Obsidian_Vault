@@ -11,9 +11,15 @@
             "id": "5406f77f5ccab535",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Journal Club/ANEMONA.pdf"
+=======
+                "file": "uPennLectures/L01 Introduction.md",
+                "mode": "source",
+                "source": false
+>>>>>>> 29c457529c25a64ed4b6dbf38340d1141eed5bd6
               }
             }
           }
@@ -83,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Journal Club/ANEMONA.pdf",
+=======
+                "file": "uPennLectures/L01 Introduction.md",
+>>>>>>> 29c457529c25a64ed4b6dbf38340d1141eed5bd6
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Journal Club/ANEMONA.pdf",
+=======
+                "file": "uPennLectures/L01 Introduction.md",
+>>>>>>> 29c457529c25a64ed4b6dbf38340d1141eed5bd6
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Journal Club/ANEMONA.pdf"
+=======
+                "file": "uPennLectures/L01 Introduction.md"
+>>>>>>> 29c457529c25a64ed4b6dbf38340d1141eed5bd6
               }
             }
           }
@@ -147,7 +165,23 @@
   },
   "active": "5406f77f5ccab535",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Journal Club/ROBOMINER - Development of a Highly Conﬁgurable and Modular Scaled-Down Prototype of a Mining Robot.md",
+=======
+    "uPennLectures/L02 Autonomous Emergency Breaking.md",
+    "uPennLectures/L010 Pure pursuit.md",
+    "uPennLectures/L09 Particle filters.md",
+    "uPennLectures/L04 PID control.md",
+    "uPennLectures/L01 Introduction.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "Images/Pasted image 20240305170218.png",
+    "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
+    "uPennLectures/L03 Rigid body transformations.md",
+    "Images/Screenshot from 2024-02-29 11-47-39.png",
+    "Pasted image 20240305170213.png",
+    "uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
+    "Introduction to F1Tenth Research.md",
+>>>>>>> 29c457529c25a64ed4b6dbf38340d1141eed5bd6
     "DailyNotes/2024-03-04.md",
     "Introduction to F1Tenth Racing Research 2024.pdf",
     "Introduction to F1Tenth Research.md",
