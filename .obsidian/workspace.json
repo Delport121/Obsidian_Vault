@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
+                "file": "Journal Club/ANEMONA.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
+                "file": "Journal Club/ANEMONA.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
+                "file": "Journal Club/ANEMONA.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
+                "file": "Journal Club/ANEMONA.pdf"
               }
             }
           }
@@ -147,11 +147,12 @@
   },
   "active": "5406f77f5ccab535",
   "lastOpenFiles": [
-    "Introduction to F1Tenth Research.md",
+    "Journal Club/ROBOMINER - Development of a Highly Conﬁgurable and Modular Scaled-Down Prototype of a Mining Robot.md",
     "DailyNotes/2024-03-04.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "Introduction to F1Tenth Research.md",
     "DailyNotes/2024-03-01.md",
     "DailyNotes/2024-03-03.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
     "Journal Club/ANEMONA.pdf",
     "Journal Club/ARTI.pdf",
     "Journal Club/ANEMONA.md",
