@@ -1,43 +1,50 @@
 {
   "main": {
-    "id": "dd26177eba2a3c5e",
+    "id": "113b082b582a4b71",
     "type": "split",
     "children": [
       {
-        "id": "a6cbd3ec7654e551",
+        "id": "c8a42a81f4e0ee59",
         "type": "tabs",
         "children": [
           {
-            "id": "5406f77f5ccab535",
+            "id": "8bf623c28dc01267",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Journal Club/ANEMONA.pdf"
-=======
-                "file": "uPennLectures/L01 Introduction.md",
+                "file": "Meetings/Meeting notes 1.md",
                 "mode": "source",
                 "source": false
->>>>>>> 29c457529c25a64ed4b6dbf38340d1141eed5bd6
+              }
+            }
+          },
+          {
+            "id": "96d65eb529006c70",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Journal Club/SmartCaveDrone_3D_cave_mapping_using_UAVs_as_robotic_co-archaeologists.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4f6c81dcec50392a",
+    "id": "d5b663deabdc6df8",
     "type": "split",
     "children": [
       {
-        "id": "3a7d1e77ef8c5850",
+        "id": "00b25720c7108819",
         "type": "tabs",
         "children": [
           {
-            "id": "abd27d7aec10381f",
+            "id": "d6c751519bd9f1c2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +54,7 @@
             }
           },
           {
-            "id": "af81ee31e2cfc59f",
+            "id": "c3af5002c62f7503",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +69,7 @@
             }
           },
           {
-            "id": "be33e676010c3ff1",
+            "id": "ce1ff6fd2c5c45dd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,27 +80,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "1d415f416b402fc5",
+    "id": "9876319ef888110b",
     "type": "split",
     "children": [
       {
-        "id": "ff39eb93c4611213",
+        "id": "7d4f70648b25e22c",
         "type": "tabs",
         "children": [
           {
-            "id": "0855e4289f1ff34d",
+            "id": "3eea501e5d1eda9c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Journal Club/ANEMONA.pdf",
-=======
-                "file": "uPennLectures/L01 Introduction.md",
->>>>>>> 29c457529c25a64ed4b6dbf38340d1141eed5bd6
+                "file": "Journal Club/SmartCaveDrone_3D_cave_mapping_using_UAVs_as_robotic_co-archaeologists.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,23 +108,19 @@
             }
           },
           {
-            "id": "d953cc2f62ed1def",
+            "id": "81aaf9d25712792e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Journal Club/ANEMONA.pdf",
-=======
-                "file": "uPennLectures/L01 Introduction.md",
->>>>>>> 29c457529c25a64ed4b6dbf38340d1141eed5bd6
+                "file": "Journal Club/SmartCaveDrone_3D_cave_mapping_using_UAVs_as_robotic_co-archaeologists.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "be266e19850567c9",
+            "id": "d861081be515f042",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,16 +131,12 @@
             }
           },
           {
-            "id": "840a4ad6991566fa",
+            "id": "9edd634a18cf5e2b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Journal Club/ANEMONA.pdf"
-=======
-                "file": "uPennLectures/L01 Introduction.md"
->>>>>>> 29c457529c25a64ed4b6dbf38340d1141eed5bd6
+                "file": "Journal Club/SmartCaveDrone_3D_cave_mapping_using_UAVs_as_robotic_co-archaeologists.pdf"
               }
             }
           }
@@ -163,36 +158,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5406f77f5ccab535",
+  "active": "96d65eb529006c70",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "Journal Club/2111.06482.pdf",
     "Journal Club/ROBOMINER - Development of a Highly Conﬁgurable and Modular Scaled-Down Prototype of a Mining Robot.md",
-=======
-    "uPennLectures/L02 Autonomous Emergency Breaking.md",
+    "Journal Club/SmartCaveDrone_3D_cave_mapping_using_UAVs_as_robotic_co-archaeologists.pdf",
+    "Journal Club/SmartCaveDrone_3D_cave_mapping_using_UAVs_as_robotic_co-archaeologists.pdf.crdownload",
+    "Journal Club/1-s2.0-S0921889022001932-main.pdf",
+    "Holonic systems and control/ANEMONA.md",
+    "Journal Club/2111.06482.pdf.crdownload",
+    "Journal Club/1-s2.0-S0921889022001932-main.pdf.crdownload",
+    "Holonic systems and control/ARTI.pdf",
+    "Introduction to F1Tenth Research.md",
+    "Holonic systems and control",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "Meetings/Meeting Notes 2.md",
+    "Journal Club/Robust_High-Speed_Running_for_Quadruped_Robots_via_Deep_Reinforcement_Learning.pdf",
+    "Meetings/Meeting notes 1.md",
+    "DailyNotes/2024-03-06.md",
     "uPennLectures/L010 Pure pursuit.md",
-    "uPennLectures/L09 Particle filters.md",
-    "uPennLectures/L04 PID control.md",
-    "uPennLectures/L01 Introduction.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "Images/Pasted image 20240305170218.png",
+    "uPennLectures/L022 Raceline optimization.md",
     "uPennLectures/L05 Follow the gap for obstacle avoidance.md",
+    "uPennLectures/L04 PID control.md",
     "uPennLectures/L03 Rigid body transformations.md",
-    "Images/Screenshot from 2024-02-29 11-47-39.png",
-    "Pasted image 20240305170213.png",
     "uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
-    "Introduction to F1Tenth Research.md",
->>>>>>> 29c457529c25a64ed4b6dbf38340d1141eed5bd6
-    "DailyNotes/2024-03-04.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "Introduction to F1Tenth Research.md",
-    "DailyNotes/2024-03-01.md",
-    "DailyNotes/2024-03-03.md",
-    "Journal Club/ANEMONA.pdf",
-    "Journal Club/ARTI.pdf",
-    "Journal Club/ANEMONA.md",
-    "DailyNotes/Unformatted Daily.md",
-    "To do.md",
-    "Calendar/(Every W) Supervisor meeting.md",
-    "DailyNotes/2024-02-29.md"
+    "uPennLectures/L09 Particle filters.md",
+    "uPennLectures/L02 Autonomous Emergency Breaking.md",
+    "uPennLectures/L01 Introduction.md",
+    "DailyNotes/2024-03-04.md"
   ]
 }

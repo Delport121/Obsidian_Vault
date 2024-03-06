@@ -14,7 +14,7 @@
 
 # Introductory tasks
 - [x] Implement follow the gap
-- [ ] Implement a pure pursuit controller to follow centre line
+- [x] Implement a pure pursuit controller to follow centre line  [completion:: 2024-03-06]
 	- Track centre line at constant speed
 	- Tune lookahead distance
 	- Evaluate tracking accuracy

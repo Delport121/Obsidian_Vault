@@ -14,9 +14,3 @@
  - Start studying state estimation theory
  - Do some research in regards to where there a gaps in the industry (Such as the fast image processing for racing
 
-<<<<<<< Updated upstream
-=======
-Particle filter
-h 
-
->>>>>>> Stashed changes
