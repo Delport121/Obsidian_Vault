@@ -25,6 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "To do.md",
                 "mode": "source",
                 "source": false
@@ -40,6 +41,9 @@
                 "file": "ROS Commands.md",
                 "mode": "source",
                 "source": false
+=======
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -110,7 +114,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "ROS Commands.md",
+=======
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "ROS Commands.md",
+=======
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "ROS Commands.md"
+=======
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -174,8 +190,11 @@
   },
   "active": "2fae6e19fe362815",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "To do.md",
     "ROS Commands.md",
+=======
+>>>>>>> Stashed changes
     "Journal Club/SmartCaveDrone_3D_cave_mapping_using_UAVs_as_robotic_co-archaeologists.pdf",
     "Journal Club/2111.06482.pdf",
     "Journal Club/ROBOMINER - Development of a Highly Conﬁgurable and Modular Scaled-Down Prototype of a Mining Robot.md",
