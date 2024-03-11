@@ -9,6 +9,7 @@
 - [ ] Study how to take notes of academic papers
 - [x] Look at deans Skripsie  [completion:: 2024-02-28]
 - [ ] Up typespeed
+- [ ] Get table at home
 
 Calendar Events
 

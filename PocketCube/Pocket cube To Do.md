@@ -1,0 +1,9 @@
+- Next deliverable
+	- Battery - Three options
+	- Specify our power requirements
+	- 40 pins 1.27 pitch
+	- 5V, 3V, 5V SW, 3V SW, Vbat 
+- Ask Dean where he would look
+- What are the capacity we are looking at
+- Are we taking a standard one or make shifting it ourself
+- Rough sizing and orientation?
