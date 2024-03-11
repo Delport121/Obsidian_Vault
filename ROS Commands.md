@@ -109,3 +109,31 @@ and
 ros2 pkg create <my_py_ppkg> --build-type ament_python --dependencies rclpy
 ```
 open srccd in vs code
+
+# Gazebo
+
+## Install through ros
+```
+sudo apt-get install ros-${ROS_DISTRO}-ros-gz
+```
+(Replace ${} with ros distribution)
+Just follow the tuts
+
+```
+ign launch sensor_launch.ign
+```
+## Spawn URDF
+First create empty world
+```
+ign gazebo empty.sdf
+```
+Get list of available services
+```
+ign service -l
+```
+Where looking for this:
+/world/empty/create
+To load model file
+```
+ign service -s /world/empty/create --reqtype ignition.msgs.EntityFactory --reptype ignition.msgs.Boolean --timeout 1000 --req 'sdf_filename: "rrbot.urdf", name: "urdf_model"'
+```
