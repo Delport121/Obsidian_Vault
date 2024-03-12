@@ -137,3 +137,6 @@ To load model file
 ```
 ign service -s /world/empty/create --reqtype ignition.msgs.EntityFactory --reptype ignition.msgs.Boolean --timeout 1000 --req 'sdf_filename: "rrbot.urdf", name: "urdf_model"'
 ```
+
+# Running Gazebo with ROS
+### Launch Gazebo
