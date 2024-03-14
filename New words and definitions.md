@@ -1,0 +1,2 @@
+- Veticesz: Refers to edges of geometric shapes
+- Frontier: Border between countries
