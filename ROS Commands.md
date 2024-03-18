@@ -10,11 +10,6 @@ colcon build  --packages-select my_py_pkg --symlik-install
 To run two same named nodes:
 ro2 run my_py_pkg py_node --ros0args -r __node:=test
 
-Creating a node
-touch 'Nodename'
-
-Making the node executable
-chmod +x 'Nodename.py'
 
 # Nodes
 ```
@@ -23,7 +18,7 @@ ros2 node list
 ros node info <node_name>
 ```
 # Topics
-```
+```bash
 rqt_graph
 ros2 topic list
 ros2 topic list -t 
@@ -34,7 +29,7 @@ ros2 topic pub <topic_name> <msg_type> '<args>'
 ros2 topic hz <topic_name>
 ```
 # Services
-```
+```bash
 ros2 service list
 ros2 service type <service_name>
 ros2 service list -t 
@@ -43,7 +38,7 @@ ros2 service show <type_name>.srv
 ros2 service call <service_name> <service_type> <arguments>
 ```
 # Parameters
-```
+```bash
 ros2 param list
 ros2 param get <node_name> <parameter_name>
 ros2 param get <node_name> <parameter_name> <value>
@@ -54,6 +49,7 @@ ros2 param get <node_name> <parameter_name> <value>
 Ctrl+Shift+O (Split Horisontal) 
 Ctrl+Shift+E (Split vertically)
 Ctrl+Shift+W (Close terminal)
+Shift+tab (Reverse tab)
 ```
 
 # Install stuff
@@ -61,16 +57,16 @@ Ctrl+Shift+W (Close terminal)
 Do stuff provided on website
 
 You don't want to source for each terminal everytime, thus this command is placed in:
-```
+```bash
 gedit ~/.bashrc`
 ```
 The command:
-``` 
+``` bash
 source/opt/ros/foxy/setup.bash
 ```
 
 ## Install ros2 build tool
-```
+```bash
 sudo apt install python3-colcon-common-extensions
 ```
 You don't want to source for each terminal every time, thus this command is placed in:
@@ -83,33 +79,39 @@ source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash
 ```
 ## Creating a workspace
 Make a folder
-```
+```bash
 mkdir <ros2_ws>
 ```
 Then move in the folder directory and  make a src folder
-```
+```bash
+cd <ros2_ws>/
 mkir src
 ```
-Then
-```
-colcon build
+Then build the workspace
+```bash
+colcon build --symlink-install
 ```
 ## Local source
 Paste in gedit ~/.bashrc
-```
+```bash
 ~/ros2_ws/install/setup.bash
 ```
 ## Creating packages
-Cd directory
-```
-ros2_ws/src
-```
-and 
-```
+For when first creating in ros
+```bash
+cd ros2_ws/src
 ros2 pkg create <my_py_ppkg> --build-type ament_python --dependencies rclpy
+code .
 ```
-open srccd in vs code
-
+## Creating a node
+Must add .py to name
+```bash
+touch <Nodename.py>
+```
+Making the node executable
+```bash
+chmod +x 'Nodename.py'
+```
 # Gazebo
 
 ## Install through ros
@@ -142,3 +144,11 @@ ign service -s /world/empty/create --reqtype ignition.msgs.EntityFactory --repty
 ### Launch Gazebo
 
 shift+tab+[]
+
+
+
+
+Things in brandon's note that was that I added
+- Create new folder with touch and make it an executable (Creating nodes)
+- Colcon build in workspace
+- Open src folder in vs code

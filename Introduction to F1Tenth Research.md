@@ -47,7 +47,7 @@ Expand the current method into a localisation and mapping algorithm
 	- [ ] https://github.com/BDEvan5?tab=repositories
 	- [ ] Roughly be able to recode examples
 	- [ ] Book to read "Probalist robotics"
-	- [ ] F1Tenth lectures on scan matching
+	- [x] F1Tenth lectures on scan matching  [completion:: 2024-03-18]
 	- [ ] Youtube resources
 
 - [ ] Reimplement particle filter for F1Tenth racing
