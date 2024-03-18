@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-03-15.md",
+                "file": "Meetings/Meeting Notes 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-03-15.md",
+                "file": "Meetings/Meeting Notes 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-03-15.md",
+                "file": "Meetings/Meeting Notes 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-03-15.md"
+                "file": "Meetings/Meeting Notes 3.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "d7035ddab04e9a5e",
   "lastOpenFiles": [
-    "DailyNotes/2024-03-14.md",
     "DailyNotes/2024-03-15.md",
+    "DailyNotes/2024-03-14.md",
     "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf",
     "Meetings/Meeting Notes 3.md"
   ]
