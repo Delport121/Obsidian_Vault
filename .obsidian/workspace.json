@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meetings/Meeting Notes 3.md",
+                "file": "Meetings/Meeting Notes 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meetings/Meeting Notes 3.md",
+                "file": "Meetings/Meeting Notes 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meetings/Meeting Notes 3.md",
+                "file": "Meetings/Meeting Notes 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meetings/Meeting Notes 3.md"
+                "file": "Meetings/Meeting Notes 4.md"
               }
             }
           }
@@ -174,19 +174,21 @@
   },
   "active": "528e91ac3be4ada9",
   "lastOpenFiles": [
-    "Meetings/Meeting Notes 4.md",
-    "ROS Commands.md",
-    "Meetings/Meeting Notes 3.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
     "Introduction to F1Tenth Research.md",
+    "Meetings/Meeting Notes 4.md",
+    "Meetings/Meeting Notes 3.md",
+    "DailyNotes/2024-03-20.md",
+    "Templates/Daily Template.md",
+    "DailyNotes/2024-03-18.md",
+    "DailyNotes/2024-03-15.md",
+    "ROS Commands.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
     "uPennLectures/L07 Scan Matching Lab 1.md",
     "uPennLectures/L07 Scan Matching.md",
-    "DailyNotes/2024-03-18.md",
     "DailyNotes/Unformatted Daily.md",
     "New words and definitions.md",
     "DailyNotes/2024-03-13.md",
     "DailyNotes/2024-03-14.md",
-    "DailyNotes/2024-03-15.md",
     "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf"
   ]
 }
