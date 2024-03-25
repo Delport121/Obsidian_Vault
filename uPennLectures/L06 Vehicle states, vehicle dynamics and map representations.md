@@ -8,7 +8,7 @@
 	- Sideslip angle ($\beta$)
 	- Slip angle ($\alpha$)
 	- Wheelslip ($s$)
-## Vehicle dynamics modeling
+## Vehicle dynamics modelling
 - Kinematic single track model
 - Linear single track model
 - Nonlinear single track model

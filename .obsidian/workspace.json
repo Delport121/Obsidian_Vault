@@ -8,31 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae8660c9dcc244c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to F1Tenth Research.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "30f577cc1c89e947",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "DailyNotes/2024-03-21.md",
-                "mode": "source",
-                "source": false
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-03-21.md",
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-03-21.md",
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-03-21.md"
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
               }
             }
           }
@@ -160,31 +145,115 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "a949b6df092c1d4c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6cc2b1a469193cc8",
+        "type": "window",
+        "children": [
+          {
+            "id": "1bc551365b6cf9d5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "12d64b836d66f9e1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Paper Notes/High-performance Racing on Unmapped Tracks using Local Maps.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 240,
+        "y": 289,
+        "width": 1440,
+        "height": 961,
+        "maximize": true,
+        "zoom": 0
+      },
+      {
+        "id": "b2f19b28e1a79ae4",
+        "type": "window",
+        "children": [
+          {
+            "id": "df006a0f34412d9d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ae8660c9dcc244c8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Introduction to F1Tenth Research.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2220,
+        "y": 29,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "30f577cc1c89e947",
   "lastOpenFiles": [
-    "Code Notes for Simulator/Localmap_racing/LocalMap.py.md",
     "Introduction to F1Tenth Research.md",
-    "Code Notes for Simulator/Localmap_racing",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "Papers/High performance racing on unmapped tracks using local maps.pdf",
-    "Papers/Minimum curvature trajectory planning and control for an autonomous race car.pdf",
-    "DailyNotes/2024-03-21.md",
-    "Untitled 1.md",
+    "DailyNotes/2024-03-25.md",
     "Meetings/Meeting Notes 5.md",
+    "Code Notes for Simulator/Localmap_racing/LocalMap.py.md",
+    "Papers/High performance racing on unmapped tracks using local maps.pdf",
+    "Paper Notes/High-performance Racing on Unmapped Tracks using Local Maps.md",
+    "Papers/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf",
+    "Papers/Minimum curvature trajectory planning and control for an autonomous race car.pdf",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "ROS Commands.md",
+    "New words and definitions.md",
+    "General Notes.md",
+    "Images/Screenshot from 2024-01-24 16-45-13.png",
+    "Images/Screenshot from 2024-01-24 16-57-44.png",
+    "Images/Screenshot from 2024-01-24 17-07-38.png",
+    "Images/Screenshot from 2024-02-29 11-47-39.png",
+    "Images/Pasted image 20240325095014.png",
+    "DailyNotes/2024-03-21.md",
+    "DailyNotes/Unformatted Daily.md",
+    "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf",
+    "PocketCube/A_Method_for_Validating_CubeSat_Satellite_EPS_Through_Power_Budget_Analysis_Aligned_With_Mission_Requirements.pdf",
+    "PocketCube/Pocket cube To Do.md",
+    "uPennLectures/L022 Raceline optimization.md",
+    "uPennLectures/L010 Pure pursuit.md",
+    "uPennLectures/L09 Particle filters.md",
+    "uPennLectures/L07 Scan Matching Lab 1.md",
+    "uPennLectures/L07 Scan Matching.md",
+    "uPennLectures/L07 Filtering.md",
+    "Images/Pasted image 20240325102332.png",
+    "Images/Pasted image 20240325095917.png",
+    "Images/Pasted image 20240325095043.png",
+    "uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
+    "Code Notes for Simulator/Localmap_racing",
+    "Untitled 1.md",
     "DailyNotes/2024-03-20.md",
     "Meetings/Meeting Notes 4.md",
     "To do.md",
     "Meetings/Meeting Notes 3.md",
     "Templates/Daily Template.md",
-    "DailyNotes/2024-03-18.md",
-    "DailyNotes/2024-03-15.md",
-    "ROS Commands.md",
-    "uPennLectures/L07 Scan Matching Lab 1.md",
-    "uPennLectures/L07 Scan Matching.md",
-    "DailyNotes/Unformatted Daily.md",
-    "New words and definitions.md",
-    "DailyNotes/2024-03-13.md",
-    "DailyNotes/2024-03-14.md",
-    "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf"
+    "DailyNotes/2024-03-18.md"
   ]
 }

@@ -5,7 +5,11 @@ The paper proposes a method of un-mapped racing algorithms. Various algorithms a
 
 "The primary improvement source is the local map planner’s access to a vehicle dynamics model that can be optimised. The com- parison with global planning approaches showed an average of 3.28% slower lap times, resulting from limited planning horizon around corners and thus reduced speed. C"
 
+## 1) Intro
+- Map based methods are limited to cases where maps can be seen and planned prior to racing. (Classical racing)
+- Mapless method does not require a map but typically has poor performance (Reactive methods and end-to-end neural networks)
 
+- 
 ## Literature
 ### Classical racing
 - Classical racing methods uses perception, planning and control pipeline 
@@ -20,7 +24,13 @@ The paper proposes a method of un-mapped racing algorithms. Various algorithms a
 ## Methodology
 ### A) Local map extraction
 The algorithm ties point data from the lidar together based on the maximum track width to creat track segment. It is also capable of predicting some of the segments, such as a the release after a corner.
-### B) Optimisation planners
+ - Tests that were done:
+	 - Local map extraction
+	 - Racing performance
+	 - Computational requirements
+###  B) Optimisation planners here that eu
+-Local map extraction
+
 #### 1) Two stage optimisation planner
 Uses pure pursuit 
 #### 2) Model Predictive Contouring Control (MPCC)

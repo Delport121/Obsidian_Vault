@@ -1,6 +1,4 @@
 ## Scan correlation
-
-
 ##### Particle filter video
 1) Update the weights using measurements
 2) Resample with respect to the weights
