@@ -41,9 +41,9 @@ Expand the current method into a localisation and mapping algorithm
 
 ## Starting steps
 - [x] Study Optimisation-based Control in Unmapped Environments - The Local Map Framework for Autonomous Racing
-	- [ ] Study code in localmap_racing folder
+	- [x] Study code in localmap_racing folder  [completion:: 2024-03-26]
 
-- [ ] Study state estimation theory
+- [x] Study state estimation theory  [completion:: 2024-03-26]
 	- [ ] https://github.com/BDEvan5?tab=repositories
 	- [ ] Roughly be able to recode examples
 	- [ ] Book to read "Probalist robotics"

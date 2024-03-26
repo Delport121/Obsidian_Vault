@@ -1,67 +1,96 @@
 {
   "main": {
-    "id": "071d65eeee679ee7",
+    "id": "0a1324ea5f18b5c8",
     "type": "split",
     "children": [
       {
-        "id": "cb5f35421046f4de",
+        "id": "863b22f6085373ea",
         "type": "tabs",
         "children": [
           {
-            "id": "30f577cc1c89e947",
+            "id": "59fc858020cae4f4",
             "type": "leaf",
             "state": {
               "type": "pdf",
-<<<<<<< Updated upstream
-=======
               "state": {
-                "file": "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf"
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
               }
             }
           },
           {
-            "id": "8ac1b89e18f389b6",
+            "id": "b3539876c0dc4af8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
+              }
+            }
+          },
+          {
+            "id": "f2be5b6c952598d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PocketCube/Pocket cube To Do.md",
+                "file": "Code Notes for Simulator/Localmap_racing/LocalMapPP.py.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "211c0a33a30630a1",
+            "id": "2593ec1193daa522",
             "type": "leaf",
             "state": {
               "type": "markdown",
->>>>>>> Stashed changes
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
+                "file": "Code Notes for Simulator/Localmap_racing/LocalMap.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b7b765ebc7ae439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Notes for Simulator/Localmap_racing/LocalMPCC.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ca15deb204430e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meetings/Meeting Notes 5.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-<<<<<<< Updated upstream
-        ]
-=======
         ],
-        "currentTab": 3
->>>>>>> Stashed changes
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7d668c131575a90c",
+    "id": "0568c0c6bead22da",
     "type": "split",
     "children": [
       {
-        "id": "d75df2059ac05fbb",
+        "id": "ae79f38cac8ec9ea",
         "type": "tabs",
         "children": [
           {
-            "id": "a69c98d6061445b4",
+            "id": "c593536771dfc9a3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,7 +100,7 @@
             }
           },
           {
-            "id": "2a79802d1ae6d6cd",
+            "id": "66b3a6c928b3cb50",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -86,7 +115,7 @@
             }
           },
           {
-            "id": "2235f3cec76834ad",
+            "id": "ccc140b0e0a63743",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,23 +126,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "663f290b2fe1d97e",
+    "id": "a1861349e39a8e85",
     "type": "split",
     "children": [
       {
-        "id": "8577e0192bef6ff3",
+        "id": "e8df7fbe06835e43",
         "type": "tabs",
         "children": [
           {
-            "id": "bb3ebed1a51b82f0",
+            "id": "be7a6f3e0d0ec95f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
+                "file": "Meetings/Meeting Notes 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,19 +154,19 @@
             }
           },
           {
-            "id": "8aca0c5869332018",
+            "id": "cd105d0b3da91396",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
+                "file": "Meetings/Meeting Notes 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e32e7275cf02729c",
+            "id": "1d617a9de0b03f12",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,12 +177,12 @@
             }
           },
           {
-            "id": "55e470b285c4f729",
+            "id": "5e1b8e4be01eb84a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
+                "file": "Meetings/Meeting Notes 5.md"
               }
             }
           }
@@ -166,6 +195,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -174,143 +204,21 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  "floating": {
-    "id": "a949b6df092c1d4c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6cc2b1a469193cc8",
-        "type": "window",
-        "children": [
-          {
-            "id": "1bc551365b6cf9d5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "12d64b836d66f9e1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Paper Notes/High-performance Racing on Unmapped Tracks using Local Maps.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 240,
-        "y": 289,
-        "width": 1440,
-        "height": 961,
-        "maximize": true,
-        "zoom": 0
-      },
-      {
-        "id": "b2f19b28e1a79ae4",
-        "type": "window",
-        "children": [
-          {
-            "id": "df006a0f34412d9d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ae8660c9dcc244c8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Introduction to F1Tenth Research.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2220,
-        "y": 29,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-=======
->>>>>>> Stashed changes
-  "active": "30f577cc1c89e947",
+  "active": "1ca15deb204430e7",
   "lastOpenFiles": [
-=======
-  "active": "211c0a33a30630a1",
-  "lastOpenFiles": [
+    "Meetings/Meeting Notes 4.md",
+    "Meetings/Meeting Notes 5.md",
+    "Introduction to F1Tenth Research.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "DailyNotes/2024-03-26.md",
+    "Code Notes for Simulator/Localmap_racing/LocalReference.py.md",
+    "Code Notes for Simulator/Localmap_racing/LocalMPCC.py.md",
+    "Code Notes for Simulator/Localmap_racing/LocalMap.py.md",
+    "Code Notes for Simulator/Localmap_racing/Untitled.md",
+    "Code Notes for Simulator/Localmap_racing/LocalMapPP.py.md",
+    "Code Notes for Simulator/Localmap_racing/LocalMapGenerator.py.md",
     "PocketCube/Meeting Notes 3.md",
     "PocketCube/Pocket cube To Do.md",
-    "DailyNotes/2024-03-21.md",
-    "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf",
-    "Code Notes for Simulator/Localmap_racing/LocalMap.py.md",
->>>>>>> Stashed changes
-    "Introduction to F1Tenth Research.md",
-    "DailyNotes/2024-03-25.md",
-    "Meetings/Meeting Notes 5.md",
-    "Code Notes for Simulator/Localmap_racing/LocalMap.py.md",
-    "Papers/High performance racing on unmapped tracks using local maps.pdf",
-    "Paper Notes/High-performance Racing on Unmapped Tracks using Local Maps.md",
-    "Papers/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf",
-    "Papers/Minimum curvature trajectory planning and control for an autonomous race car.pdf",
-<<<<<<< Updated upstream
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "ROS Commands.md",
-    "New words and definitions.md",
-    "General Notes.md",
-    "Images/Screenshot from 2024-01-24 16-45-13.png",
-    "Images/Screenshot from 2024-01-24 16-57-44.png",
-    "Images/Screenshot from 2024-01-24 17-07-38.png",
-    "Images/Screenshot from 2024-02-29 11-47-39.png",
-    "Images/Pasted image 20240325095014.png",
-    "DailyNotes/2024-03-21.md",
-    "DailyNotes/Unformatted Daily.md",
-    "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf",
-    "PocketCube/A_Method_for_Validating_CubeSat_Satellite_EPS_Through_Power_Budget_Analysis_Aligned_With_Mission_Requirements.pdf",
-    "PocketCube/Pocket cube To Do.md",
-    "uPennLectures/L022 Raceline optimization.md",
-    "uPennLectures/L010 Pure pursuit.md",
-    "uPennLectures/L09 Particle filters.md",
-    "uPennLectures/L07 Scan Matching Lab 1.md",
-    "uPennLectures/L07 Scan Matching.md",
-    "uPennLectures/L07 Filtering.md",
-    "Images/Pasted image 20240325102332.png",
-    "Images/Pasted image 20240325095917.png",
-    "Images/Pasted image 20240325095043.png",
-    "uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
-    "Code Notes for Simulator/Localmap_racing",
-=======
->>>>>>> Stashed changes
-    "Untitled 1.md",
-    "DailyNotes/2024-03-20.md",
-    "Meetings/Meeting Notes 4.md",
-    "To do.md",
-    "Meetings/Meeting Notes 3.md",
-    "Templates/Daily Template.md",
-<<<<<<< Updated upstream
-    "DailyNotes/2024-03-18.md"
-=======
-    "DailyNotes/2024-03-18.md",
-    "DailyNotes/2024-03-15.md",
-    "ROS Commands.md",
-    "uPennLectures/L07 Scan Matching Lab 1.md",
-    "uPennLectures/L07 Scan Matching.md",
-    "DailyNotes/Unformatted Daily.md",
-    "New words and definitions.md",
-    "DailyNotes/2024-03-13.md",
-    "DailyNotes/2024-03-14.md"
->>>>>>> Stashed changes
+    "DailyNotes/2024-03-25.md"
   ]
 }

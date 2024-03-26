@@ -10,5 +10,4 @@ To do
 - Batteries will be charged through the umbilical
 - GSU through solar inputs
 - How the umbilical power come to the EPS from OBC
-
 ## Comms
