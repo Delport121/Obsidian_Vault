@@ -16,5 +16,8 @@
  - Do some research in regards to where there a gaps in the industry (Such as the fast image processing for racing)
  - Maybe add a lidar to the model and look at nav2? (SLAM stuff since this relates to what I have to do)
 
-
+Slam for ros
+What is my contribution? Keep focus
+Dont try to recode, only if necessary
+Plan for benjamins questions, so he can 
 

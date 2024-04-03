@@ -69,14 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to F1Tenth Research.md",
+                "file": "DailyNotes/2024-04-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a92908b6d5aa0ef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-04-02.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to F1Tenth Research.md",
+                "file": "DailyNotes/2024-04-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to F1Tenth Research.md",
+                "file": "DailyNotes/2024-04-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to F1Tenth Research.md"
+                "file": "DailyNotes/2024-04-02.md"
               }
             }
           }
@@ -204,11 +216,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1ca15deb204430e7",
+  "active": "a92908b6d5aa0ef7",
   "lastOpenFiles": [
+    "DailyNotes/2024-04-01.md",
+    "DailyNotes/2024-04-02.md",
     "Introduction to F1Tenth Racing Research 2024.pdf",
-    "Meetings/Meeting Notes 5.md",
     "Introduction to F1Tenth Research.md",
+    "Meetings/Meeting Notes 5.md",
     "DailyNotes/2024-03-27.md",
     "Meetings/Meeting Notes 4.md",
     "DailyNotes/2024-03-26.md",
