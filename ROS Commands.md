@@ -87,7 +87,7 @@ Then move in the folder directory and  make a src folder
 cd <ros2_ws>/
 mkir src
 ```
-Then build the workspace
+Then build the workspace (Must be in workspace directory )
 ```bash
 colcon build --symlink-install
 ```
@@ -104,13 +104,14 @@ ros2 pkg create <my_py_ppkg> --build-type ament_python --dependencies rclpy
 code .
 ```
 ## Creating a node
+Must be within node directory
 Must add .py to name
 ```bash
 touch <Nodename.py>
 ```
 Making the node executable
 ```bash
-chmod +x 'Nodename.py'
+chmod +x <Nodename.py>
 ```
 # Gazebo
 
