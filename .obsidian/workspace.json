@@ -81,14 +81,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS Commands.md",
+                "file": "PocketCube/Meeting Notes 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a03f5910ed0a718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-04-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS Commands.md",
+                "file": "DailyNotes/2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS Commands.md",
+                "file": "DailyNotes/2024-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS Commands.md"
+                "file": "DailyNotes/2024-04-04.md"
               }
             }
           }
@@ -216,15 +228,20 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a92908b6d5aa0ef7",
+  "active": "4a03f5910ed0a718",
   "lastOpenFiles": [
-    "Meetings/Meeting Notes 3.md",
+    "Introduction to F1Tenth Research.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "DailyNotes/2024-04-04.md",
     "ROS Commands.md",
+    "Holonic systems and control/Jade notes.md",
+    "PocketCube/Meeting Notes 3.md",
+    "PocketCube/Pocket cube To Do.md",
+    "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf",
+    "Meetings/Meeting Notes 5.md",
+    "Meetings/Meeting Notes 3.md",
     "DailyNotes/2024-04-02.md",
     "DailyNotes/2024-04-01.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "Introduction to F1Tenth Research.md",
-    "Meetings/Meeting Notes 5.md",
     "DailyNotes/2024-03-27.md",
     "Meetings/Meeting Notes 4.md",
     "DailyNotes/2024-03-26.md",
@@ -234,8 +251,6 @@
     "Code Notes for Simulator/Localmap_racing/Untitled.md",
     "Code Notes for Simulator/Localmap_racing/LocalMapPP.py.md",
     "Code Notes for Simulator/Localmap_racing/LocalMapGenerator.py.md",
-    "PocketCube/Meeting Notes 3.md",
-    "PocketCube/Pocket cube To Do.md",
     "DailyNotes/2024-03-25.md"
   ]
 }

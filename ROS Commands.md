@@ -1,4 +1,4 @@
-Ros commnands
+ Ros commnands
 
 ros2 pkg create
 When making changes to code in vs - It has to be compiled again
@@ -12,7 +12,7 @@ ro2 run my_py_pkg py_node --ros0args -r __node:=test
 
 
 # Nodes
-```
+```bash
 ros2 run <package_name> <executable>
 ros2 node list
 ros node info <node_name>
