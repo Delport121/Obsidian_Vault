@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-04-09.md",
+                "file": "DailyNotes/2024-04-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-04-09.md",
+                "file": "DailyNotes/2024-04-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-04-09.md",
+                "file": "DailyNotes/2024-04-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-04-09.md"
+                "file": "DailyNotes/2024-04-10.md"
               }
             }
           }
@@ -174,8 +174,9 @@
   },
   "active": "3e225a7cf3c298cc",
   "lastOpenFiles": [
-    "Nav2.md",
     "DailyNotes/2024-04-09.md",
+    "DailyNotes/2024-04-10.md",
+    "Nav2.md",
     "ROS Commands.md",
     "Meetings/Meeting Notes 3.md",
     "Meetings/Meeting Notes 6.md",
