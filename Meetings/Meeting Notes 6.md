@@ -61,3 +61,7 @@ What is my contribution? Keep focus
 Dont try to recode, only if necessary
 Plan for benjamins questions, so he can 
 
+Get the basic stuff working, SLAM and path planning
+Start looking at the gaps in industry or entry points
+Ask ben question
+
