@@ -1,14 +1,5 @@
- Ros commnands
-
-ros2 pkg create
-When making changes to code in vs - It has to be compiled again
-colcon build  --packages-select my_py_pkg
-
-or you can set it up to change as you change it in vs:
-colcon build  --packages-select my_py_pkg --symlik-install
 
 To run two same named nodes:
-ro2 run my_py_pkg py_node --ros0args -r __node:=test
 
 
 # Nodes
@@ -16,7 +7,7 @@ ro2 run my_py_pkg py_node --ros0args -r __node:=test
 ros2 run <package_name> <executable>
 ros2 node list
 ros node info <node_name>
-```
+ros2 run <package> <node> --ros0args -r __node:=<nodename?>```
 # Topics
 ```bash
 rqt_graph
@@ -52,20 +43,33 @@ Ctrl+Shift+W (Close terminal)
 Shift+tab (Reverse tab)
 ```
 
-# Install stuff
-## Setup Ros2
+# Install Ros notes
+#### Setup Ros2
 Do stuff provided on website
 
 You don't want to source for each terminal everytime, thus this command is placed in:
 ```bash
 gedit ~/.bashrc`
 ```
+This open the folder in terminal, but you can add manually to the folder using
+```bash
+gedit ~/.bashrc
+```
 The command:
 ``` bash
 source/opt/ros/foxy/setup.bash
 ```
+#### Configuring environment
+```bash
+echo "export ROS_LOCALHOST_ONLY=1" >> ~/.bashrc
+```
+This command is the as adding the line below to the bashrc folder (Similar to what is done in Setup Ros2)
+```bash
+export ROS_LOCALHOST_ONLY=1
+```
+This ensures that our nodes are not published to eachother in the ESL
 
-## Install ros2 build tool
+#### Install ros2 build tool
 ```bash
 sudo apt install python3-colcon-common-extensions
 ```
@@ -77,7 +81,8 @@ The command:
 ```
 source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash
 ```
-## Creating a workspace
+
+#### Creating a workspace
 Make a folder
 ```bash
 mkdir <ros2_ws>
@@ -88,6 +93,7 @@ cd <ros2_ws>/
 mkir src
 ```
 Then build the workspace (Must be in workspace directory )
+Symlink install allows you to update code in vsCode without having to constantly rebuild
 ```bash
 colcon build --symlink-install
 ```
@@ -103,6 +109,15 @@ cd ros2_ws/src
 ros2 pkg create <my_py_ppkg> --build-type ament_python --dependencies rclpy
 code .
 ```
+## Building packages
+```bash
+colcon build  --packages-select my_py_pkg
+```
+or you can set it up to change as you change it in vs:
+```bash
+colcon build  --packages-select my_py_pkg --symlink-install
+```
+
 ## Creating a node
 Must be within node directory
 Must add .py to name
