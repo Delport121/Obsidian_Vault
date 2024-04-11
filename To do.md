@@ -1,15 +1,31 @@
-- [ ] Oefen program
-- [x] Organise the files  [completion:: 2024-03-12]
-- [ ] Reset windows
-- [x] Get diary book  [completion:: 2024-02-28]
-- [ ] Look at garmin watch
-- [ ] Music
-- [ ] Leetcode
-- [ ] Get cracked version of FL studio
+## Admin
+- [ ] Pay fees
+- [ ] Deliver wine to charl
 - [ ] Study how to take notes of academic papers
-- [x] Look at deans Skripsie  [completion:: 2024-02-28]
-- [x] Up typespeed  [completion:: 2024-03-12]
+## Personal
+
+- [ ] Exercise Program
+- [ ] Get cracked version of FL studio
+- [ ] Music
+## To get
+
+- [ ] Get dog blanket for bike in car
+- [ ] Get new Jean
+- [ ] Get water pack
+- [ ] Get garmin watch
 - [ ] Get table at home
+## Later on or low priority
+- [ ] Reset windows
+- [ ] Leetcode
+
+
+
+
+
+
+
+
+
 
 Calendar Events
 

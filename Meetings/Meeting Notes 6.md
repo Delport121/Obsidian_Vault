@@ -63,5 +63,5 @@ Plan for benjamins questions, so he can
 
 Get the basic stuff working, SLAM and path planning
 Start looking at the gaps in industry or entry points
-Ask ben question
+Ask ben questions
 

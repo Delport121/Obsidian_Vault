@@ -1,47 +1,19 @@
 {
   "main": {
-    "id": "d5bd3ad9c2a0b5e8",
+    "id": "3bf72dab319980bc",
     "type": "split",
     "children": [
       {
-        "id": "f7128612a23bcd09",
+        "id": "ea73e0ad3fed8d2d",
         "type": "tabs",
         "children": [
           {
-<<<<<<< Updated upstream
-            "id": "4a03f5910ed0a718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meetings/Meeting Notes 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e225a7cf3c298cc",
+            "id": "0696eefc26305d13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DailyNotes/2024-04-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1b918d8de40d4d8",
-=======
-            "id": "2e0cc71fae295675",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meetings/Meeting Notes 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d6c6c7dee8cc9d27",
+    "id": "fdb5a9cb7772af66",
     "type": "split",
     "children": [
       {
-        "id": "928d9438f1d5610f",
+        "id": "0e93f90660a2b81c",
         "type": "tabs",
         "children": [
           {
-            "id": "98f65310ecaaa16c",
+            "id": "9a368a9c896c4959",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,7 +43,7 @@
             }
           },
           {
-            "id": "f25528ab8ff5aa0b",
+            "id": "4d03dff2c5687143",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -86,7 +58,7 @@
             }
           },
           {
-            "id": "3655d8f0396bbd87",
+            "id": "6843efe1e9e4673c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -100,24 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "fe43662308cea6e3",
+    "id": "b0bb31ecdb244074",
     "type": "split",
     "children": [
       {
-        "id": "c5c1738926a64503",
+        "id": "8ba1b43d69510122",
         "type": "tabs",
         "children": [
           {
-            "id": "941197aeb6c7a92a",
+            "id": "98d962affd914097",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
                 "file": "DailyNotes/2024-04-10.md",
-=======
-                "file": "Meetings/Meeting Notes 6.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,23 +97,19 @@
             }
           },
           {
-            "id": "27ad0d1e8a16f90e",
+            "id": "db07265a57d40d09",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
                 "file": "DailyNotes/2024-04-10.md",
-=======
-                "file": "Meetings/Meeting Notes 6.md",
->>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ccd36870d80fd410",
+            "id": "25254baa00783e09",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -156,16 +120,12 @@
             }
           },
           {
-            "id": "bd43f597f4357bf0",
+            "id": "465d2bd80611fef0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
                 "file": "DailyNotes/2024-04-10.md"
-=======
-                "file": "Meetings/Meeting Notes 6.md"
->>>>>>> Stashed changes
               }
             }
           }
@@ -178,7 +138,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,37 +146,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e0cc71fae295675",
+  "active": "0696eefc26305d13",
   "lastOpenFiles": [
-    "DailyNotes/2024-04-09.md",
-<<<<<<< Updated upstream
-    "DailyNotes/2024-04-10.md",
-    "Nav2.md",
-    "ROS Commands.md",
-    "Meetings/Meeting Notes 3.md",
-    "Meetings/Meeting Notes 6.md",
-    "Meetings/Meeting Notes 5.md",
-    "Meetings/Meeting Notes 4.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "Introduction to F1Tenth Research.md",
-    "DailyNotes/2024-04-08.md",
-    "Papers/sensors-21-00438.pdf",
-    "Papers/sensors-21-00438.pdf.crdownload",
-    "Meetings/Meeting notes.md",
-    "Calendar/(Every W) Supervisor meeting.md",
     "General Notes.md",
-    "DailyNotes/2024-04-04.md",
-    "PocketCube/Meeting Notes 3.md",
-    "DailyNotes/2024-04-01.md",
-    "Code Notes for Simulator/Localmap_racing/LocalMapPP.py.md",
-    "Code Notes for Simulator/Localmap_racing/LocalMPCC.py.md",
-    "Code Notes for Simulator/Localmap_racing/LocalMap.py.md",
-    "Holonic systems and control/Jade notes.md",
+    "DailyNotes/2024-04-10.md",
+    "Meetings/Meeting Notes 5.md",
+    "Meetings/Meeting Notes 6.md",
+    "To do.md",
+    "Templates/Daily Template.md",
+    "DailyNotes/2024-04-11.md",
     "PocketCube/Pocket cube To Do.md",
-=======
->>>>>>> Stashed changes
-    "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "Introduction to F1Tenth Research.md"
+    "PocketCube/A_Method_for_Validating_CubeSat_Satellite_EPS_Through_Power_Budget_Analysis_Aligned_With_Mission_Requirements.pdf",
+    "DailyNotes/2024-01-28.md",
+    "DailyNotes/DailyNotes archive/2024-02-29.md",
+    "DailyNotes/DailyNotes archive/2024-02-28.md",
+    "DailyNotes/DailyNotes archive/2024-02-26.md",
+    "DailyNotes/DailyNotes archive/2024-02-22.md",
+    "DailyNotes/DailyNotes archive/2024-02-21.md",
+    "DailyNotes/DailyNotes archive/2024-02-20.md",
+    "DailyNotes/DailyNotes archive/2024-02-19.md",
+    "DailyNotes/DailyNotes archive/2024-02-15.md",
+    "DailyNotes/DailyNotes archive/2024-02-14.md",
+    "DailyNotes/DailyNotes archive/2024-02-13.md",
+    "DailyNotes/DailyNotes archive/2024-02-12.md",
+    "DailyNotes/DailyNotes archive/2024-02-08.md",
+    "DailyNotes/DailyNotes archive/2024-02-07.md",
+    "DailyNotes/DailyNotes archive/2024-02-06.md",
+    "DailyNotes/DailyNotes archive/2024-02-05.md",
+    "DailyNotes/DailyNotes archive/2024-02-02.md",
+    "DailyNotes/DailyNotes archive/2024-02-01.md",
+    "DailyNotes/DailyNotes archive",
+    "Images/Pasted image 20240313121230.png",
+    "Images/Pasted image 20240313132847.png",
+    "Images/Pasted image 20240313121023.png",
+    "Images/Pasted image 20240313115622.png",
+    "Images/Pasted image 20240313111906.png",
+    "Images/Pasted image 20240305170218.png",
+    "Images/Pasted image 20240215122432.png",
+    "Images/Pasted image 20240215122347.png",
+    "Images/Pasted image 20240207114937.png",
+    "Images/Pasted image 20240129094651.png",
+    "Untitled.canvas"
   ]
 }
