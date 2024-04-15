@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PocketCube/General stuff.md",
+                "file": "Holonic systems and control/Jade notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PocketCube/General stuff.md",
+                "file": "Holonic systems and control/Jade notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PocketCube/General stuff.md",
+                "file": "Holonic systems and control/Jade notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PocketCube/General stuff.md"
+                "file": "Holonic systems and control/Jade notes.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "078891254105d356",
   "lastOpenFiles": [
-    "PocketCube/Pocket cube To Do.md",
-    "PocketCube/General stuff.md",
     "DailyNotes/2024-04-11.md",
+    "PocketCube/General stuff.md",
+    "PocketCube/Pocket cube To Do.md",
     "SLAM.md",
     "Introduction to F1Tenth Racing Research 2024.pdf",
     "Introduction to F1Tenth Research.md",
