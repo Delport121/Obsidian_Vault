@@ -1,0 +1,3 @@
+- [ ] Finish and submit R2
+- [ ] Finish coin sorter report
+- [ ] Acquisitions

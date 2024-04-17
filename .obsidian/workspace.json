@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "General Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1225c39f9e2ac602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Meetings/Meeting Notes 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "074eb920c631e101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2024-04-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meetings/Meeting Notes 7.md",
+                "file": "DailyNotes/2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meetings/Meeting Notes 7.md",
+                "file": "DailyNotes/2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meetings/Meeting Notes 7.md"
+                "file": "DailyNotes/2024-04-16.md"
               }
             }
           }
@@ -158,21 +183,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db96d06faec52e1f",
+  "active": "074eb920c631e101",
   "lastOpenFiles": [
-    "DailyNotes/2024-04-16.md",
-    "Meetings/Meeting Notes 7.md",
-    "To do.md",
-    "KalmanFilterNotes.pdf",
-    "New words and definitions.md",
     "DailyNotes/2024-04-15.md",
+    "Meetings/Week 8.md",
+    "To do.md",
+    "Meetings/Meeting Notes 7.md",
+    "DailyNotes/2024-04-16.md",
+    "Topics of interest.md",
+    "Meetings/Meeting Notes 6.md",
+    "General Notes.md",
+    "Introduction to F1Tenth Research.md",
+    "KalmanFilterNotes.pdf",
+    "Nav2.md",
+    "New words and definitions.md",
+    "ROS Commands.md",
+    "SLAM.md",
+    "Meetings/Meeting Notes 4.md",
     "Papers/sensors-21-00438.pdf",
     "Papers/Minimum curvature trajectory planning and control for an autonomous race car.pdf",
     "Papers/High performance racing on unmapped tracks using local maps.pdf",
     "Papers/Fast_and_Accurate_The_Perception_System_of_a_Formula_Student_Driverless_Car.pdf",
     "Papers/AMurdoch_Thesis.pdf",
     "Papers/Accurate_Mapping_and_Planning_for_Autonomous_Racing.pdf",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "Introduction to F1Tenth Research.md"
+    "Introduction to F1Tenth Racing Research 2024.pdf"
   ]
 }

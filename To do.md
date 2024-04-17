@@ -2,12 +2,10 @@
 - [ ] Deliver wine to charl
 - [ ] Study how to take notes of academic papers
 ## Personal
-
 - [ ] Exercise Program
 - [ ] Get cracked version of FL studio
 - [ ] Music
 ## To get
-
 - [ ] Get dog blanket for bike in car
 - [ ] Get water pack
 - [ ] Get garmin watch
