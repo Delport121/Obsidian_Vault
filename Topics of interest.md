@@ -1,3 +1,4 @@
 - Autorally
 - Wireframe mapping
 - Markov localisation
+- ![[Pasted image 20240417132242.png|500]]

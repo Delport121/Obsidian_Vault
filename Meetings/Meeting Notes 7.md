@@ -32,6 +32,7 @@ This seemed to work, but it does not make sense why it would cause an issue. I w
 
 # Meeting questions
 - Apologies for missing journal club again
+- Task tracker for aquasitions
 
 ## What have I done
 - Looked at SLAM once again (Specifically the different types)
@@ -42,11 +43,13 @@ This seemed to work, but it does not make sense why it would cause an issue. I w
 ## Plan for next week:
 - [ ] Lectures Thursday and Friday (Its about Kalman filters, hopefully its worthwhile)
 - [ ] Do the assignments in Ben's repo?
+      Unfortunately not possible since it is incomplete
 - [ ] I am looking to implement simple algorithms of the particle filter and Slam for a fundamental understanding.  I am finding it rather difficult to jump directly into the F1tenh Gym. This may take some time though
 - [ ] Continue research in regards to where there a gaps in the industry (Such as the fast image processing for racing)
 	- [ ] Look at linkdin saves posts
 	- [x] Look at bookmarks  [completion:: 2024-04-16]
 - [ ] I want to mess with ros more and perhaps take a from scratch approach, so I do not run into issues later on (Lidar etc)
 - [ ] Setup latex template for note taking aspect of thesis (Remember Altus send something)
+- [ ] Chapter outline for a direction to discuss objectives. This is to brake down the masters into smaller problems
 
 What is my contribution? Keep focus
