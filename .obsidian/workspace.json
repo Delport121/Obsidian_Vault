@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics of interest.md",
+                "file": "DailyNotes/2024-04-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics of interest.md",
+                "file": "DailyNotes/2024-04-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics of interest.md",
+                "file": "DailyNotes/2024-04-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics of interest.md"
+                "file": "DailyNotes/2024-04-19.md"
               }
             }
           }
@@ -207,21 +207,23 @@
   },
   "active": "901547a5553071dc",
   "lastOpenFiles": [
+    "DailyNotes/2024-04-18.md",
+    "DailyNotes/2024-04-19.md",
+    "DailyNotes/2024-04-17.md",
+    "Meetings/Meeting Notes 7.md",
+    "Meetings/Week 8.md",
+    "Topics of interest.md",
     "Pasted image 20240417132242.png",
     "Articulated robotics/10 Ros concepts to know.md",
     "Articulated robotics/Setting up network for Ros.md",
     "Articulated robotics/Untitled",
     "Articulated robotics/Five things you need before starting ROS.md",
     "Papers/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf",
-    "Meetings/Meeting Notes 7.md",
     "Articulated robotics",
-    "Meetings/Week 8.md",
-    "DailyNotes/2024-04-17.md",
     "SLAM.md",
     "DailyNotes/2024-04-16.md",
     "DailyNotes/2024-04-15.md",
     "To do.md",
-    "Topics of interest.md",
     "Meetings/Meeting Notes 6.md",
     "General Notes.md",
     "Introduction to F1Tenth Research.md",

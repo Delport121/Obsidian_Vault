@@ -53,3 +53,4 @@ This seemed to work, but it does not make sense why it would cause an issue. I w
 - [ ] Chapter outline for a direction to discuss objectives. This is to brake down the masters into smaller problems
 
 What is my contribution? Keep focus
+Look on research on autorally, what they do etc
