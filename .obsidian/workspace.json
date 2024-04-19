@@ -59,7 +59,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "DailyNotes/2024-04-19.md",
+=======
+                "file": "Meetings/Meeting Notes 7.md",
+>>>>>>> e35d217f6c443e51e100b9aec68255db6b3352ba
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +148,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "DailyNotes/2024-04-19.md",
+=======
+                "file": "Meetings/Meeting Notes 7.md",
+>>>>>>> e35d217f6c443e51e100b9aec68255db6b3352ba
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +169,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "DailyNotes/2024-04-19.md",
+=======
+                "file": "Meetings/Meeting Notes 7.md",
+>>>>>>> e35d217f6c443e51e100b9aec68255db6b3352ba
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "DailyNotes/2024-04-19.md"
+=======
+                "file": "Meetings/Meeting Notes 7.md"
+>>>>>>> e35d217f6c443e51e100b9aec68255db6b3352ba
               }
             }
           }
@@ -207,11 +223,17 @@
   },
   "active": "901547a5553071dc",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "DailyNotes/2024-04-18.md",
     "DailyNotes/2024-04-19.md",
     "DailyNotes/2024-04-17.md",
     "Meetings/Meeting Notes 7.md",
     "Meetings/Week 8.md",
+=======
+    "DailyNotes/2024-04-17.md",
+    "Meetings/Week 8.md",
+    "Meetings/Meeting Notes 7.md",
+>>>>>>> e35d217f6c443e51e100b9aec68255db6b3352ba
     "Topics of interest.md",
     "Pasted image 20240417132242.png",
     "Articulated robotics/10 Ros concepts to know.md",

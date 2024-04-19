@@ -42,8 +42,8 @@ This seemed to work, but it does not make sense why it would cause an issue. I w
 - Find something that peaked my interest regarding autonoums rally racing. It has a ros repository but the setup for this will likely be tedious once again.
 ## Plan for next week:
 - [ ] Lectures Thursday and Friday (Its about Kalman filters, hopefully its worthwhile)
-- [ ] Do the assignments in Ben's repo?
-      Unfortunately not possible since it is incomplete
+- [x] Do the assignments in Ben's repo?  [completion:: 2024-04-17]
+      Unfortunately not possible since it is incomplete, but the theory remains usefull
 - [ ] I am looking to implement simple algorithms of the particle filter and Slam for a fundamental understanding.  I am finding it rather difficult to jump directly into the F1tenh Gym. This may take some time though
 - [ ] Continue research in regards to where there a gaps in the industry (Such as the fast image processing for racing)
 	- [ ] Look at linkdin saves posts
