@@ -41,7 +41,7 @@ This seemed to work, but it does not make sense why it would cause an issue. I w
 - I had to go through Bens stuff again to understand the sensor fusion and the different filter. I am finding it rather difficult to understand the algorithms
 - Find something that peaked my interest regarding autonoums rally racing. It has a ros repository but the setup for this will likely be tedious once again.
 ## Plan for next week:
-- [ ] Lectures Thursday and Friday (Its about Kalman filters, hopefully its worthwhile)
+- [x] Lectures Thursday and Friday (Its about Kalman filters, hopefully its worthwhile)  [completion:: 2024-04-21]
 - [x] Do the assignments in Ben's repo?  [completion:: 2024-04-17]
       Unfortunately not possible since it is incomplete, but the theory remains usefull
 - [ ] I am looking to implement simple algorithms of the particle filter and Slam for a fundamental understanding.  I am finding it rather difficult to jump directly into the F1tenh Gym. This may take some time though
