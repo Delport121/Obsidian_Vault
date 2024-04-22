@@ -11,6 +11,26 @@
             "id": "51e9a5831276eb42",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
+              }
+            }
+          },
+          {
+            "id": "3ab05834c8853dbc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Papers/AMurdoch_Thesis.pdf"
+              }
+            }
+          },
+          {
+            "id": "75b5f293e2976282",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "DailyNotes/2024-04-22.md",
@@ -19,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,11 +167,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51e9a5831276eb42",
+  "active": "75b5f293e2976282",
   "lastOpenFiles": [
-    "DailyNotes/2024-04-19.md",
-    "DailyNotes/2024-04-22.md",
     "Meetings/Meeting Notes 7.md",
-    "Meetings/Week 8.md"
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "Introduction to F1Tenth Research.md",
+    "General research 22-04.md",
+    "General Notes.md",
+    "ROS Commands.md",
+    "Meetings/Week 8.md",
+    "DailyNotes/2024-04-22.md",
+    "Papers/machines-11-00048-v2.pdf",
+    "Papers/machines-11-00048-v2.pdf.crdownload",
+    "Papers/Safe_High-Performance_Autonomous_Off-Road_Driving_Using_Covariance_Steering_Stochastic_Model_Predictive_Control.pdf",
+    "Papers/Safe_High-Performance_Autonomous_Off-Road_Driving_Using_Covariance_Steering_Stochastic_Model_Predictive_Control.pdf.crdownload",
+    "Papers/AMurdoch_Thesis.pdf",
+    "Latex setup.md",
+    "KalmanFilterNotes.pdf",
+    "Nav2.md",
+    "Topics of interest.md",
+    "To do.md",
+    "SLAM.md",
+    "Images/Pasted image 20240417132242.png",
+    "DailyNotes/2024-04-19.md"
   ]
 }

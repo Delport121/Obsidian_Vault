@@ -45,12 +45,14 @@ This seemed to work, but it does not make sense why it would cause an issue. I w
 - [x] Do the assignments in Ben's repo?  [completion:: 2024-04-17]
       Unfortunately not possible since it is incomplete, but the theory remains usefull
 - [ ] I am looking to implement simple algorithms of the particle filter and Slam for a fundamental understanding.  I am finding it rather difficult to jump directly into the F1tenh Gym. This may take some time though
-- [ ] Continue research in regards to where there a gaps in the industry (Such as the fast image processing for racing)
-	- [ ] Look at linkdin saves posts
+- [x] Continue research in regards to where there a gaps in the industry (Such as the fast image processing for racing)  [completion:: 2024-04-22]
+	- [x] Look at linkdin saves posts  [completion:: 2024-04-22]
 	- [x] Look at bookmarks  [completion:: 2024-04-16]
 - [ ] I want to mess with ros more and perhaps take a from scratch approach, so I do not run into issues later on (Lidar etc)
-- [ ] Setup latex template for note taking aspect of thesis (Remember Altus send something)
+- [x] Setup latex template for note taking aspect of thesis (Remember Altus send something)  [completion:: 2024-04-22]
 - [ ] Chapter outline for a direction to discuss objectives. This is to brake down the masters into smaller problems
+- [x] Understand particle filter  [completion:: 2024-04-22]
+	- Probalist robotics helped with finally understanding it
 
 What is my contribution? Keep focus
 Look on research on autorally, what they do etc

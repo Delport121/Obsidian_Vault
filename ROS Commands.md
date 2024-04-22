@@ -43,6 +43,12 @@ Ctrl+Shift+W (Close terminal)
 Shift+tab (Reverse tab)
 ```
 
+# VsCode shortcuts
+```
+Command Palette (Ctrl+Shift+P)
+		auto format python (Ctrl+Shift+I)
+```
+
 # Install Ros notes
 #### Setup Ros2
 Do stuff provided on website
