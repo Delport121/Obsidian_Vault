@@ -50,7 +50,7 @@ This seemed to work, but it does not make sense why it would cause an issue. I w
 	- [x] Look at bookmarks  [completion:: 2024-04-16]
 - [ ] I want to mess with ros more and perhaps take a from scratch approach, so I do not run into issues later on (Lidar etc)
 - [x] Setup latex template for note taking aspect of thesis (Remember Altus send something)  [completion:: 2024-04-22]
-- [ ] Chapter outline for a direction to discuss objectives. This is to brake down the masters into smaller problems
+- [x] Chapter outline for a direction to discuss objectives. This is to brake down the masters into smaller problems  [completion:: 2024-04-23]
 - [x] Understand particle filter  [completion:: 2024-04-22]
 	- Probalist robotics helped with finally understanding it
 
