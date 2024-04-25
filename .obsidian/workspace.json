@@ -33,7 +33,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "DailyNotes/2024-04-24.md",
+=======
+                "file": "Meetings/Meeting Notes 3.md",
+>>>>>>> 3fcb445a07a8422965712dc806733adc35fb66a5
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +110,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "DailyNotes/2024-04-24.md",
+=======
+                "file": "Meetings/Meeting Notes 3.md",
+>>>>>>> 3fcb445a07a8422965712dc806733adc35fb66a5
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +131,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "DailyNotes/2024-04-24.md",
+=======
+                "file": "Meetings/Meeting Notes 3.md",
+>>>>>>> 3fcb445a07a8422965712dc806733adc35fb66a5
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "DailyNotes/2024-04-24.md"
+=======
+                "file": "Meetings/Meeting Notes 3.md"
+>>>>>>> 3fcb445a07a8422965712dc806733adc35fb66a5
               }
             }
           }
@@ -169,16 +185,24 @@
   },
   "active": "75b5f293e2976282",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "Running Imimg's ros.md",
+    "Meetings/Meeting Notes 3.md",
+    "Meetings/Meeting Notes 2.md",
+    "Meetings/Meeting Notes 4.md",
+    "Meetings/Meeting Notes 5.md",
+    "Meetings/Meeting Notes 6.md",
+    "Meetings/Meeting Notes 7.md",
+>>>>>>> 3fcb445a07a8422965712dc806733adc35fb66a5
     "Meetings/Meeting Notes 8.md",
     "DailyNotes/2024-04-24.md",
     "General research 22-04.md",
     "General Notes.md",
-    "Meetings/Meeting Notes 7.md",
     "Meetings/Week 8.md",
     "DailyNotes/2024-04-22.md",
     "Papers/AMurdoch_Thesis.pdf",
     "Introduction to F1Tenth Racing Research 2024.pdf",
-    "Meetings/Meeting Notes 6.md",
     "Introduction to F1Tenth Research.md",
     "ROS Commands.md",
     "Papers/machines-11-00048-v2.pdf",
