@@ -1,64 +1,39 @@
 {
   "main": {
-    "id": "26284f570446b1c7",
+    "id": "c728886592abbcd1",
     "type": "split",
     "children": [
       {
-        "id": "d479e18f343b6b60",
+        "id": "51d6653240f05536",
         "type": "tabs",
         "children": [
           {
-            "id": "51e9a5831276eb42",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
-              }
-            }
-          },
-          {
-            "id": "3ab05834c8853dbc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Papers/AMurdoch_Thesis.pdf"
-              }
-            }
-          },
-          {
-            "id": "75b5f293e2976282",
+            "id": "369a7e61b93aa738",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "DailyNotes/2024-04-24.md",
-=======
-                "file": "Meetings/Meeting Notes 3.md",
->>>>>>> 3fcb445a07a8422965712dc806733adc35fb66a5
+                "file": "General research 22-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0991c0cd59a26920",
+    "id": "efd6cfe80c57ccb1",
     "type": "split",
     "children": [
       {
-        "id": "5156d7587a2c6ba2",
+        "id": "5eba4922b569b8ee",
         "type": "tabs",
         "children": [
           {
-            "id": "38563f15b8c61a7b",
+            "id": "4fb6c388f2a4b345",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +43,7 @@
             }
           },
           {
-            "id": "b9669e366cb56de6",
+            "id": "ad59ab00ca25e13b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "21d408c3d6b3ee1d",
+            "id": "955e395d8b4a0fc1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,24 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "146e3b4b82bd4d90",
+    "id": "2ab7b2d37cf8184a",
     "type": "split",
     "children": [
       {
-        "id": "0ad0f972c5b3f0bc",
+        "id": "6fe1e462a90518f9",
         "type": "tabs",
         "children": [
           {
-            "id": "dc2a9c0593eced38",
+            "id": "787b6e802d7acf9d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "DailyNotes/2024-04-24.md",
-=======
-                "file": "Meetings/Meeting Notes 3.md",
->>>>>>> 3fcb445a07a8422965712dc806733adc35fb66a5
+                "file": "General research 22-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,23 +97,19 @@
             }
           },
           {
-            "id": "9abc458ad282adb6",
+            "id": "33df3420c33b26fb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "DailyNotes/2024-04-24.md",
-=======
-                "file": "Meetings/Meeting Notes 3.md",
->>>>>>> 3fcb445a07a8422965712dc806733adc35fb66a5
+                "file": "General research 22-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8b325a49edba6641",
+            "id": "8b3b67edd2bbf674",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,16 +120,12 @@
             }
           },
           {
-            "id": "0cd0b864dc7808ef",
+            "id": "c5aa6921dd80a37a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "DailyNotes/2024-04-24.md"
-=======
-                "file": "Meetings/Meeting Notes 3.md"
->>>>>>> 3fcb445a07a8422965712dc806733adc35fb66a5
+                "file": "General research 22-04.md"
               }
             }
           }
@@ -183,39 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75b5f293e2976282",
+  "active": "369a7e61b93aa738",
   "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-    "Running Imimg's ros.md",
-    "Meetings/Meeting Notes 3.md",
-    "Meetings/Meeting Notes 2.md",
-    "Meetings/Meeting Notes 4.md",
-    "Meetings/Meeting Notes 5.md",
-    "Meetings/Meeting Notes 6.md",
-    "Meetings/Meeting Notes 7.md",
->>>>>>> 3fcb445a07a8422965712dc806733adc35fb66a5
-    "Meetings/Meeting Notes 8.md",
-    "DailyNotes/2024-04-24.md",
-    "General research 22-04.md",
-    "General Notes.md",
-    "Meetings/Week 8.md",
-    "DailyNotes/2024-04-22.md",
-    "Papers/AMurdoch_Thesis.pdf",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "Introduction to F1Tenth Research.md",
-    "ROS Commands.md",
-    "Papers/machines-11-00048-v2.pdf",
-    "Papers/machines-11-00048-v2.pdf.crdownload",
-    "Papers/Safe_High-Performance_Autonomous_Off-Road_Driving_Using_Covariance_Steering_Stochastic_Model_Predictive_Control.pdf",
-    "Papers/Safe_High-Performance_Autonomous_Off-Road_Driving_Using_Covariance_Steering_Stochastic_Model_Predictive_Control.pdf.crdownload",
-    "Latex setup.md",
-    "KalmanFilterNotes.pdf",
-    "Nav2.md",
-    "Topics of interest.md",
-    "To do.md",
-    "SLAM.md",
-    "Images/Pasted image 20240417132242.png",
-    "DailyNotes/2024-04-19.md"
+    "DailyNotes/2024-04-25.md",
+    "Meetings/Meeting Notes 8.md"
   ]
 }

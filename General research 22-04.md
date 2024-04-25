@@ -13,5 +13,5 @@ Something that appear to be pushed as well is offroad racing. Saw a few articles
 - The following article suggest a SMPC controller for off road racing
 https://ieeexplore.ieee.org/document/10190183
 
-Another usefull article:
+Another usefull article about robots in agriculture:
 https://www.mdpi.com/2218-6581/13/2/33
