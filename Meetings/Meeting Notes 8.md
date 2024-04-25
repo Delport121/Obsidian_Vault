@@ -38,3 +38,13 @@ Look on research on autorally, what they do etc
 - [ ] Continue with SLAM
 - [ ] Finish the rough simulation for understanding
 - [ ] Later goal
+
+SImulation setup and practical implementation. WHta is the system were wotking o. Simulation 
+
+Designing the algorithm
+	low level features 
+		simulation
+
+Experimentation
+	Contribution chapter instead of result chapter
+		BRIDGINGNTHEgap from sim to real
