@@ -1,21 +1,19 @@
 {
   "main": {
-    "id": "c728886592abbcd1",
+    "id": "b8766fd5d7af3cfc",
     "type": "split",
     "children": [
       {
-        "id": "51d6653240f05536",
+        "id": "7b535b9d2f62aac6",
         "type": "tabs",
         "children": [
           {
-            "id": "369a7e61b93aa738",
+            "id": "55b25e32d2c7645d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "General research 22-04.md",
-                "mode": "source",
-                "source": false
+                "file": "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf"
               }
             }
           }
@@ -25,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "efd6cfe80c57ccb1",
+    "id": "606216fc7702b365",
     "type": "split",
     "children": [
       {
-        "id": "5eba4922b569b8ee",
+        "id": "f11c7273d558977e",
         "type": "tabs",
         "children": [
           {
-            "id": "4fb6c388f2a4b345",
+            "id": "596b02cb421a3ab4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +41,7 @@
             }
           },
           {
-            "id": "ad59ab00ca25e13b",
+            "id": "505731b624732b46",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +56,7 @@
             }
           },
           {
-            "id": "955e395d8b4a0fc1",
+            "id": "9fb196eacd7ea790",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +70,20 @@
     "width": 300
   },
   "right": {
-    "id": "2ab7b2d37cf8184a",
+    "id": "6c10ca7fb7951e7c",
     "type": "split",
     "children": [
       {
-        "id": "6fe1e462a90518f9",
+        "id": "92676c0e847491bc",
         "type": "tabs",
         "children": [
           {
-            "id": "787b6e802d7acf9d",
+            "id": "165844c6a79d9a4b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General research 22-04.md",
+                "file": "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +95,19 @@
             }
           },
           {
-            "id": "33df3420c33b26fb",
+            "id": "6c0fdf80f49fc3a1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General research 22-04.md",
+                "file": "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8b3b67edd2bbf674",
+            "id": "843bf50baaa4f29d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +118,12 @@
             }
           },
           {
-            "id": "c5aa6921dd80a37a",
+            "id": "46bf9a42f101f7cc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "General research 22-04.md"
+                "file": "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf"
               }
             }
           }
@@ -146,9 +144,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "369a7e61b93aa738",
-  "lastOpenFiles": [
-    "DailyNotes/2024-04-25.md",
-    "Meetings/Meeting Notes 8.md"
-  ]
+  "active": "55b25e32d2c7645d",
+  "lastOpenFiles": []
 }
