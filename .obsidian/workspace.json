@@ -11,9 +11,11 @@
             "id": "55b25e32d2c7645d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf"
+                "file": "DailyNotes/2024-04-26.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf",
+                "file": "DailyNotes/2024-04-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf",
+                "file": "DailyNotes/2024-04-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf"
+                "file": "DailyNotes/2024-04-26.md"
               }
             }
           }
@@ -145,5 +147,8 @@
     }
   },
   "active": "55b25e32d2c7645d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf",
+    "DailyNotes/2024-04-26.md"
+  ]
 }
