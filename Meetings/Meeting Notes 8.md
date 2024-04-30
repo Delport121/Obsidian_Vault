@@ -35,8 +35,8 @@ Look on research on autorally, what they do etc
 	- [ ] Model- and Acceleration-based Pursuit Controller for  
 		High-Performance Autonomous Racing
 	- [ ] https://journals.sagepub.com/doi/pdf/10.1177/1729881418755245
-- [ ] Continue with SLAM
-- [ ] Finish the rough simulation for understanding
+- [x] Continue with SLAM  [completion:: 2024-04-30]
+- [x] Finish the rough simulation for understanding  [completion:: 2024-04-30]
 - [ ] Later goal
 
 SImulation setup and practical implementation. WHta is the system were wotking o. Simulation 

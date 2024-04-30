@@ -44,11 +44,11 @@ Expand the current method into a localisation and mapping algorithm
 	- [x] Study code in localmap_racing folder  [completion:: 2024-03-26]
 
 - [x] Study state estimation theory  [completion:: 2024-03-26]
-	- [ ] https://github.com/BDEvan5?tab=repositories
+	- [x] https://github.com/BDEvan5?tab=repositories  [completion:: 2024-04-30]
 	- [ ] Roughly be able to recode examples
 	- [ ] Book to read "Probalist robotics"
 	- [x] F1Tenth lectures on scan matching  [completion:: 2024-03-18]
-	- [ ] Youtube resources
+	- [x] Youtube resources  [completion:: 2024-04-30]
 
 - [ ] Reimplement particle filter for F1Tenth racing
 	- [ ] Experiment to maximise localisation performance
