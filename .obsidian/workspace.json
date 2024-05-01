@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meetings/Meeting Notes 8.md",
+                "file": "Running Imimg's ros.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meetings/Meeting Notes 8.md",
+                "file": "Running Imimg's ros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meetings/Meeting Notes 8.md",
+                "file": "Running Imimg's ros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meetings/Meeting Notes 8.md"
+                "file": "Running Imimg's ros.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "55b25e32d2c7645d",
   "lastOpenFiles": [
-    "DailyNotes/2024-04-30.md",
     "Introduction to F1Tenth Research.md",
+    "KalmanFilterNotes.pdf",
     "Introduction to F1Tenth Racing Research 2024.pdf",
+    "General Notes.md",
+    "General research 22-04.md",
+    "Meetings/Meeting Notes 8.md",
+    "DailyNotes/2024-04-30.md",
     "DailyNotes/2024-04-26.md",
     "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf"
   ]
