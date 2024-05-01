@@ -1,3 +1,0 @@
-- [x] Finish and submit R2  [completion:: 2024-04-23]
-- [x] Finish coin sorter report  [completion:: 2024-04-23]
-- [x] Acquisitions  [completion:: 2024-04-22]

@@ -29,12 +29,13 @@ What is my contribution? Keep focus
 Look on research on autorally, what they do etc
 
 ## Plan for next week
-- [ ] Read a paper or two
+- [x] Read a paper or two  [completion:: 2024-05-01]
 	- [ ] Magic Formula tyre model
 	- [ ] Common Road vehicle
 	- [ ] Model- and Acceleration-based Pursuit Controller for  
 		High-Performance Autonomous Racing
 	- [ ] https://journals.sagepub.com/doi/pdf/10.1177/1729881418755245
+	- [x] Slam Paper  [completion:: 2024-05-01]
 - [x] Continue with SLAM  [completion:: 2024-04-30]
 - [x] Finish the rough simulation for understanding  [completion:: 2024-04-30]
 - [ ] Later goal

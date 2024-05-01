@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meetings/Meeting Notes 8.md",
+                "file": "DailyNotes/2024-05-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meetings/Meeting Notes 8.md",
+                "file": "DailyNotes/2024-05-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meetings/Meeting Notes 8.md",
+                "file": "DailyNotes/2024-05-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meetings/Meeting Notes 8.md"
+                "file": "DailyNotes/2024-05-01.md"
               }
             }
           }
@@ -148,10 +148,16 @@
   },
   "active": "55b25e32d2c7645d",
   "lastOpenFiles": [
+    "Meetings/Meeting Notes 9.md",
+    "Meetings/Meeting Notes 8.md",
+    "DailyNotes/2024-05-01.md",
     "DailyNotes/2024-04-30.md",
     "Introduction to F1Tenth Research.md",
     "Introduction to F1Tenth Racing Research 2024.pdf",
+    "Templates/Daily Template.md",
+    "DailyNotes/2024-04-22.md",
     "DailyNotes/2024-04-26.md",
+    "Meetings/Week 8.md",
     "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf"
   ]
 }
