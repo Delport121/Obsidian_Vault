@@ -3,7 +3,7 @@
 Not much
 
 ## Ben questions
-
+Bens thesis?
 
 ## What have I done
 - [x] Completed the slam thing  [completion:: 2024-05-01]
