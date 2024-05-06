@@ -80,3 +80,22 @@ ls.ranges = [float(range) for range in ranges]
 
 self.pub_fake_scan.publish(ls)
 ```
+
+# 5. Usage with Imings pure pursuit
+In terminal 1:
+```bash
+ros2 launch f1tenth_gym_ros gym_bridge_launch.py
+```
+In terminal 2:
+```bash
+ros2 launch particle_filter localize_launch.py
+```
+In terminal 3:
+Navigate to correct directory:
+```bash
+cd Ros2PP/src/my_waypoint_follower/my_waypoint_follower/
+```
+The run:
+```bash
+ros2 run my_waypoint_follower purePursuit_ros
+```

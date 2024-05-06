@@ -17,6 +17,18 @@ Bens thesis?
 	- [ ] https://journals.sagepub.com/doi/pdf/10.1177/1729881418755245
 	- [x] Slam Paper  [completion:: 2024-05-01]
 
+Thursday:
+- Holonics
+Friday:
+- Demi 
+- Pocket cube
+- Upgraded PC
+Monday
+- Printed journal club papers
+- Went through F1tenth gym particle filter
+- Ros with Iming's pure pursuit and particle filter
+- Refresh on Ben's paper and the goal
+
 ## Plans for next week
 - [ ] Reimplement particle filter for F1Tenth racing
 	- [ ] Experiment to maximise localisation performance

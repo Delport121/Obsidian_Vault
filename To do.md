@@ -1,6 +1,7 @@
 ## Admin
 - [ ] Deliver wine to charl
 - [ ] Study how to take notes of academic papers
+- [ ] Sheep counting with computer vision
 ## Personal
 - [ ] Exercise Program
 - [ ] Get cracked version of FL studio

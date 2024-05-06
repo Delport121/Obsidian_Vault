@@ -46,7 +46,12 @@ Shift+tab (Reverse tab)
 # VsCode shortcuts
 ```
 Command Palette (Ctrl+Shift+P)
-		auto format python (Ctrl+Shift+I)
+auto format python (Ctrl+Shift+I)
+
+Fold all (Ctrl + K, Ctrl + 0)
+Unfold all (Ctrl + K, Ctrl + J)
+
+See shortcuts (Ctrl + K, Ctrl + S)
 ```
 
 # Install Ros notes

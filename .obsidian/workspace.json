@@ -8,24 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55b25e32d2c7645d",
+            "id": "699b7b441369d9fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Running Imimg's ros.md",
-                "mode": "source",
-                "source": false
+                "file": "Papers/High performance racing on unmapped tracks using local maps.pdf"
               }
             }
           },
           {
-            "id": "699b7b441369d9fb",
+            "id": "7b1018ffcbe30eb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PF.md",
+                "file": "DailyNotes/2024-05-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PF.md",
+                "file": "DailyNotes/2024-05-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PF.md",
+                "file": "DailyNotes/2024-05-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PF.md"
+                "file": "DailyNotes/2024-05-06.md"
               }
             }
           }
@@ -159,19 +157,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "699b7b441369d9fb",
+  "active": "7b1018ffcbe30eb5",
   "lastOpenFiles": [
     "Meetings/Meeting Notes 9.md",
+    "Papers/High performance racing on unmapped tracks using local maps.pdf",
+    "DailyNotes/2024-05-06.md",
     "DailyNotes/2024-05-01.md",
-    "Running Imimg's ros.md",
-    "PF.md",
-    "Introduction to F1Tenth Research.md",
-    "KalmanFilterNotes.pdf",
+    "To do.md",
     "Introduction to F1Tenth Racing Research 2024.pdf",
-    "General Notes.md",
-    "General research 22-04.md",
+    "ROS Notes and Installs/PF for ros install.md",
+    "Meetings/Meeting Notes 3.md",
+    "Meetings/Meeting Notes 4.md",
+    "Meetings/Meeting Notes 5.md",
     "Meetings/Meeting Notes 8.md",
+    "ROS Notes and Installs/ROS Commands.md",
+    "Introduction to F1Tenth Research.md",
+    "ROS Notes and Installs/Nav2.md",
+    "ROS Notes and Installs",
+    "ROS Notes and Installs/Running Imimg's ros.md",
+    "Topics of interest.md",
+    "General Research/SLAM.md",
+    "New words and definitions.md",
+    "General Research/KalmanFilterNotes.pdf",
+    "General Research/General Notes.md",
+    "General Research",
+    "General Research/General research 22-04.md",
     "DailyNotes/2024-04-30.md",
+    "DailyNotes/2024-05-03.md",
     "DailyNotes/2024-04-26.md",
     "PocketCube/23676787_Jeggels_DE_skripsie2023.pdf"
   ]
