@@ -46,7 +46,7 @@ Expand the current method into a localisation and mapping algorithm
 - [x] Study state estimation theory  [completion:: 2024-03-26]
 	- [x] https://github.com/BDEvan5?tab=repositories  [completion:: 2024-04-30]
 	- [ ] Roughly be able to recode examples
-	- [ ] Book to read "Probalist robotics"
+	- [x] Book to read "Probalist robotics"  [completion:: 2024-05-07]
 	- [x] F1Tenth lectures on scan matching  [completion:: 2024-03-18]
 	- [x] Youtube resources  [completion:: 2024-04-30]
 

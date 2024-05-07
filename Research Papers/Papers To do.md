@@ -1,0 +1,12 @@
+- [x] [[Accurate_Mapping_and_Planning_for_Autonomous_Racing.pdf]]  [completion:: 2024-05-07]
+- [x] [[Fast_and_Accurate_The_Perception_System_of_a_Formula_Student_Driverless_Car.pdf]]  [completion:: 2024-05-07]
+- [x] [[ROS_based localization of a race vehicle at highspeed using LIDAR.pdf]]  [completion:: 2024-05-07]
+- [x] [[High performance racing on unmapped tracks using local maps.pdf]]  [completion:: 2024-05-07]
+- [x] [[UnifyingF1TenthRacing.pdf]]  [completion:: 2024-05-07]
+- [x] [[A line segment extraction algorithm using seeded region growing.pdf]]  [completion:: 2024-05-07]
+
+- [ ] [[Safe_High-Performance_Autonomous_Off-Road_Driving_Using_Covariance_Steering_Stochastic_Model_Predictive_Control.pdf]]
+- [ ] [[ForzaETH_RaceStack.pdf]]
+- [ ] [[Recent Advancements in Agriculture Robots.pdf]]
+- [ ] [[Minimum curvature trajectory planning and control for an autonomous race car.pdf]]
+- [ ] [[Particle Filters - A Hands On Tutorial.pdf]]
