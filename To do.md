@@ -6,13 +6,14 @@
 - [ ] Exercise Program
 - [ ] Get cracked version of FL studio
 - [ ] Music
+- [ ] Organise spotify
 ## To get
 - [ ] Get dog blanket for bike in car
 - [ ] Get water pack
 - [ ] Get garmin watch
 ## Later on or low priority
 - [ ] Reset windows
-- [ ] Leetcode
+- [ ] Leetcode?
 
 
 
