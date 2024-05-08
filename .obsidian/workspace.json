@@ -35,7 +35,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf"
+                "file": "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf"
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf",
+                "file": "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf",
+                "file": "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf"
+                "file": "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf"
               }
             }
           }
@@ -169,8 +169,8 @@
   },
   "active": "64285aca58077012",
   "lastOpenFiles": [
-    "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf",
     "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf",
+    "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf",
     "Research Papers/CommonRoad_Vehicle_Models.pdf",
     "Research Papers/Journal_of_Field_Robotics___2023___Betz___TUM_autonomous_motorsport__An_autonomous_racing_software_for_the_Indy_Autonomo.pdf",
     "Research Papers/Localization and Mapping for Robots in Agriculture and Forestry.pdf",
