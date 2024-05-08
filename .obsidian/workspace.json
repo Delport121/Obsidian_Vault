@@ -35,7 +35,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Research Papers/CommonRoad_Vehicle_Models.pdf"
+                "file": "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf"
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Papers/CommonRoad_Vehicle_Models.pdf",
+                "file": "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Papers/CommonRoad_Vehicle_Models.pdf",
+                "file": "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Papers/CommonRoad_Vehicle_Models.pdf"
+                "file": "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf"
               }
             }
           }
@@ -169,17 +169,17 @@
   },
   "active": "64285aca58077012",
   "lastOpenFiles": [
+    "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf",
     "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf",
     "Research Papers/CommonRoad_Vehicle_Models.pdf",
+    "Research Papers/Journal_of_Field_Robotics___2023___Betz___TUM_autonomous_motorsport__An_autonomous_racing_software_for_the_Indy_Autonomo.pdf",
+    "Research Papers/Localization and Mapping for Robots in Agriculture and Forestry.pdf",
     "Research Papers/Paper archive/UnifyingF1TenthRacing.pdf",
     "Research Papers/Paper archive/Safe_High-Performance_Autonomous_Off-Road_Driving_Using_Covariance_Steering_Stochastic_Model_Predictive_Control.pdf",
     "Research Papers/Paper archive/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf",
     "Research Papers/Paper archive/Minimum curvature trajectory planning and control for an autonomous race car.pdf",
     "Research Papers/Paper archive/High performance racing on unmapped tracks using local maps.pdf",
     "Research Papers/Paper archive/ForzaETH_RaceStack.pdf",
-    "Research Papers/Paper archive/Accurate_Mapping_and_Planning_for_Autonomous_Racing.pdf",
-    "Research Papers/Paper archive/A line segment extraction algorithm using seeded region growing.pdf",
-    "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf",
     "Research Papers/Paper Notes/High-performance Racing on Unmapped Tracks using Local Maps.md",
     "ROS Notes and Installs/PF for ros install 1.md",
     "ROS Notes and Installs/PF for ros install.md",
