@@ -33,11 +33,9 @@
             "id": "64285aca58077012",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ROS Notes and Installs/PF for ros install.md",
-                "mode": "source",
-                "source": false
+                "file": "Research Papers/CommonRoad_Vehicle_Models.pdf"
               }
             }
           }
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS Notes and Installs/PF for ros install.md",
+                "file": "Research Papers/CommonRoad_Vehicle_Models.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS Notes and Installs/PF for ros install.md",
+                "file": "Research Papers/CommonRoad_Vehicle_Models.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS Notes and Installs/PF for ros install.md"
+                "file": "Research Papers/CommonRoad_Vehicle_Models.pdf"
               }
             }
           }
@@ -169,29 +167,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "596b02cb421a3ab4",
+  "active": "64285aca58077012",
   "lastOpenFiles": [
+    "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf",
+    "Research Papers/CommonRoad_Vehicle_Models.pdf",
+    "Research Papers/Paper archive/UnifyingF1TenthRacing.pdf",
+    "Research Papers/Paper archive/Safe_High-Performance_Autonomous_Off-Road_Driving_Using_Covariance_Steering_Stochastic_Model_Predictive_Control.pdf",
+    "Research Papers/Paper archive/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf",
+    "Research Papers/Paper archive/Minimum curvature trajectory planning and control for an autonomous race car.pdf",
+    "Research Papers/Paper archive/High performance racing on unmapped tracks using local maps.pdf",
+    "Research Papers/Paper archive/ForzaETH_RaceStack.pdf",
+    "Research Papers/Paper archive/Accurate_Mapping_and_Planning_for_Autonomous_Racing.pdf",
+    "Research Papers/Paper archive/A line segment extraction algorithm using seeded region growing.pdf",
+    "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf",
+    "Research Papers/Paper Notes/High-performance Racing on Unmapped Tracks using Local Maps.md",
     "ROS Notes and Installs/PF for ros install 1.md",
     "ROS Notes and Installs/PF for ros install.md",
     "ROS Notes and Installs/ROS Commands.md",
     "Meetings/Meeting Notes 9.md",
-    "Research Papers/Paper archive/High performance racing on unmapped tracks using local maps.pdf",
-    "Research Papers/Paper archive/Minimum curvature trajectory planning and control for an autonomous race car.pdf",
-    "Research Papers/Journal_of_Field_Robotics___2023___Betz___TUM_autonomous_motorsport__An_autonomous_racing_software_for_the_Indy_Autonomo.pdf",
-    "Research Papers/CommonRoad_Vehicle_Models.pdf",
-    "Research Papers/Model- and Acceleration-based Pursuit Controller for High-Performance Autonomous Racing.pdf",
-    "Research Papers/Localization and Mapping for Robots in Agriculture and Forestry.pdf",
     "Pasted image 20240508103329.png",
     "DailyNotes/2024-05-08.md",
-    "Research Papers/Paper Notes/High-performance Racing on Unmapped Tracks using Local Maps.md",
     "To do.md",
     "ROS Notes and Installs/Running Imimg's ros.md",
     "Meetings/Meeting Notes 8.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
     "DailyNotes/2024-05-07.md",
-    "Research Papers/Paper archive/Particle Filters - A Hands On Tutorial.pdf",
-    "Research Papers/Paper archive/Recent Advancements in Agriculture Robots.pdf",
-    "Research Papers/Paper archive/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf",
     "Introduction to F1Tenth Research.md",
     "Research Papers/Papers To do.md",
     "DailyNotes/2024-04-30.md",
@@ -206,7 +205,6 @@
     "ROS Notes and Installs/Articulated robotics/Five things you need before starting ROS.md",
     "ROS Notes and Installs/Articulated robotics/Setting up network for Ros.md",
     "Holonic systems and control/ANEMONA.md",
-    "Holonic systems and control/Jade notes.md",
-    "DailyNotes/2024-05-06.md"
+    "Holonic systems and control/Jade notes.md"
   ]
 }
