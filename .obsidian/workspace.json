@@ -33,9 +33,11 @@
             "id": "64285aca58077012",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf"
+                "file": "DailyNotes/2024-05-09.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf",
+                "file": "DailyNotes/2024-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf",
+                "file": "DailyNotes/2024-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf"
+                "file": "DailyNotes/2024-05-09.md"
               }
             }
           }
@@ -169,30 +171,30 @@
   },
   "active": "64285aca58077012",
   "lastOpenFiles": [
-    "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf",
-    "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf",
-    "Research Papers/CommonRoad_Vehicle_Models.pdf",
+    "DailyNotes/2024-05-08.md",
+    "DailyNotes/2024-05-09.md",
     "Research Papers/Journal_of_Field_Robotics___2023___Betz___TUM_autonomous_motorsport__An_autonomous_racing_software_for_the_Indy_Autonomo.pdf",
+    "Research Papers/220108117v1.pdf",
+    "Research Papers/s41598_019_49336_1.pdf",
+    "Research Papers/CommonRoad_Vehicle_Models.pdf",
+    "Research Papers/Model- and Acceleration-based Pursuit Controller for High-Performance Autonomous Racing.pdf",
+    "Research Papers/Papers To do.md",
+    "Research Papers/Journal Club/2111.06482.pdf",
+    "Research Papers/Journal Club/1-s2.0-S0921889022001932-main.pdf",
+    "Meetings/Meeting Notes 9.md",
+    "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf",
+    "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf",
     "Research Papers/Localization and Mapping for Robots in Agriculture and Forestry.pdf",
-    "Research Papers/Paper archive/UnifyingF1TenthRacing.pdf",
-    "Research Papers/Paper archive/Safe_High-Performance_Autonomous_Off-Road_Driving_Using_Covariance_Steering_Stochastic_Model_Predictive_Control.pdf",
-    "Research Papers/Paper archive/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf",
-    "Research Papers/Paper archive/Minimum curvature trajectory planning and control for an autonomous race car.pdf",
-    "Research Papers/Paper archive/High performance racing on unmapped tracks using local maps.pdf",
-    "Research Papers/Paper archive/ForzaETH_RaceStack.pdf",
     "Research Papers/Paper Notes/High-performance Racing on Unmapped Tracks using Local Maps.md",
     "ROS Notes and Installs/PF for ros install 1.md",
     "ROS Notes and Installs/PF for ros install.md",
     "ROS Notes and Installs/ROS Commands.md",
-    "Meetings/Meeting Notes 9.md",
     "Pasted image 20240508103329.png",
-    "DailyNotes/2024-05-08.md",
     "To do.md",
     "ROS Notes and Installs/Running Imimg's ros.md",
     "Meetings/Meeting Notes 8.md",
     "DailyNotes/2024-05-07.md",
     "Introduction to F1Tenth Research.md",
-    "Research Papers/Papers To do.md",
     "DailyNotes/2024-04-30.md",
     "New words and definitions.md",
     "General Research/Topics of interest.md",

@@ -62,4 +62,4 @@ Wednesday
 
 ## Meeting Notes
 
-List of goal for the year
+List of goals for the year
