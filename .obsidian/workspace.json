@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-05-09.md",
+                "file": "DailyNotes/2024-05-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-05-09.md",
+                "file": "DailyNotes/2024-05-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-05-09.md",
+                "file": "DailyNotes/2024-05-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-05-09.md"
+                "file": "DailyNotes/2024-05-10.md"
               }
             }
           }
@@ -171,8 +171,9 @@
   },
   "active": "64285aca58077012",
   "lastOpenFiles": [
-    "DailyNotes/2024-05-08.md",
     "DailyNotes/2024-05-09.md",
+    "DailyNotes/2024-05-10.md",
+    "DailyNotes/2024-05-08.md",
     "Research Papers/Journal_of_Field_Robotics___2023___Betz___TUM_autonomous_motorsport__An_autonomous_racing_software_for_the_Indy_Autonomo.pdf",
     "Research Papers/220108117v1.pdf",
     "Research Papers/s41598_019_49336_1.pdf",
@@ -206,7 +207,6 @@
     "ROS Notes and Installs/Articulated robotics/10 Ros concepts to know.md",
     "ROS Notes and Installs/Articulated robotics/Five things you need before starting ROS.md",
     "ROS Notes and Installs/Articulated robotics/Setting up network for Ros.md",
-    "Holonic systems and control/ANEMONA.md",
-    "Holonic systems and control/Jade notes.md"
+    "Holonic systems and control/ANEMONA.md"
   ]
 }
