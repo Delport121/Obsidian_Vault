@@ -42,6 +42,10 @@ Ctrl+Shift+E (Split vertically)
 Ctrl+Shift+W (Close terminal)
 Shift+tab (Reverse tab)
 ```
+# Terminal commands
+```bash
+pwd  (Get working directory)
+```
 
 # VsCode shortcuts
 ```

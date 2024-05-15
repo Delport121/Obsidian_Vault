@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-05-10.md",
+                "file": "Introduction to F1Tenth Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-05-10.md",
+                "file": "Introduction to F1Tenth Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-05-10.md",
+                "file": "Introduction to F1Tenth Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,8 +148,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-05-10.md"
+                "file": "Introduction to F1Tenth Research.md"
               }
+            }
+          },
+          {
+            "id": "18ed4a8da2748299",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -171,8 +179,12 @@
   },
   "active": "64285aca58077012",
   "lastOpenFiles": [
-    "DailyNotes/2024-05-09.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "Introduction to F1Tenth Research.md",
+    "DailyNotes/2024-05-15.md",
     "DailyNotes/2024-05-10.md",
+    "ROS Notes and Installs/ROS Commands.md",
+    "DailyNotes/2024-05-09.md",
     "DailyNotes/2024-05-08.md",
     "Research Papers/Journal_of_Field_Robotics___2023___Betz___TUM_autonomous_motorsport__An_autonomous_racing_software_for_the_Indy_Autonomo.pdf",
     "Research Papers/220108117v1.pdf",
@@ -185,17 +197,14 @@
     "Meetings/Meeting Notes 9.md",
     "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf",
     "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf",
-    "Research Papers/Localization and Mapping for Robots in Agriculture and Forestry.pdf",
     "Research Papers/Paper Notes/High-performance Racing on Unmapped Tracks using Local Maps.md",
     "ROS Notes and Installs/PF for ros install 1.md",
     "ROS Notes and Installs/PF for ros install.md",
-    "ROS Notes and Installs/ROS Commands.md",
     "Pasted image 20240508103329.png",
     "To do.md",
     "ROS Notes and Installs/Running Imimg's ros.md",
     "Meetings/Meeting Notes 8.md",
     "DailyNotes/2024-05-07.md",
-    "Introduction to F1Tenth Research.md",
     "DailyNotes/2024-04-30.md",
     "New words and definitions.md",
     "General Research/Topics of interest.md",
@@ -205,8 +214,6 @@
     "Research Papers/Paper Notes/Andrew's Thesis.md",
     "Research Papers/Paper Notes/Accurate mapping and planning for autonomous racing.md",
     "ROS Notes and Installs/Articulated robotics/10 Ros concepts to know.md",
-    "ROS Notes and Installs/Articulated robotics/Five things you need before starting ROS.md",
-    "ROS Notes and Installs/Articulated robotics/Setting up network for Ros.md",
-    "Holonic systems and control/ANEMONA.md"
+    "ROS Notes and Installs/Articulated robotics/Five things you need before starting ROS.md"
   ]
 }
