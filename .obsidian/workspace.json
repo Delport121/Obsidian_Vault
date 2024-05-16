@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to F1Tenth Research.md",
+                "file": "DailyNotes/2024-05-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to F1Tenth Research.md",
+                "file": "DailyNotes/2024-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to F1Tenth Research.md",
+                "file": "DailyNotes/2024-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to F1Tenth Research.md"
+                "file": "DailyNotes/2024-05-16.md"
               }
             }
           },
@@ -179,11 +179,14 @@
   },
   "active": "64285aca58077012",
   "lastOpenFiles": [
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "Introduction to F1Tenth Research.md",
     "DailyNotes/2024-05-15.md",
-    "DailyNotes/2024-05-10.md",
+    "DailyNotes/2024-05-16.md",
+    "ROS Notes and Installs/Udemy Ros Course.md",
     "ROS Notes and Installs/ROS Commands.md",
+    "ROS Notes and Installs/Running Imimg's ros.md",
+    "Introduction to F1Tenth Research.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "DailyNotes/2024-05-10.md",
     "DailyNotes/2024-05-09.md",
     "DailyNotes/2024-05-08.md",
     "Research Papers/Journal_of_Field_Robotics___2023___Betz___TUM_autonomous_motorsport__An_autonomous_racing_software_for_the_Indy_Autonomo.pdf",
@@ -202,7 +205,6 @@
     "ROS Notes and Installs/PF for ros install.md",
     "Pasted image 20240508103329.png",
     "To do.md",
-    "ROS Notes and Installs/Running Imimg's ros.md",
     "Meetings/Meeting Notes 8.md",
     "DailyNotes/2024-05-07.md",
     "DailyNotes/2024-04-30.md",
@@ -213,7 +215,6 @@
     "Research Papers/Paper Notes/Fast and Accurate- The Perception System of a Formula Student Driverless Car.md",
     "Research Papers/Paper Notes/Andrew's Thesis.md",
     "Research Papers/Paper Notes/Accurate mapping and planning for autonomous racing.md",
-    "ROS Notes and Installs/Articulated robotics/10 Ros concepts to know.md",
-    "ROS Notes and Installs/Articulated robotics/Five things you need before starting ROS.md"
+    "ROS Notes and Installs/Articulated robotics/10 Ros concepts to know.md"
   ]
 }
