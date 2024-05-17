@@ -35,7 +35,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "DailyNotes/2024-05-16.md",
+=======
+                "file": "DailyNotes/2024-05-15.md",
+>>>>>>> f6a7fac59698835e20fbe11e8655d1c3a7c111bc
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +112,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "DailyNotes/2024-05-16.md",
+=======
+                "file": "DailyNotes/2024-05-15.md",
+>>>>>>> f6a7fac59698835e20fbe11e8655d1c3a7c111bc
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +133,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "DailyNotes/2024-05-16.md",
+=======
+                "file": "DailyNotes/2024-05-15.md",
+>>>>>>> f6a7fac59698835e20fbe11e8655d1c3a7c111bc
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "DailyNotes/2024-05-16.md"
+=======
+                "file": "DailyNotes/2024-05-15.md"
+>>>>>>> f6a7fac59698835e20fbe11e8655d1c3a7c111bc
               }
             }
           },
@@ -179,6 +195,11 @@
   },
   "active": "64285aca58077012",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "Introduction to F1Tenth Research.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+>>>>>>> f6a7fac59698835e20fbe11e8655d1c3a7c111bc
     "DailyNotes/2024-05-15.md",
     "DailyNotes/2024-05-16.md",
     "ROS Notes and Installs/Udemy Ros Course.md",
