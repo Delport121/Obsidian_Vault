@@ -1,66 +1,39 @@
 {
   "main": {
-    "id": "b8766fd5d7af3cfc",
+    "id": "879ae078083bce09",
     "type": "split",
     "children": [
       {
-        "id": "7b535b9d2f62aac6",
+        "id": "77d7f66a0fad7738",
         "type": "tabs",
         "children": [
           {
-            "id": "ff0335e22a78b09b",
+            "id": "f34d6daa7f6dc13c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/Paper Notes/High-performance Racing on Unmapped Tracks using Local Maps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd101712fcd49789",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Research Papers/Paper archive/High performance racing on unmapped tracks using local maps.pdf"
-              }
-            }
-          },
-          {
-            "id": "64285aca58077012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "DailyNotes/2024-05-16.md",
-=======
-                "file": "DailyNotes/2024-05-15.md",
->>>>>>> f6a7fac59698835e20fbe11e8655d1c3a7c111bc
+                "file": "ROS Notes and Installs/Udemy Ros Course.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "606216fc7702b365",
+    "id": "c9872f8b984511d8",
     "type": "split",
     "children": [
       {
-        "id": "f11c7273d558977e",
+        "id": "7b9541262f4f56f5",
         "type": "tabs",
         "children": [
           {
-            "id": "596b02cb421a3ab4",
+            "id": "f9482d3372aea0cb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,7 +43,7 @@
             }
           },
           {
-            "id": "505731b624732b46",
+            "id": "b43331435540020a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -85,7 +58,7 @@
             }
           },
           {
-            "id": "9fb196eacd7ea790",
+            "id": "d4513f4edc37bb9b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,24 +72,28 @@
     "width": 300
   },
   "right": {
-    "id": "6c10ca7fb7951e7c",
+    "id": "2c96b2f679bab820",
     "type": "split",
     "children": [
       {
-        "id": "92676c0e847491bc",
+        "id": "058c9ea186569916",
         "type": "tabs",
         "children": [
           {
-            "id": "165844c6a79d9a4b",
+            "id": "4651fc9078003408",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "29973d14363cc360",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "DailyNotes/2024-05-16.md",
-=======
-                "file": "DailyNotes/2024-05-15.md",
->>>>>>> f6a7fac59698835e20fbe11e8655d1c3a7c111bc
+                "file": "ROS Notes and Installs/Udemy Ros Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,23 +105,19 @@
             }
           },
           {
-            "id": "6c0fdf80f49fc3a1",
+            "id": "4949c9497d1d2641",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "DailyNotes/2024-05-16.md",
-=======
-                "file": "DailyNotes/2024-05-15.md",
->>>>>>> f6a7fac59698835e20fbe11e8655d1c3a7c111bc
+                "file": "ROS Notes and Installs/Udemy Ros Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "843bf50baaa4f29d",
+            "id": "0468493d187c981c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,25 +128,13 @@
             }
           },
           {
-            "id": "46bf9a42f101f7cc",
+            "id": "118fb92dce2827a6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "DailyNotes/2024-05-16.md"
-=======
-                "file": "DailyNotes/2024-05-15.md"
->>>>>>> f6a7fac59698835e20fbe11e8655d1c3a7c111bc
+                "file": "ROS Notes and Installs/Udemy Ros Course.md"
               }
-            }
-          },
-          {
-            "id": "18ed4a8da2748299",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -193,49 +154,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64285aca58077012",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-    "Introduction to F1Tenth Research.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
->>>>>>> f6a7fac59698835e20fbe11e8655d1c3a7c111bc
-    "DailyNotes/2024-05-15.md",
-    "DailyNotes/2024-05-16.md",
-    "ROS Notes and Installs/Udemy Ros Course.md",
-    "ROS Notes and Installs/ROS Commands.md",
-    "ROS Notes and Installs/Running Imimg's ros.md",
-    "Introduction to F1Tenth Research.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "DailyNotes/2024-05-10.md",
-    "DailyNotes/2024-05-09.md",
-    "DailyNotes/2024-05-08.md",
-    "Research Papers/Journal_of_Field_Robotics___2023___Betz___TUM_autonomous_motorsport__An_autonomous_racing_software_for_the_Indy_Autonomo.pdf",
-    "Research Papers/220108117v1.pdf",
-    "Research Papers/s41598_019_49336_1.pdf",
-    "Research Papers/CommonRoad_Vehicle_Models.pdf",
-    "Research Papers/Model- and Acceleration-based Pursuit Controller for High-Performance Autonomous Racing.pdf",
-    "Research Papers/Papers To do.md",
-    "Research Papers/Journal Club/2111.06482.pdf",
-    "Research Papers/Journal Club/1-s2.0-S0921889022001932-main.pdf",
-    "Meetings/Meeting Notes 9.md",
-    "Research Papers/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf",
-    "Research Papers/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf",
-    "Research Papers/Paper Notes/High-performance Racing on Unmapped Tracks using Local Maps.md",
-    "ROS Notes and Installs/PF for ros install 1.md",
-    "ROS Notes and Installs/PF for ros install.md",
-    "Pasted image 20240508103329.png",
-    "To do.md",
-    "Meetings/Meeting Notes 8.md",
-    "DailyNotes/2024-05-07.md",
-    "DailyNotes/2024-04-30.md",
-    "New words and definitions.md",
-    "General Research/Topics of interest.md",
-    "Research Papers/Paper Notes/ROS-based localization of a race vehicle at high-speed using LIDAR.md",
-    "Research Papers/Paper Notes/Unifying F1TENTH Autonomous Racing- A Survey, Methods and Benchmark Results.md",
-    "Research Papers/Paper Notes/Fast and Accurate- The Perception System of a Formula Student Driverless Car.md",
-    "Research Papers/Paper Notes/Andrew's Thesis.md",
-    "Research Papers/Paper Notes/Accurate mapping and planning for autonomous racing.md",
-    "ROS Notes and Installs/Articulated robotics/10 Ros concepts to know.md"
-  ]
+  "active": "f34d6daa7f6dc13c",
+  "lastOpenFiles": []
 }

@@ -114,4 +114,98 @@ colcon build --packages-select my_robot_interfaces
 ```
 ## Using custom messages in nodes
 The video go into some detail about dependencies and stuff
+```bash
+ros2 interface show my_robot_interfaces
+```
 
+## Debug
+```bash
+ros2 interface < >
+ros2 interface list
+```
+# Section 8: Change node settings at runtime
+
+Better to show with a test:
+In terminal 1:
+```bash
+ros2 run my_py_pkg number_publisher --ros-args -p test123:=3
+//------------------------------------------------------------
+ros2 run my_py_pkg number_publisher --ros-args -p number_to_publish:=3 -p publish_frequency:=4.5
+```
+In terminal 2:
+```bash
+ros2 param get /number_publisher test123
+```
+# Section 9:Launch Files
+Create bringup pkg in src:
+```bash
+ros2 pkg create my_robot_bringup
+cd my_robot_bringup/
+rm -rf include/
+rm -rf src/
+mkdir launch
+```
+Some stuff can then be removed in CMakeList.text and added for this. This is the part that is added:
+```
+install(DIRECTORY
+launch
+DESTINATION share/${PROJECT_NAME}
+)
+```
+Back in terminal:
+```bash
+cd launch
+touch number_app.launch.py
+chmod +x number_app.launch.py
+```
+In launch.py:
+```python
+from launch import LaunchDescription
+from launch_ros.actions import Node
+
+def genrete_launch_description():
+	ld = LaunchDescription()
+	
+	number_publisher_node = Node(
+	package="my_py_pkg",
+	executable="number_publisher",
+	)
+	
+	number_counter_node = Node(
+	package="my_py_pkg",
+	executable="number_counter",
+	)
+	
+	ld.add_action(number_publisher_node)
+	ld.add_action(number_counter_node)
+	
+	return ld
+```
+Then in package.xml:
+```
+<exec_depend>my_py_pkg</exec_depend>
+```
+Then finally configure the launch file as in the examples:
+# Section 9: Ros bag
+In terminal 1, navigate to desired directory:
+```bash
+mkdir Robotics_bags
+cd Robotics_bags/
+ros2 bag record /number
+```
+For custom name:
+```bash
+ros2 bag record /number -o test
+```
+For info:
+```bash
+ros2 bag info test/
+```
+Play info on topic
+```bash
+ros2 bag play test
+```
+Record all:
+```bash
+ros2 bag record -a -o test3
+```
