@@ -15,6 +15,9 @@
 - [ ] Reset windows
 - [ ] Leetcode?
 
+Static vs Dynamic stretch
+Passive vs active strecth
+
 
 
 

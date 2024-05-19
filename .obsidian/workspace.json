@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS Notes and Installs/Udemy Ros Course.md",
+                "file": "DailyNotes/2024-05-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS Notes and Installs/Udemy Ros Course.md",
+                "file": "DailyNotes/2024-05-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS Notes and Installs/Udemy Ros Course.md",
+                "file": "DailyNotes/2024-05-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS Notes and Installs/Udemy Ros Course.md"
+                "file": "DailyNotes/2024-05-18.md"
               }
             }
           }
@@ -155,5 +155,10 @@
     }
   },
   "active": "f34d6daa7f6dc13c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "To do.md",
+    "DailyNotes/2024-05-18.md",
+    "DailyNotes/2024-05-16.md",
+    "ROS Notes and Installs/Udemy Ros Course.md"
+  ]
 }
