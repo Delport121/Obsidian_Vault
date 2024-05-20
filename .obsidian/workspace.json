@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-05-18.md",
+                "file": "ROS Notes and Installs/ROS Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-05-18.md",
+                "file": "ROS Notes and Installs/ROS Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-05-18.md",
+                "file": "ROS Notes and Installs/ROS Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-05-18.md"
+                "file": "ROS Notes and Installs/ROS Commands.md"
               }
             }
           }
@@ -156,8 +156,18 @@
   },
   "active": "f34d6daa7f6dc13c",
   "lastOpenFiles": [
-    "To do.md",
+    "DailyNotes/2024-05-20.md",
+    "General Research/Feature extraction.pdf",
+    "Meetings/Meeting Notes 10.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "ROS Notes and Installs/PF for ros install.md",
+    "Meetings/Meeting Notes 9.md",
+    "Meetings/Meeting Notes 8.md",
+    "Introduction to F1Tenth Research.md",
     "DailyNotes/2024-05-18.md",
+    "New words and definitions.md",
+    "To do.md",
+    "Images/Pasted image 20240508103329.png",
     "DailyNotes/2024-05-16.md",
     "ROS Notes and Installs/Udemy Ros Course.md"
   ]
