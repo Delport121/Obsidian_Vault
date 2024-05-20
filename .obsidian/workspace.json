@@ -11,11 +11,9 @@
             "id": "f34d6daa7f6dc13c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ROS Notes and Installs/ROS Commands.md",
-                "mode": "source",
-                "source": false
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS Notes and Installs/ROS Commands.md",
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS Notes and Installs/ROS Commands.md",
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS Notes and Installs/ROS Commands.md"
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
               }
             }
           }
@@ -156,6 +154,7 @@
   },
   "active": "f34d6daa7f6dc13c",
   "lastOpenFiles": [
+    "ROS Notes and Installs/ROS Commands.md",
     "DailyNotes/2024-05-20.md",
     "General Research/Feature extraction.pdf",
     "Meetings/Meeting Notes 10.md",
