@@ -11,9 +11,27 @@
             "id": "f34d6daa7f6dc13c",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c4596f32559e3500",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ac9906319dc8b47",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
+                "file": "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf"
               }
             }
           }
@@ -91,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
+                "file": "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
+                "file": "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
+                "file": "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md"
               }
             }
           }
@@ -154,20 +172,32 @@
   },
   "active": "f34d6daa7f6dc13c",
   "lastOpenFiles": [
-    "ROS Notes and Installs/ROS Commands.md",
-    "DailyNotes/2024-05-20.md",
-    "General Research/Feature extraction.pdf",
+    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
+    "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
+    "Research Papers/Papers To do.md",
+    "Research Papers/Thesis Notes",
+    "Research Papers/Thesis examples/Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf",
+    "Research Papers/Thesis examples/Implementation of SLAM.pdf",
+    "Research Papers/Thesis examples/A SLAM Method for the Formula Student Driverless Competition.pdf",
+    "Research Papers/Thesis examples/AMurdoch_Thesis.pdf",
+    "Research Papers/Thesis examples/Implementation of SLAM.pdf.crdownload",
+    "Research Papers/Thesis examples/MasterThesis_LuisLopes.pdf.crdownload",
+    "Research Papers/Thesis examples/2023_Sprecher-Andreas_Stoeckli-Andrea_BA_SoE.pdf.crdownload",
+    "Research Papers/Thesis examples/MMS+Final+Year+Thesis+Collection+-+Simultaneous+Localisation+and+Mapping+using+LiDAR+for+Autonomous+Racing+(Michael+Mattiske+-+2018).pdf.crdownload",
+    "General Research/General Notes.md",
+    "DailyNotes/2024-05-21.md",
     "Meetings/Meeting Notes 10.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "ROS Notes and Installs/PF for ros install.md",
-    "Meetings/Meeting Notes 9.md",
-    "Meetings/Meeting Notes 8.md",
     "Introduction to F1Tenth Research.md",
+    "Meetings/Meeting Notes 9.md",
+    "DailyNotes/2024-05-20.md",
     "DailyNotes/2024-05-18.md",
+    "ROS Notes and Installs/ROS Commands.md",
+    "ROS Notes and Installs/PF for ros install.md",
+    "Meetings/Meeting Notes 8.md",
     "New words and definitions.md",
     "To do.md",
     "Images/Pasted image 20240508103329.png",
-    "DailyNotes/2024-05-16.md",
+    "DailyNotes/DailyNotes archive/2024-05-16.md",
     "ROS Notes and Installs/Udemy Ros Course.md"
   ]
 }

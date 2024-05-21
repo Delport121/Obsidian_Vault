@@ -10,3 +10,10 @@
 - [ ] [[Recent Advancements in Agriculture Robots.pdf]]
 - [ ] [[Minimum curvature trajectory planning and control for an autonomous race car.pdf]]
 - [ ] [[Particle Filters - A Hands On Tutorial.pdf]]
+
+# Thesis to do
+- [ ] [[A SLAM Method for the Formula Student Driverless Competition.pdf]]
+- [ ] [[Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf]]
+- [ ] [[Implementation of SLAM.pdf]]
+- [ ] [[Simultaneous localisation and mapping using Lidar for autonomous racing.pdf]]
+
