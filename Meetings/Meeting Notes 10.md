@@ -53,4 +53,7 @@ Implement algorithms on a different robotic platform
 
 1 Dec - 
 
+Creat your own framework for the ros 
+Continue
+Physical tests
 
