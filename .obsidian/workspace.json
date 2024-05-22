@@ -13,25 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-05-22.md",
+                "file": "ROS Notes and Installs/Articulated robotics/URDF.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c4596f32559e3500",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5ac9906319dc8b47",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf"
               }
             }
           }
@@ -109,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-05-22.md",
+                "file": "ROS Notes and Installs/Articulated robotics/URDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-05-22.md",
+                "file": "ROS Notes and Installs/Articulated robotics/URDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-05-22.md"
+                "file": "ROS Notes and Installs/Articulated robotics/URDF.md"
               }
             }
           }
@@ -173,8 +157,9 @@
   "active": "f34d6daa7f6dc13c",
   "lastOpenFiles": [
     "Meetings/Meeting Notes 10.md",
-    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
+    "ROS Notes and Installs/Articulated robotics/URDF.md",
     "DailyNotes/2024-05-22.md",
+    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
     "Meetings/Meeting Notes 7.md",
     "Meetings/Meeting Notes 8.md",
     "Meetings/Meeting Notes 9.md",
