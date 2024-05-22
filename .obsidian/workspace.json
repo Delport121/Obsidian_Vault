@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meetings/Meeting Notes 10.md",
+                "file": "DailyNotes/2024-05-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meetings/Meeting Notes 10.md",
+                "file": "DailyNotes/2024-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meetings/Meeting Notes 10.md",
+                "file": "DailyNotes/2024-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meetings/Meeting Notes 10.md"
+                "file": "DailyNotes/2024-05-22.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "f34d6daa7f6dc13c",
   "lastOpenFiles": [
-    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
     "Meetings/Meeting Notes 10.md",
+    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
     "DailyNotes/2024-05-22.md",
     "Meetings/Meeting Notes 7.md",
     "Meetings/Meeting Notes 8.md",
