@@ -1,13 +1,15 @@
 # Questions
+Voting day and organising
 
 # What have I done
 - Finshed Ros course
 - Finshed projects
 - Plotted local maps for algorithm
+- Read a thesis and found some thesis that seem closely related to what I have to do. I seem to at least be looking at the right things so far.
 
 # Plans for next week
 
-- [ ] Study 2 papers
+- [ ] Study  papers
 	- [ ] Magic Formula tyre model
 	- [ ] Common Road vehicle models
 	- [ ] Model- and Acceleration-based Pursuit Controller for  
@@ -15,8 +17,9 @@
 	- [ ] https://journals.sagepub.com/doi/pdf/10.1177/1729881418755245
 
 - [ ] Particle filter rough implementation
-- [ ] Simulator visualisation of ben's stuff (real time) (Maybe)
+- [x] Simulator visualisation of ben's stuff (real time) (Maybe)  [completion:: 2024-05-22]
 - [ ] Some further implementation of sensors on ros (I have the f1tenth repo, but I think it would be good to have my own vehicle with a lidar and camera)
+- [ ] Study f1 tenth repo and ros repo (Specifically the particle filter)
 
 # Year plan
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
+                "file": "Meetings/Meeting Notes 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
+                "file": "Meetings/Meeting Notes 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
+                "file": "Meetings/Meeting Notes 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md"
+                "file": "Meetings/Meeting Notes 10.md"
               }
             }
           }
@@ -172,8 +172,15 @@
   },
   "active": "f34d6daa7f6dc13c",
   "lastOpenFiles": [
-    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
+    "DailyNotes/2024-05-22.md",
+    "Meetings/Meeting Notes 10.md",
+    "Meetings/Meeting Notes 7.md",
+    "Meetings/Meeting Notes 8.md",
+    "Meetings/Meeting Notes 9.md",
+    "DailyNotes/2024-05-21.md",
+    "DailyNotes/2024-05-20.md",
     "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
+    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
     "Research Papers/Papers To do.md",
     "Research Papers/Thesis Notes",
     "Research Papers/Thesis examples/Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf",
@@ -185,15 +192,10 @@
     "Research Papers/Thesis examples/2023_Sprecher-Andreas_Stoeckli-Andrea_BA_SoE.pdf.crdownload",
     "Research Papers/Thesis examples/MMS+Final+Year+Thesis+Collection+-+Simultaneous+Localisation+and+Mapping+using+LiDAR+for+Autonomous+Racing+(Michael+Mattiske+-+2018).pdf.crdownload",
     "General Research/General Notes.md",
-    "DailyNotes/2024-05-21.md",
-    "Meetings/Meeting Notes 10.md",
     "Introduction to F1Tenth Research.md",
-    "Meetings/Meeting Notes 9.md",
-    "DailyNotes/2024-05-20.md",
     "DailyNotes/2024-05-18.md",
     "ROS Notes and Installs/ROS Commands.md",
     "ROS Notes and Installs/PF for ros install.md",
-    "Meetings/Meeting Notes 8.md",
     "New words and definitions.md",
     "To do.md",
     "Images/Pasted image 20240508103329.png",
