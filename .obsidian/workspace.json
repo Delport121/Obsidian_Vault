@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/URDF.md",
+                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/URDF.md",
+                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/URDF.md",
+                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/URDF.md"
+                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md"
               }
             }
           }
@@ -156,16 +156,27 @@
   },
   "active": "f34d6daa7f6dc13c",
   "lastOpenFiles": [
-    "Meetings/Meeting Notes 10.md",
     "ROS Notes and Installs/Articulated robotics/URDF.md",
-    "DailyNotes/2024-05-22.md",
-    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
-    "Meetings/Meeting Notes 7.md",
-    "Meetings/Meeting Notes 8.md",
+    "ROS Notes and Installs/ROS Commands.md",
+    "ROS Notes and Installs/Latex setup.md",
+    "ROS Notes and Installs/PF for ros install.md",
+    "ROS Notes and Installs/Nav2.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "ROS Notes and Installs/Running Imimg's ros.md",
     "Meetings/Meeting Notes 9.md",
+    "Meetings/Meeting Notes 8.md",
+    "Meetings/Meeting Notes 5.md",
+    "Meetings/Meeting Notes 7.md",
+    "ROS Notes and Installs/Udemy Ros Course.md",
+    "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
+    "Pasted image 20240523093307.png",
+    "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
+    "DailyNotes/2024-05-22.md",
+    "Research Papers/Accurate Mapping and Planning for Autonomous Racing.pdf",
+    "Meetings/Meeting Notes 10.md",
+    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
     "DailyNotes/2024-05-21.md",
     "DailyNotes/2024-05-20.md",
-    "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
     "Research Papers/Papers To do.md",
     "Research Papers/Thesis Notes",
     "Research Papers/Thesis examples/Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf",
@@ -174,17 +185,12 @@
     "Research Papers/Thesis examples/AMurdoch_Thesis.pdf",
     "Research Papers/Thesis examples/Implementation of SLAM.pdf.crdownload",
     "Research Papers/Thesis examples/MasterThesis_LuisLopes.pdf.crdownload",
-    "Research Papers/Thesis examples/2023_Sprecher-Andreas_Stoeckli-Andrea_BA_SoE.pdf.crdownload",
-    "Research Papers/Thesis examples/MMS+Final+Year+Thesis+Collection+-+Simultaneous+Localisation+and+Mapping+using+LiDAR+for+Autonomous+Racing+(Michael+Mattiske+-+2018).pdf.crdownload",
     "General Research/General Notes.md",
     "Introduction to F1Tenth Research.md",
     "DailyNotes/2024-05-18.md",
-    "ROS Notes and Installs/ROS Commands.md",
-    "ROS Notes and Installs/PF for ros install.md",
     "New words and definitions.md",
     "To do.md",
     "Images/Pasted image 20240508103329.png",
-    "DailyNotes/DailyNotes archive/2024-05-16.md",
-    "ROS Notes and Installs/Udemy Ros Course.md"
+    "DailyNotes/DailyNotes archive/2024-05-16.md"
   ]
 }
