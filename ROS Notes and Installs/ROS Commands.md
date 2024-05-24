@@ -105,7 +105,7 @@ mkdir <ros2_ws>
 Then move in the folder directory and  make a src folder
 ```bash
 cd <ros2_ws>/
-mkir src
+mkdir src
 ```
 Then build the workspace (Must be in workspace directory )
 Symlink install allows you to update code in vsCode without having to constantly rebuild
