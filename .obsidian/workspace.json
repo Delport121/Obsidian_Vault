@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/URDF.md",
+                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/URDF.md",
+                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/URDF.md",
+                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/URDF.md"
+                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md"
               }
             }
           }
@@ -156,9 +156,10 @@
   },
   "active": "f34d6daa7f6dc13c",
   "lastOpenFiles": [
-    "Meetings/Meeting Notes 10.md",
-    "ROS Notes and Installs/Articulated robotics/URDF.md",
     "DailyNotes/2024-05-22.md",
+    "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
+    "ROS Notes and Installs/Articulated robotics/URDF.md",
+    "Meetings/Meeting Notes 10.md",
     "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
     "Meetings/Meeting Notes 7.md",
     "Meetings/Meeting Notes 8.md",
