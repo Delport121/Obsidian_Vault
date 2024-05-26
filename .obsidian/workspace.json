@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
+                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
+                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
+                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md"
+                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md"
               }
             }
           }
@@ -156,6 +156,15 @@
   },
   "active": "f34d6daa7f6dc13c",
   "lastOpenFiles": [
+    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
+    "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+    "DailyNotes/2024-05-22.md",
+    "Pasted image 20240524224803.png",
+    "Pasted image 20240524224755.png",
+    "ROS Notes and Installs/Articulated robotics/Setting up network for Ros.md",
+    "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
+    "Pasted image 20240524224609.png",
+    "Pasted image 20240523093307.png",
     "ROS Notes and Installs/Articulated robotics/URDF.md",
     "ROS Notes and Installs/ROS Commands.md",
     "ROS Notes and Installs/Latex setup.md",
@@ -168,10 +177,7 @@
     "Meetings/Meeting Notes 5.md",
     "Meetings/Meeting Notes 7.md",
     "ROS Notes and Installs/Udemy Ros Course.md",
-    "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
-    "Pasted image 20240523093307.png",
     "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
-    "DailyNotes/2024-05-22.md",
     "Research Papers/Accurate Mapping and Planning for Autonomous Racing.pdf",
     "Meetings/Meeting Notes 10.md",
     "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
@@ -190,7 +196,6 @@
     "DailyNotes/2024-05-18.md",
     "New words and definitions.md",
     "To do.md",
-    "Images/Pasted image 20240508103329.png",
-    "DailyNotes/DailyNotes archive/2024-05-16.md"
+    "Images/Pasted image 20240508103329.png"
   ]
 }
