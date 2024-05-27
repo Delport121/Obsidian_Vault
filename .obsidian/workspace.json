@@ -14,10 +14,14 @@
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
 >>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+>>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
                 "mode": "source",
                 "source": false
               }
@@ -98,10 +102,14 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
 >>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+>>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +127,14 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
 >>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+>>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,10 +158,14 @@
               "type": "outline",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md"
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md"
 >>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md"
+>>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
               }
             }
           }
@@ -173,6 +189,7 @@
   "active": "f34d6daa7f6dc13c",
   "lastOpenFiles": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     "DailyNotes/2024-05-22.md",
     "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
     "ROS Notes and Installs/Articulated robotics/URDF.md",
@@ -181,6 +198,17 @@
     "Meetings/Meeting Notes 7.md",
     "Meetings/Meeting Notes 8.md",
 =======
+=======
+    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
+    "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+    "DailyNotes/2024-05-22.md",
+    "Pasted image 20240524224803.png",
+    "Pasted image 20240524224755.png",
+    "ROS Notes and Installs/Articulated robotics/Setting up network for Ros.md",
+    "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
+    "Pasted image 20240524224609.png",
+    "Pasted image 20240523093307.png",
+>>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
     "ROS Notes and Installs/Articulated robotics/URDF.md",
     "ROS Notes and Installs/ROS Commands.md",
     "ROS Notes and Installs/Latex setup.md",
@@ -194,10 +222,7 @@
     "Meetings/Meeting Notes 5.md",
     "Meetings/Meeting Notes 7.md",
     "ROS Notes and Installs/Udemy Ros Course.md",
-    "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
-    "Pasted image 20240523093307.png",
     "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
-    "DailyNotes/2024-05-22.md",
     "Research Papers/Accurate Mapping and Planning for Autonomous Racing.pdf",
     "Meetings/Meeting Notes 10.md",
     "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
@@ -216,7 +241,6 @@
     "DailyNotes/2024-05-18.md",
     "New words and definitions.md",
     "To do.md",
-    "Images/Pasted image 20240508103329.png",
-    "DailyNotes/DailyNotes archive/2024-05-16.md"
+    "Images/Pasted image 20240508103329.png"
   ]
 }
