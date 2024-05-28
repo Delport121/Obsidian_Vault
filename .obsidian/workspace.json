@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md"
+                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md"
               }
             }
           }
@@ -156,8 +156,11 @@
   },
   "active": "f34d6daa7f6dc13c",
   "lastOpenFiles": [
-    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
+    "Pasted image 20240527194357.png",
+    "ROS Notes and Installs/Articulated robotics/Adding Camera.md",
+    "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
     "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
     "DailyNotes/2024-05-22.md",
     "Pasted image 20240524224803.png",
     "Pasted image 20240524224755.png",
@@ -193,9 +196,6 @@
     "Research Papers/Thesis examples/MasterThesis_LuisLopes.pdf.crdownload",
     "General Research/General Notes.md",
     "Introduction to F1Tenth Research.md",
-    "DailyNotes/2024-05-18.md",
-    "New words and definitions.md",
-    "To do.md",
     "Images/Pasted image 20240508103329.png"
   ]
 }
