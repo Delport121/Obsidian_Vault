@@ -15,6 +15,7 @@
               "state": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
@@ -22,6 +23,9 @@
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
 >>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
+>>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
                 "mode": "source",
                 "source": false
               }
@@ -103,6 +107,7 @@
               "state": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
@@ -110,6 +115,9 @@
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
 >>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
+>>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +136,7 @@
               "state": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
@@ -135,6 +144,9 @@
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
 >>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
+>>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +171,7 @@
               "state": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md"
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md"
@@ -166,6 +179,9 @@
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md"
 >>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md"
+>>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
               }
             }
           }
@@ -190,6 +206,7 @@
   "lastOpenFiles": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "DailyNotes/2024-05-22.md",
     "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
     "ROS Notes and Installs/Articulated robotics/URDF.md",
@@ -200,7 +217,13 @@
 =======
 =======
     "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
+=======
+    "Pasted image 20240527194357.png",
+    "ROS Notes and Installs/Articulated robotics/Adding Camera.md",
+    "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
+>>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
     "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
     "DailyNotes/2024-05-22.md",
     "Pasted image 20240524224803.png",
     "Pasted image 20240524224755.png",
@@ -238,9 +261,6 @@
     "Research Papers/Thesis examples/MasterThesis_LuisLopes.pdf.crdownload",
     "General Research/General Notes.md",
     "Introduction to F1Tenth Research.md",
-    "DailyNotes/2024-05-18.md",
-    "New words and definitions.md",
-    "To do.md",
     "Images/Pasted image 20240508103329.png"
   ]
 }
