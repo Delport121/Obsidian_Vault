@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "8dcab3068733fb33",
+    "id": "0c25708ea3415bd5",
     "type": "split",
     "children": [
       {
-        "id": "0a219ff06b6b517d",
+        "id": "066fb8b6db935b66",
         "type": "tabs",
         "children": [
           {
-            "id": "32673ad300c72638",
+            "id": "2d8a8c1b98e19b0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "DailyNotes/2024-05-29.md",
-=======
-                "file": "DailyNotes/2024-05-28.md",
->>>>>>> Stashed changes
+                "file": "Meetings/Meeting 30-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8059acdcf10edb95",
+    "id": "d388119635ed1e51",
     "type": "split",
     "children": [
       {
-        "id": "90d2036201b99170",
+        "id": "167ec7d922fbaa8f",
         "type": "tabs",
         "children": [
           {
-            "id": "8bd37e0f679cedd9",
+            "id": "d076b99f4cd276fc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "ee70146bc9e3ce83",
+            "id": "a5316b65fc4d2ab4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "052de413d8416fa9",
+            "id": "92b6a9917cdce40f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "61d19d047ccb4412",
+    "id": "f71fdd15034da03c",
     "type": "split",
     "children": [
       {
-        "id": "5f32ad37b432f011",
+        "id": "22741c3f507a4423",
         "type": "tabs",
         "children": [
           {
-            "id": "ac1b966d398a714b",
+            "id": "af456a5d3931c59d",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -92,16 +88,12 @@
             }
           },
           {
-            "id": "f418929fbc7d66eb",
+            "id": "ebcfefd0fe02a8f7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "DailyNotes/2024-05-29.md",
-=======
-                "file": "DailyNotes/2024-05-28.md",
->>>>>>> Stashed changes
+                "file": "Meetings/Meeting 30-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,23 +105,19 @@
             }
           },
           {
-            "id": "2ab0f39aaa69111a",
+            "id": "fb878062b714380b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "DailyNotes/2024-05-29.md",
-=======
-                "file": "DailyNotes/2024-05-28.md",
->>>>>>> Stashed changes
+                "file": "Meetings/Meeting 30-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9d605f39726c593c",
+            "id": "bdf1e5db4d9cb97c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,16 +128,12 @@
             }
           },
           {
-            "id": "654615460af2740d",
+            "id": "4457e24b79466e93",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "DailyNotes/2024-05-29.md"
-=======
-                "file": "DailyNotes/2024-05-28.md"
->>>>>>> Stashed changes
+                "file": "Meetings/Meeting 30-05.md"
               }
             }
           }
@@ -170,53 +154,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32673ad300c72638",
+  "active": "2d8a8c1b98e19b0d",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "DailyNotes/2024-05-22.md",
-    "DailyNotes/2024-05-29.md"
-=======
-    "Research Papers/Thesis examples/Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf",
-    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
-    "Research Papers/Thesis examples/A SLAM Method for the Formula Student Driverless Competition.pdf",
-    "Research Papers/Thesis examples/Implementation of SLAM.pdf",
-    "Meetings/Meeting Notes 10.md",
-    "Research Papers/Papers To do.md",
-    "DailyNotes/2024-05-28.md",
-    "DailyNotes/2024-05-22.md",
-    "DailyNotes/2024-05-21.md",
-    "DailyNotes/2024-05-20.md",
+    "DailyNotes/2024-05-29.md",
+    "ROS Notes and Installs/Articulated robotics/Launch simulation.md",
     "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
-    "ROS Notes and Installs/Articulated robotics/Pasted image 20240527194357.png",
-    "ROS Notes and Installs/Articulated robotics/Adding Camera.md",
-    "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
     "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
-    "ROS Notes and Installs/Articulated robotics/Pasted image 20240524224803.png",
     "ROS Notes and Installs/Articulated robotics/Pasted image 20240524224755.png",
+    "ROS Notes and Installs/Articulated robotics/Pasted image 20240524224803.png",
+    "ROS Notes and Installs/Articulated robotics/Pasted image 20240527194357.png",
     "ROS Notes and Installs/Articulated robotics/Setting up network for Ros.md",
     "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
-    "ROS Notes and Installs/Articulated robotics/Pasted image 20240524224609.png",
+    "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
+    "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+    "ROS Notes and Installs/Articulated robotics/10 Ros concepts to know.md",
+    "ROS Notes and Installs/Articulated robotics/Adding Camera.md",
     "ROS Notes and Installs/Articulated robotics/Pasted image 20240523093307.png",
-    "ROS Notes and Installs/Articulated robotics/URDF.md",
-    "ROS Notes and Installs/ROS Commands.md",
-    "ROS Notes and Installs/Latex setup.md",
-    "ROS Notes and Installs/PF for ros install.md",
-    "ROS Notes and Installs/Nav2.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "ROS Notes and Installs/Running Imimg's ros.md",
-    "Meetings/Meeting Notes 9.md",
-    "Meetings/Meeting Notes 8.md",
+    "Meetings/Meeting 30-05.md",
     "Meetings/Meeting Notes 5.md",
-    "Meetings/Meeting Notes 7.md",
-    "ROS Notes and Installs/Udemy Ros Course.md",
-    "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
-    "Research Papers/Accurate Mapping and Planning for Autonomous Racing.pdf",
-    "Research Papers/Thesis Notes",
-    "Research Papers/Thesis examples/AMurdoch_Thesis.pdf",
-    "Research Papers/Thesis examples/Implementation of SLAM.pdf.crdownload",
-    "Research Papers/Thesis examples/MasterThesis_LuisLopes.pdf.crdownload",
-    "General Research/General Notes.md",
-    "Images/Pasted image 20240508103329.png"
->>>>>>> Stashed changes
+    "Meetings/Meeting Notes 10.md",
+    "Meetings/Meeting notes.md"
   ]
 }
