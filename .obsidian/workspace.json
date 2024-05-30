@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "879ae078083bce09",
+    "id": "8dcab3068733fb33",
     "type": "split",
     "children": [
       {
-        "id": "77d7f66a0fad7738",
+        "id": "0a219ff06b6b517d",
         "type": "tabs",
         "children": [
           {
-            "id": "f34d6daa7f6dc13c",
+            "id": "32673ad300c72638",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
->>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
->>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
->>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
+                "file": "DailyNotes/2024-05-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c9872f8b984511d8",
+    "id": "8059acdcf10edb95",
     "type": "split",
     "children": [
       {
-        "id": "7b9541262f4f56f5",
+        "id": "90d2036201b99170",
         "type": "tabs",
         "children": [
           {
-            "id": "f9482d3372aea0cb",
+            "id": "8bd37e0f679cedd9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +43,7 @@
             }
           },
           {
-            "id": "b43331435540020a",
+            "id": "ee70146bc9e3ce83",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "d4513f4edc37bb9b",
+            "id": "052de413d8416fa9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "2c96b2f679bab820",
+    "id": "61d19d047ccb4412",
     "type": "split",
     "children": [
       {
-        "id": "058c9ea186569916",
+        "id": "5f32ad37b432f011",
         "type": "tabs",
         "children": [
           {
-            "id": "4651fc9078003408",
+            "id": "ac1b966d398a714b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -100,24 +88,12 @@
             }
           },
           {
-            "id": "29973d14363cc360",
+            "id": "f418929fbc7d66eb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
->>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
->>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
->>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
+                "file": "DailyNotes/2024-05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,31 +105,19 @@
             }
           },
           {
-            "id": "4949c9497d1d2641",
+            "id": "2ab0f39aaa69111a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
->>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
->>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
->>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
+                "file": "DailyNotes/2024-05-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0468493d187c981c",
+            "id": "9d605f39726c593c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -164,24 +128,12 @@
             }
           },
           {
-            "id": "118fb92dce2827a6",
+            "id": "654615460af2740d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md"
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md"
->>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md"
->>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md"
->>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
+                "file": "DailyNotes/2024-05-29.md"
               }
             }
           }
@@ -202,65 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f34d6daa7f6dc13c",
+  "active": "32673ad300c72638",
   "lastOpenFiles": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     "DailyNotes/2024-05-22.md",
-    "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
-    "ROS Notes and Installs/Articulated robotics/URDF.md",
-    "Meetings/Meeting Notes 10.md",
-    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
-    "Meetings/Meeting Notes 7.md",
-    "Meetings/Meeting Notes 8.md",
-=======
-=======
-    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
-=======
-    "Pasted image 20240527194357.png",
-    "ROS Notes and Installs/Articulated robotics/Adding Camera.md",
-    "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
->>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
-    "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
-    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
-    "DailyNotes/2024-05-22.md",
-    "Pasted image 20240524224803.png",
-    "Pasted image 20240524224755.png",
-    "ROS Notes and Installs/Articulated robotics/Setting up network for Ros.md",
-    "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
-    "Pasted image 20240524224609.png",
-    "Pasted image 20240523093307.png",
->>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
-    "ROS Notes and Installs/Articulated robotics/URDF.md",
-    "ROS Notes and Installs/ROS Commands.md",
-    "ROS Notes and Installs/Latex setup.md",
-    "ROS Notes and Installs/PF for ros install.md",
-    "ROS Notes and Installs/Nav2.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "ROS Notes and Installs/Running Imimg's ros.md",
->>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
-    "Meetings/Meeting Notes 9.md",
-    "Meetings/Meeting Notes 8.md",
-    "Meetings/Meeting Notes 5.md",
-    "Meetings/Meeting Notes 7.md",
-    "ROS Notes and Installs/Udemy Ros Course.md",
-    "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
-    "Research Papers/Accurate Mapping and Planning for Autonomous Racing.pdf",
-    "Meetings/Meeting Notes 10.md",
-    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
-    "DailyNotes/2024-05-21.md",
-    "DailyNotes/2024-05-20.md",
-    "Research Papers/Papers To do.md",
-    "Research Papers/Thesis Notes",
-    "Research Papers/Thesis examples/Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf",
-    "Research Papers/Thesis examples/Implementation of SLAM.pdf",
-    "Research Papers/Thesis examples/A SLAM Method for the Formula Student Driverless Competition.pdf",
-    "Research Papers/Thesis examples/AMurdoch_Thesis.pdf",
-    "Research Papers/Thesis examples/Implementation of SLAM.pdf.crdownload",
-    "Research Papers/Thesis examples/MasterThesis_LuisLopes.pdf.crdownload",
-    "General Research/General Notes.md",
-    "Introduction to F1Tenth Research.md",
-    "Images/Pasted image 20240508103329.png"
+    "DailyNotes/2024-05-29.md"
   ]
 }
