@@ -13,7 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Meetings/Meeting 30-05.md",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
+>>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+>>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
+>>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +109,23 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Meetings/Meeting 30-05.md",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
+>>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+>>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
+>>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +142,23 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Meetings/Meeting 30-05.md",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
+>>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+>>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
+>>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +181,23 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Meetings/Meeting 30-05.md"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md"
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md"
+>>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md"
+>>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
+=======
+                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md"
+>>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
+>>>>>>> Stashed changes
               }
             }
           }
@@ -156,6 +220,7 @@
   },
   "active": "2d8a8c1b98e19b0d",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "DailyNotes/2024-05-29.md",
     "ROS Notes and Installs/Articulated robotics/Launch simulation.md",
     "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
@@ -163,6 +228,31 @@
     "ROS Notes and Installs/Articulated robotics/Pasted image 20240524224755.png",
     "ROS Notes and Installs/Articulated robotics/Pasted image 20240524224803.png",
     "ROS Notes and Installs/Articulated robotics/Pasted image 20240527194357.png",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "DailyNotes/2024-05-22.md",
+    "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
+    "ROS Notes and Installs/Articulated robotics/URDF.md",
+    "Meetings/Meeting Notes 10.md",
+    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
+    "Meetings/Meeting Notes 7.md",
+    "Meetings/Meeting Notes 8.md",
+=======
+=======
+    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
+=======
+    "Pasted image 20240527194357.png",
+    "ROS Notes and Installs/Articulated robotics/Adding Camera.md",
+    "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
+>>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
+    "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
+    "DailyNotes/2024-05-22.md",
+    "Pasted image 20240524224803.png",
+    "Pasted image 20240524224755.png",
+>>>>>>> Stashed changes
     "ROS Notes and Installs/Articulated robotics/Setting up network for Ros.md",
     "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
     "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
@@ -173,6 +263,23 @@
     "Meetings/Meeting 30-05.md",
     "Meetings/Meeting Notes 5.md",
     "Meetings/Meeting Notes 10.md",
+<<<<<<< Updated upstream
     "Meetings/Meeting notes.md"
+=======
+    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
+    "DailyNotes/2024-05-21.md",
+    "DailyNotes/2024-05-20.md",
+    "Research Papers/Papers To do.md",
+    "Research Papers/Thesis Notes",
+    "Research Papers/Thesis examples/Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf",
+    "Research Papers/Thesis examples/Implementation of SLAM.pdf",
+    "Research Papers/Thesis examples/A SLAM Method for the Formula Student Driverless Competition.pdf",
+    "Research Papers/Thesis examples/AMurdoch_Thesis.pdf",
+    "Research Papers/Thesis examples/Implementation of SLAM.pdf.crdownload",
+    "Research Papers/Thesis examples/MasterThesis_LuisLopes.pdf.crdownload",
+    "General Research/General Notes.md",
+    "Introduction to F1Tenth Research.md",
+    "Images/Pasted image 20240508103329.png"
+>>>>>>> Stashed changes
   ]
 }

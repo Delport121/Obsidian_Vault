@@ -10,5 +10,9 @@ ROS also provides the depth_image_proc package
 Its best just to follow the forum for this one.  Small things that needs to be tweaked
 
 # Real depth camera
+<<<<<<< Updated upstream
 Refer to the video
 
+=======
+Refer to the video
+>>>>>>> Stashed changes
