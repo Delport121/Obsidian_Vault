@@ -18,7 +18,7 @@ Voting day and organising
 
 - [ ] Particle filter rough implementation
 - [x] Simulator visualisation of ben's stuff (real time) (Maybe)  [completion:: 2024-05-22]
-- [ ] Some further implementation of sensors on ros (I have the f1tenth repo, but I think it would be good to have my own vehicle with a lidar and camera)
+- [x] Some further implementation of sensors on ros (I have the f1tenth repo, but I think it would be good to have my own vehicle with a lidar and camera)  [completion:: 2024-05-28]
 - [ ] Study f1 tenth repo and ros repo (Specifically the particle filter)
 
 # Year plan

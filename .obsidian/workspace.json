@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "DailyNotes/2024-05-29.md",
+=======
+                "file": "DailyNotes/2024-05-28.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "DailyNotes/2024-05-29.md",
+=======
+                "file": "DailyNotes/2024-05-28.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "DailyNotes/2024-05-29.md",
+=======
+                "file": "DailyNotes/2024-05-28.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "DailyNotes/2024-05-29.md"
+=======
+                "file": "DailyNotes/2024-05-28.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -156,7 +172,51 @@
   },
   "active": "32673ad300c72638",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "DailyNotes/2024-05-22.md",
     "DailyNotes/2024-05-29.md"
+=======
+    "Research Papers/Thesis examples/Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf",
+    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
+    "Research Papers/Thesis examples/A SLAM Method for the Formula Student Driverless Competition.pdf",
+    "Research Papers/Thesis examples/Implementation of SLAM.pdf",
+    "Meetings/Meeting Notes 10.md",
+    "Research Papers/Papers To do.md",
+    "DailyNotes/2024-05-28.md",
+    "DailyNotes/2024-05-22.md",
+    "DailyNotes/2024-05-21.md",
+    "DailyNotes/2024-05-20.md",
+    "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
+    "ROS Notes and Installs/Articulated robotics/Pasted image 20240527194357.png",
+    "ROS Notes and Installs/Articulated robotics/Adding Camera.md",
+    "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
+    "ROS Notes and Installs/Articulated robotics/Pasted image 20240524224803.png",
+    "ROS Notes and Installs/Articulated robotics/Pasted image 20240524224755.png",
+    "ROS Notes and Installs/Articulated robotics/Setting up network for Ros.md",
+    "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
+    "ROS Notes and Installs/Articulated robotics/Pasted image 20240524224609.png",
+    "ROS Notes and Installs/Articulated robotics/Pasted image 20240523093307.png",
+    "ROS Notes and Installs/Articulated robotics/URDF.md",
+    "ROS Notes and Installs/ROS Commands.md",
+    "ROS Notes and Installs/Latex setup.md",
+    "ROS Notes and Installs/PF for ros install.md",
+    "ROS Notes and Installs/Nav2.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "ROS Notes and Installs/Running Imimg's ros.md",
+    "Meetings/Meeting Notes 9.md",
+    "Meetings/Meeting Notes 8.md",
+    "Meetings/Meeting Notes 5.md",
+    "Meetings/Meeting Notes 7.md",
+    "ROS Notes and Installs/Udemy Ros Course.md",
+    "Research Papers/Thesis Notes/Simultaneous localisation and mapping using Lidar for autonomous racing.md",
+    "Research Papers/Accurate Mapping and Planning for Autonomous Racing.pdf",
+    "Research Papers/Thesis Notes",
+    "Research Papers/Thesis examples/AMurdoch_Thesis.pdf",
+    "Research Papers/Thesis examples/Implementation of SLAM.pdf.crdownload",
+    "Research Papers/Thesis examples/MasterThesis_LuisLopes.pdf.crdownload",
+    "General Research/General Notes.md",
+    "Images/Pasted image 20240508103329.png"
+>>>>>>> Stashed changes
   ]
 }

@@ -13,7 +13,7 @@
 
 # Thesis to do
 - [ ] [[A SLAM Method for the Formula Student Driverless Competition.pdf]]
-- [ ] [[Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf]]
+- [x] [[Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf]]  [completion:: 2024-05-28]
 - [ ] [[Implementation of SLAM.pdf]]
 - [ ] [[Simultaneous localisation and mapping using Lidar for autonomous racing.pdf]]
 
