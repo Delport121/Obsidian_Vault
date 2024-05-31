@@ -1,39 +1,19 @@
 {
   "main": {
-    "id": "0c25708ea3415bd5",
+    "id": "f691231768151024",
     "type": "split",
     "children": [
       {
-        "id": "066fb8b6db935b66",
+        "id": "7566cc67425bf24c",
         "type": "tabs",
         "children": [
           {
-            "id": "2d8a8c1b98e19b0d",
+            "id": "cc927a02e483e171",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                "file": "Meetings/Meeting 30-05.md",
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
->>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
->>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
->>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
->>>>>>> Stashed changes
-=======
-                "file": "DailyNotes/2024-05-29.md",
->>>>>>> Stashed changes
+                "file": "General Research/uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d388119635ed1e51",
+    "id": "e473e915c7975db8",
     "type": "split",
     "children": [
       {
-        "id": "167ec7d922fbaa8f",
+        "id": "e920a068c7c90fa1",
         "type": "tabs",
         "children": [
           {
-            "id": "d076b99f4cd276fc",
+            "id": "21693260d9580ebb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +43,7 @@
             }
           },
           {
-            "id": "a5316b65fc4d2ab4",
+            "id": "4f46a208652dd8ae",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +58,7 @@
             }
           },
           {
-            "id": "92b6a9917cdce40f",
+            "id": "1aa3d7c00d923d33",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "f71fdd15034da03c",
+    "id": "464bbb7871034c94",
     "type": "split",
     "children": [
       {
-        "id": "22741c3f507a4423",
+        "id": "5c4ac39fa78ae6d6",
         "type": "tabs",
         "children": [
           {
-            "id": "af456a5d3931c59d",
+            "id": "e3706c0b0ceb4f52",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -108,32 +88,12 @@
             }
           },
           {
-            "id": "ebcfefd0fe02a8f7",
+            "id": "663d13d10d5c0a07",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                "file": "Meetings/Meeting 30-05.md",
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
->>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
->>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
->>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
->>>>>>> Stashed changes
-=======
-                "file": "DailyNotes/2024-05-29.md",
->>>>>>> Stashed changes
+                "file": "General Research/uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,39 +105,19 @@
             }
           },
           {
-            "id": "fb878062b714380b",
+            "id": "6f68b2fd8af46708",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                "file": "Meetings/Meeting 30-05.md",
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
->>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
->>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
->>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
->>>>>>> Stashed changes
-=======
-                "file": "DailyNotes/2024-05-29.md",
->>>>>>> Stashed changes
+                "file": "General Research/uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bdf1e5db4d9cb97c",
+            "id": "20f01f96c753c05d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -188,32 +128,12 @@
             }
           },
           {
-            "id": "4457e24b79466e93",
+            "id": "e5ffe1ccb4ec9ed9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                "file": "Meetings/Meeting 30-05.md"
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md"
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md"
->>>>>>> 8f145bf1115295de69c7084a3ff561295f7ff2c4
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding Lidar.md"
->>>>>>> 36d6e21fbe007b3fb76e2b7a9c75252cdb7029c7
-=======
-                "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md"
->>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
->>>>>>> Stashed changes
-=======
-                "file": "DailyNotes/2024-05-29.md"
->>>>>>> Stashed changes
+                "file": "General Research/uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md"
               }
             }
           }
@@ -234,71 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8a8c1b98e19b0d",
+  "active": "cc927a02e483e171",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-    "Meetings/Meeting 30-05.md",
->>>>>>> Stashed changes
-    "DailyNotes/2024-05-29.md",
-    "ROS Notes and Installs/Articulated robotics/Launch simulation.md",
-    "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
-    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
-    "ROS Notes and Installs/Articulated robotics/Pasted image 20240524224755.png",
-    "ROS Notes and Installs/Articulated robotics/Pasted image 20240524224803.png",
-    "ROS Notes and Installs/Articulated robotics/Pasted image 20240527194357.png",
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "DailyNotes/2024-05-22.md",
-    "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
-    "ROS Notes and Installs/Articulated robotics/URDF.md",
-    "Meetings/Meeting Notes 10.md",
-    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
-    "Meetings/Meeting Notes 7.md",
-    "Meetings/Meeting Notes 8.md",
-=======
-=======
-    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
-=======
-    "Pasted image 20240527194357.png",
-    "ROS Notes and Installs/Articulated robotics/Adding Camera.md",
-    "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
->>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
-    "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
-    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
-    "DailyNotes/2024-05-22.md",
-    "Pasted image 20240524224803.png",
-    "Pasted image 20240524224755.png",
->>>>>>> Stashed changes
-    "ROS Notes and Installs/Articulated robotics/Setting up network for Ros.md",
-    "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
-    "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
-    "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
-    "ROS Notes and Installs/Articulated robotics/10 Ros concepts to know.md",
-    "ROS Notes and Installs/Articulated robotics/Adding Camera.md",
-    "ROS Notes and Installs/Articulated robotics/Pasted image 20240523093307.png",
-    "Meetings/Meeting Notes 5.md",
-    "Meetings/Meeting Notes 10.md",
-<<<<<<< Updated upstream
-    "Meetings/Meeting notes.md"
-=======
-    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf",
-    "DailyNotes/2024-05-21.md",
-    "DailyNotes/2024-05-20.md",
-    "Research Papers/Papers To do.md",
-    "Research Papers/Thesis Notes",
-    "Research Papers/Thesis examples/Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf",
-    "Research Papers/Thesis examples/Implementation of SLAM.pdf",
-    "Research Papers/Thesis examples/A SLAM Method for the Formula Student Driverless Competition.pdf",
-    "Research Papers/Thesis examples/AMurdoch_Thesis.pdf",
-    "Research Papers/Thesis examples/Implementation of SLAM.pdf.crdownload",
-    "Research Papers/Thesis examples/MasterThesis_LuisLopes.pdf.crdownload",
-    "General Research/General Notes.md",
-    "Introduction to F1Tenth Research.md",
-    "Images/Pasted image 20240508103329.png"
->>>>>>> Stashed changes
+    "Pasted image 20240531171730.png",
+    "Pasted image 20240531171656.png",
+    "Pasted image 20240531171557.png",
+    "General Research/uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
+    "Pasted image 20240531171517.png",
+    "Pasted image 20240531171447.png",
+    "Pasted image 20240531171416.png",
+    "Pasted image 20240531171403.png",
+    "Pasted image 20240531171158.png",
+    "DailyNotes/2024-05-31.md",
+    "Untitled.md",
+    "DailyNotes/2024-05-29.md"
   ]
 }
