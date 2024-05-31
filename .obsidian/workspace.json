@@ -14,6 +14,7 @@
               "type": "markdown",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "Meetings/Meeting 30-05.md",
 =======
 <<<<<<< HEAD
@@ -29,6 +30,9 @@
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
 >>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
+>>>>>>> Stashed changes
+=======
+                "file": "DailyNotes/2024-05-29.md",
 >>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
@@ -110,6 +114,7 @@
               "type": "backlink",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "Meetings/Meeting 30-05.md",
 =======
 <<<<<<< HEAD
@@ -125,6 +130,9 @@
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
 >>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
+>>>>>>> Stashed changes
+=======
+                "file": "DailyNotes/2024-05-29.md",
 >>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
@@ -143,6 +151,7 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "Meetings/Meeting 30-05.md",
 =======
 <<<<<<< HEAD
@@ -158,6 +167,9 @@
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
 >>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
+>>>>>>> Stashed changes
+=======
+                "file": "DailyNotes/2024-05-29.md",
 >>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -182,6 +194,7 @@
               "type": "outline",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "Meetings/Meeting 30-05.md"
 =======
 <<<<<<< HEAD
@@ -197,6 +210,9 @@
 =======
                 "file": "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md"
 >>>>>>> b4cc47f9ea2c2423fe8112177e9a2523b731999b
+>>>>>>> Stashed changes
+=======
+                "file": "DailyNotes/2024-05-29.md"
 >>>>>>> Stashed changes
               }
             }
@@ -221,6 +237,10 @@
   "active": "2d8a8c1b98e19b0d",
   "lastOpenFiles": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    "Meetings/Meeting 30-05.md",
+>>>>>>> Stashed changes
     "DailyNotes/2024-05-29.md",
     "ROS Notes and Installs/Articulated robotics/Launch simulation.md",
     "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md",
@@ -260,7 +280,6 @@
     "ROS Notes and Installs/Articulated robotics/10 Ros concepts to know.md",
     "ROS Notes and Installs/Articulated robotics/Adding Camera.md",
     "ROS Notes and Installs/Articulated robotics/Pasted image 20240523093307.png",
-    "Meetings/Meeting 30-05.md",
     "Meetings/Meeting Notes 5.md",
     "Meetings/Meeting Notes 10.md",
 <<<<<<< Updated upstream
