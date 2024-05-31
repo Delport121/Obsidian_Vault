@@ -1,35 +1,19 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "030b822f11d975d8",
+    "id": "e5de8142e8fec27a",
     "type": "split",
     "children": [
       {
-        "id": "eeadec11c0d1a28c",
+        "id": "fde2fa9969b98d45",
         "type": "tabs",
         "children": [
           {
-            "id": "00677904067911eb",
-=======
-    "id": "f691231768151024",
-    "type": "split",
-    "children": [
-      {
-        "id": "7566cc67425bf24c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc927a02e483e171",
->>>>>>> 7de44dd34755731f2e78bfe3c707ca4504cd4ac1
+            "id": "8f3ba2e1ae74d973",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "ROS Notes and Installs/Articulated robotics/ros2_control Control and Simulation.md",
-=======
-                "file": "General Research/uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
->>>>>>> 7de44dd34755731f2e78bfe3c707ca4504cd4ac1
                 "mode": "source",
                 "source": false
               }
@@ -41,27 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "df73ecff9ee816f9",
+    "id": "e7df701780714606",
     "type": "split",
     "children": [
       {
-        "id": "a6258708247abff7",
+        "id": "65b52c9f380bcffd",
         "type": "tabs",
         "children": [
           {
-            "id": "50f3d9d4da6adaae",
-=======
-    "id": "e473e915c7975db8",
-    "type": "split",
-    "children": [
-      {
-        "id": "e920a068c7c90fa1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21693260d9580ebb",
->>>>>>> 7de44dd34755731f2e78bfe3c707ca4504cd4ac1
+            "id": "aae7dbed692d1818",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,11 +43,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "e0bab7de29292dee",
-=======
-            "id": "4f46a208652dd8ae",
->>>>>>> 7de44dd34755731f2e78bfe3c707ca4504cd4ac1
+            "id": "229604b4ae9b9b17",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -90,11 +58,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "63a1d6986dfbc54b",
-=======
-            "id": "1aa3d7c00d923d33",
->>>>>>> 7de44dd34755731f2e78bfe3c707ca4504cd4ac1
+            "id": "c3972812c76c4c42",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -108,27 +72,15 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "af0e0fce5a6c4b26",
+    "id": "ad4ca2dbb400e722",
     "type": "split",
     "children": [
       {
-        "id": "e0243a078791a78d",
+        "id": "d407520b921daee5",
         "type": "tabs",
         "children": [
           {
-            "id": "6411bbcb9f2ff809",
-=======
-    "id": "464bbb7871034c94",
-    "type": "split",
-    "children": [
-      {
-        "id": "5c4ac39fa78ae6d6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e3706c0b0ceb4f52",
->>>>>>> 7de44dd34755731f2e78bfe3c707ca4504cd4ac1
+            "id": "15954b8b7c3c265e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -136,20 +88,12 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "1ca92ba82d3473d1",
-=======
-            "id": "663d13d10d5c0a07",
->>>>>>> 7de44dd34755731f2e78bfe3c707ca4504cd4ac1
+            "id": "0e24617fa452c1c6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "ROS Notes and Installs/Articulated robotics/ros2_control Control and Simulation.md",
-=======
-                "file": "General Research/uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
->>>>>>> 7de44dd34755731f2e78bfe3c707ca4504cd4ac1
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,31 +105,19 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "061822ee586d915b",
-=======
-            "id": "6f68b2fd8af46708",
->>>>>>> 7de44dd34755731f2e78bfe3c707ca4504cd4ac1
+            "id": "848ca3b3375a4452",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "ROS Notes and Installs/Articulated robotics/ros2_control Control and Simulation.md",
-=======
-                "file": "General Research/uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
->>>>>>> 7de44dd34755731f2e78bfe3c707ca4504cd4ac1
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "f6195562f33ee7e5",
-=======
-            "id": "20f01f96c753c05d",
->>>>>>> 7de44dd34755731f2e78bfe3c707ca4504cd4ac1
+            "id": "6c294c295a6d28aa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -196,20 +128,12 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "d1162bf5218a9b97",
-=======
-            "id": "e5ffe1ccb4ec9ed9",
->>>>>>> 7de44dd34755731f2e78bfe3c707ca4504cd4ac1
+            "id": "a81f998065aba627",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "ROS Notes and Installs/Articulated robotics/ros2_control Control and Simulation.md"
-=======
-                "file": "General Research/uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md"
->>>>>>> 7de44dd34755731f2e78bfe3c707ca4504cd4ac1
               }
             }
           }
@@ -230,27 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "00677904067911eb",
+  "active": "8f3ba2e1ae74d973",
   "lastOpenFiles": [
-    "Pasted image 20240530225713.png",
-    "Pasted image 20240530225526.png",
-    "ROS Notes and Installs/Articulated robotics/ros2_control Control and Simulation.md"
-=======
-  "active": "cc927a02e483e171",
-  "lastOpenFiles": [
-    "Pasted image 20240531171730.png",
-    "Pasted image 20240531171656.png",
-    "Pasted image 20240531171557.png",
-    "General Research/uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
-    "Pasted image 20240531171517.png",
-    "Pasted image 20240531171447.png",
-    "Pasted image 20240531171416.png",
-    "Pasted image 20240531171403.png",
-    "Pasted image 20240531171158.png",
-    "DailyNotes/2024-05-31.md",
-    "Untitled.md",
-    "DailyNotes/2024-05-29.md"
->>>>>>> 7de44dd34755731f2e78bfe3c707ca4504cd4ac1
+    "ROS Notes and Installs/Articulated robotics/Setting up network for Ros.md",
+    "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
+    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
+    "ROS Notes and Installs/Articulated robotics/Launch simulation.md",
+    "ROS Notes and Installs/Articulated robotics/ros2_control Control and Simulation.md",
+    "ROS Notes and Installs/Articulated robotics/URDF.md",
+    "ROS Notes and Installs/Articulated robotics/Five things you need before starting ROS.md",
+    "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
+    "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
+    "ROS Notes and Installs/Articulated robotics/Adding Camera.md",
+    "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md"
   ]
 }
