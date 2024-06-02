@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/ros2_control Control and Simulation.md",
+                "file": "DailyNotes/2024-06-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/ros2_control Control and Simulation.md",
+                "file": "DailyNotes/2024-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/ros2_control Control and Simulation.md",
+                "file": "DailyNotes/2024-06-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/ros2_control Control and Simulation.md"
+                "file": "DailyNotes/2024-06-01.md"
               }
             }
           }
@@ -156,11 +156,14 @@
   },
   "active": "8f3ba2e1ae74d973",
   "lastOpenFiles": [
+    "Meetings/Meeting Notes 10.md",
+    "DailyNotes/2024-06-01.md",
+    "DailyNotes/2024-05-31.md",
+    "ROS Notes and Installs/Articulated robotics/ros2_control Control and Simulation.md",
     "ROS Notes and Installs/Articulated robotics/Setting up network for Ros.md",
     "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
     "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
     "ROS Notes and Installs/Articulated robotics/Launch simulation.md",
-    "ROS Notes and Installs/Articulated robotics/ros2_control Control and Simulation.md",
     "ROS Notes and Installs/Articulated robotics/URDF.md",
     "ROS Notes and Installs/Articulated robotics/Five things you need before starting ROS.md",
     "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
