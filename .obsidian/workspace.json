@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meetings/Meeting 06-04.md",
+                "file": "ROS Notes and Installs/Articulated robotics/12) slam_toolbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meetings/Meeting 06-04.md",
+                "file": "ROS Notes and Installs/Articulated robotics/12) slam_toolbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meetings/Meeting 06-04.md",
+                "file": "ROS Notes and Installs/Articulated robotics/12) slam_toolbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meetings/Meeting 06-04.md"
+                "file": "ROS Notes and Installs/Articulated robotics/12) slam_toolbox.md"
               }
             }
           }
@@ -156,22 +156,45 @@
   },
   "active": "8f3ba2e1ae74d973",
   "lastOpenFiles": [
-    "Meetings/Meeting 05-30.md",
-    "Meetings/Meeting 06-04.md",
-    "Meetings/Meeting Notes 10.md",
-    "DailyNotes/2024-06-03.md",
-    "DailyNotes/2024-06-01.md",
-    "ROS Notes and Installs/Articulated robotics/ros2_control Control and Simulation.md",
-    "DailyNotes/2024-05-31.md",
+    "General Research/uPennLectures/uPennImages/Pasted image 20240531171656.png",
+    "General Research/uPennLectures/uPennImages/Pasted image 20240531171517.png",
+    "General Research/uPennLectures/uPennImages/Pasted image 20240531171447.png",
+    "General Research/uPennLectures/uPennImages/Pasted image 20240531171416.png",
+    "General Research/uPennLectures/uPennImages/Pasted image 20240531171403.png",
+    "General Research/uPennLectures/uPennImages/Pasted image 20240531171158.png",
+    "General Research/uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
+    "General Research/uPennLectures/uPennImages",
+    "General Research/uPennLectures/L07 Filtering.md",
+    "General Research/uPennLectures/L07 Scan Matching.md",
+    "General Research/uPennLectures/L07 Scan Matching Lab 1.md",
+    "General Research/uPennLectures/L09 Particle filters.md",
+    "General Research/uPennLectures/L010 Pure pursuit.md",
+    "General Research/uPennLectures/L022 Raceline optimization.md",
+    "General Research/Feature extraction.pdf",
+    "General Research/General Notes.md",
+    "General Research/General research 22-04.md",
+    "General Research/SLAM.md",
+    "General Research/KalmanFilterNotes.pdf",
+    "General Research/Topics of interest.md",
+    "General Research/uPennLectures/L01 Introduction.md",
+    "General Research/uPennLectures/L02 Autonomous Emergency Breaking.md",
+    "General Research/uPennLectures/L03 Rigid body transformations.md",
+    "General Research/uPennLectures/L04 PID control.md",
+    "General Research/uPennLectures/L05 Follow the gap for obstacle avoidance.md",
+    "General Research/uPennLectures/uPennImages/Pasted image 20240531171557.png",
+    "General Research/uPennLectures/uPennImages/Pasted image 20240531171730.png",
+    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240605095019.png",
+    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240605162049.png",
+    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240605161952.png",
+    "ROS Notes and Installs/Articulated robotics/9) ros2_control Extra bits.md",
+    "ROS Notes and Installs/Articulated robotics/Articulated robotics images",
+    "ROS Notes and Installs/Articulated robotics/Control Ros from other parameters.md",
+    "ROS Notes and Installs/Articulated robotics/10) ros2_control on real robot.md",
+    "ROS Notes and Installs/Articulated robotics/12) slam_toolbox.md",
+    "ROS Notes and Installs/Nav2.md",
     "ROS Notes and Installs/Articulated robotics/Setting up network for Ros.md",
-    "ROS Notes and Installs/Articulated robotics/Simulating with Gazebo (8).md",
-    "ROS Notes and Installs/Articulated robotics/Driving the virtual robot (9).md",
-    "ROS Notes and Installs/Articulated robotics/Launch simulation.md",
-    "ROS Notes and Installs/Articulated robotics/URDF.md",
-    "ROS Notes and Installs/Articulated robotics/Five things you need before starting ROS.md",
-    "ROS Notes and Installs/Articulated robotics/Creating a rough 3D model.md",
-    "ROS Notes and Installs/Articulated robotics/Adding Lidar.md",
-    "ROS Notes and Installs/Articulated robotics/Adding Camera.md",
-    "ROS Notes and Installs/Articulated robotics/Adding a depth camera.md"
+    "ROS Notes and Installs/Articulated robotics/12) Advanced Teleoperation.md",
+    "ROS Notes and Installs/Articulated robotics/11) Teleoperation.md",
+    "ROS Notes and Installs/Articulated robotics/8) ros2_control Control and Simulation.md"
   ]
 }

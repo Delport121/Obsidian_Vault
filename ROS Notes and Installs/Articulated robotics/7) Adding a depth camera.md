@@ -2,7 +2,7 @@
 # How is it used in Ros
 
 They have a driver of some sort, that publishes an Image topic and a CameraInfo topic, and they can use image_transport to handle compression and so on.
-![[Pasted image 20240527194357.png]]
+![[Pasted image 20240527194357 1.png]]
 
 ROS also provides the depth_image_proc package 
 
