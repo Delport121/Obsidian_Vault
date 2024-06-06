@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/12) slam_toolbox.md",
+                "file": "DailyNotes/2024-06-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/12) slam_toolbox.md",
+                "file": "DailyNotes/2024-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/12) slam_toolbox.md",
+                "file": "DailyNotes/2024-06-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS Notes and Installs/Articulated robotics/12) slam_toolbox.md"
+                "file": "DailyNotes/2024-06-06.md"
               }
             }
           }
@@ -156,6 +156,26 @@
   },
   "active": "8f3ba2e1ae74d973",
   "lastOpenFiles": [
+    "ROS Notes and Installs/Articulated robotics/12) slam_toolbox.md",
+    "DailyNotes/2024-06-06.md",
+    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240606172513.png",
+    "ROS Notes and Installs/Articulated robotics/11) Teleoperation.md",
+    "ROS Notes and Installs/Articulated robotics/Launch simulation.md",
+    "ROS Notes and Installs/Articulated robotics/12) Advanced Teleoperation.md",
+    "ROS Notes and Installs/Articulated robotics/8) ros2_control Control and Simulation.md",
+    "ROS Notes and Installs/ROS Commands.md",
+    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240606110334.png",
+    "ROS Notes and Installs/RoboticsBackEnd/Read me.md",
+    "ROS Notes and Installs/RoboticsBackEnd/Generate a Map with slam_toolbox.md",
+    "ROS Notes and Installs/Nav2.md",
+    "ROS Notes and Installs/RoboticsBackEnd",
+    "ROS Notes and Installs/Untitled.md",
+    "ROS Notes and Installs/Articulated robotics/2) Simulating with Gazebo.md",
+    "ROS Notes and Installs/Articulated robotics/5) Adding Lidar.md",
+    "ROS Notes and Installs/Articulated robotics/6) Adding Camera.md",
+    "ROS Notes and Installs/Articulated robotics/7) Adding a depth camera.md",
+    "ROS Notes and Installs/Articulated robotics/9) ros2_control Extra bits.md",
+    "ROS Notes and Installs/Articulated robotics/10) ros2_control on real robot.md",
     "General Research/uPennLectures/uPennImages/Pasted image 20240531171656.png",
     "General Research/uPennLectures/uPennImages/Pasted image 20240531171517.png",
     "General Research/uPennLectures/uPennImages/Pasted image 20240531171447.png",
@@ -173,28 +193,9 @@
     "General Research/Feature extraction.pdf",
     "General Research/General Notes.md",
     "General Research/General research 22-04.md",
-    "General Research/SLAM.md",
     "General Research/KalmanFilterNotes.pdf",
-    "General Research/Topics of interest.md",
-    "General Research/uPennLectures/L01 Introduction.md",
-    "General Research/uPennLectures/L02 Autonomous Emergency Breaking.md",
-    "General Research/uPennLectures/L03 Rigid body transformations.md",
-    "General Research/uPennLectures/L04 PID control.md",
-    "General Research/uPennLectures/L05 Follow the gap for obstacle avoidance.md",
     "General Research/uPennLectures/uPennImages/Pasted image 20240531171557.png",
     "General Research/uPennLectures/uPennImages/Pasted image 20240531171730.png",
-    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240605095019.png",
-    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240605162049.png",
-    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240605161952.png",
-    "ROS Notes and Installs/Articulated robotics/9) ros2_control Extra bits.md",
-    "ROS Notes and Installs/Articulated robotics/Articulated robotics images",
-    "ROS Notes and Installs/Articulated robotics/Control Ros from other parameters.md",
-    "ROS Notes and Installs/Articulated robotics/10) ros2_control on real robot.md",
-    "ROS Notes and Installs/Articulated robotics/12) slam_toolbox.md",
-    "ROS Notes and Installs/Nav2.md",
-    "ROS Notes and Installs/Articulated robotics/Setting up network for Ros.md",
-    "ROS Notes and Installs/Articulated robotics/12) Advanced Teleoperation.md",
-    "ROS Notes and Installs/Articulated robotics/11) Teleoperation.md",
-    "ROS Notes and Installs/Articulated robotics/8) ros2_control Control and Simulation.md"
+    "ROS Notes and Installs/Articulated robotics/Articulated robotics images"
   ]
 }
