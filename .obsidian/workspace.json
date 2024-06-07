@@ -11,9 +11,25 @@
             "id": "8f3ba2e1ae74d973",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Research Papers/Paper archive/Model- and Acceleration-based Pursuit Controller for High-Performance Autonomous Racing.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e759df9301e001af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "297b88e1ef67b72d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-06-06.md",
+                "file": "To do.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-06.md",
+                "file": "To do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-06.md",
+                "file": "To do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-06-06.md"
+                "file": "To do.md"
               }
             }
           }
@@ -154,21 +170,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f3ba2e1ae74d973",
+  "active": "297b88e1ef67b72d",
   "lastOpenFiles": [
-    "ROS Notes and Installs/Articulated robotics/12) slam_toolbox.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "Templates/Daily Template.md",
     "DailyNotes/2024-06-06.md",
+    "Research Papers/Paper archive/Model- and Acceleration-based Pursuit Controller for High-Performance Autonomous Racing.pdf",
+    "Research Papers/Papers To do.md",
+    "Research Papers/Paper archive/Localization and Mapping for Robots in Agriculture and Forestry.pdf",
+    "Research Papers/Paper archive/An_autonomous_racing_software_for_the_Indy_Autonomo.pdf",
+    "Introduction to F1Tenth Research.md",
+    "Research Papers/Paper archive/CommonRoad_Vehicle_Models.pdf",
+    "Research Papers/Paper archive/Accurate Mapping and Planning for Autonomous Racing.pdf",
+    "Research Papers/Paper archive/A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf",
+    "Research Papers/Thesis examples/A SLAM Method for the Formula Student Driverless Competition.pdf",
+    "Research Papers/Journal Club/Detection of rock bridges by infrared thermal imaging and modeling.pdf",
+    "Research Papers/Journal Club/Learning robust perceptive locomotion for quadrupedal robots in the wild.pdf",
+    "Research Papers/Learning robust perceptive locomotion for quadrupedal robots in the wild.pdf",
+    "ROS Notes and Installs/Articulated robotics/13) nav2.md",
+    "ROS Notes and Installs/Articulated robotics/12) slam_toolbox.md",
+    "ROS Notes and Installs/Articulated robotics/12) Advanced Teleoperation.md",
     "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240606172513.png",
     "ROS Notes and Installs/Articulated robotics/11) Teleoperation.md",
     "ROS Notes and Installs/Articulated robotics/Launch simulation.md",
-    "ROS Notes and Installs/Articulated robotics/12) Advanced Teleoperation.md",
     "ROS Notes and Installs/Articulated robotics/8) ros2_control Control and Simulation.md",
     "ROS Notes and Installs/ROS Commands.md",
     "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240606110334.png",
     "ROS Notes and Installs/RoboticsBackEnd/Read me.md",
     "ROS Notes and Installs/RoboticsBackEnd/Generate a Map with slam_toolbox.md",
     "ROS Notes and Installs/Nav2.md",
-    "ROS Notes and Installs/RoboticsBackEnd",
     "ROS Notes and Installs/Untitled.md",
     "ROS Notes and Installs/Articulated robotics/2) Simulating with Gazebo.md",
     "ROS Notes and Installs/Articulated robotics/5) Adding Lidar.md",
@@ -183,19 +213,10 @@
     "General Research/uPennLectures/uPennImages/Pasted image 20240531171403.png",
     "General Research/uPennLectures/uPennImages/Pasted image 20240531171158.png",
     "General Research/uPennLectures/L06 Vehicle states, vehicle dynamics and map representations.md",
-    "General Research/uPennLectures/uPennImages",
     "General Research/uPennLectures/L07 Filtering.md",
     "General Research/uPennLectures/L07 Scan Matching.md",
     "General Research/uPennLectures/L07 Scan Matching Lab 1.md",
-    "General Research/uPennLectures/L09 Particle filters.md",
-    "General Research/uPennLectures/L010 Pure pursuit.md",
-    "General Research/uPennLectures/L022 Raceline optimization.md",
-    "General Research/Feature extraction.pdf",
-    "General Research/General Notes.md",
-    "General Research/General research 22-04.md",
-    "General Research/KalmanFilterNotes.pdf",
     "General Research/uPennLectures/uPennImages/Pasted image 20240531171557.png",
-    "General Research/uPennLectures/uPennImages/Pasted image 20240531171730.png",
-    "ROS Notes and Installs/Articulated robotics/Articulated robotics images"
+    "General Research/uPennLectures/uPennImages/Pasted image 20240531171730.png"
   ]
 }

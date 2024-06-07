@@ -8,7 +8,6 @@
 - [ ] Music
 - [ ] Organise spotify
 ## To get
-- [ ] Get dog blanket for bike in car
 - [ ] Get water pack
 - [ ] Get garmin watch
 ## Later on or low priority
@@ -28,7 +27,6 @@ Passive vs active strecth
 
 
 Calendar Events
-
 ```tasks
 not done
 path does not include Calendar

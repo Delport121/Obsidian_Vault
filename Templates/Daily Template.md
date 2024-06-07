@@ -1,7 +1,1 @@
 # To do
-
-# Pocket cube
-
-# Subjects
-
-# Admin

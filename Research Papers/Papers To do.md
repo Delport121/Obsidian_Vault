@@ -10,7 +10,14 @@
 - [ ] [[Recent Advancements in Agriculture Robots.pdf]]
 - [ ] [[Minimum curvature trajectory planning and control for an autonomous race car.pdf]]
 - [ ] [[Particle Filters - A Hands On Tutorial.pdf]]
+- [ ] [[A_25D_Map-Based_Mobile_Robot_Localization_via_Coop.pdf]]
+- [ ] [[Accurate Mapping and Planning for Autonomous Racing.pdf]]
+- [ ] [[CommonRoad_Vehicle_Models.pdf]]
+- [ ] [[An_autonomous_racing_software_for_the_Indy_Autonomo.pdf]]
+- [ ] [[Model- and Acceleration-based Pursuit Controller for High-Performance Autonomous Racing.pdf]]
 
+Farrming:
+- [ ] [[Localization and Mapping for Robots in Agriculture and Forestry.pdf]]
 # Thesis to do
 - [ ] [[A SLAM Method for the Formula Student Driverless Competition.pdf]]
 - [x] [[Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf]]  [completion:: 2024-05-28]
