@@ -1,4 +1,4 @@
-# 1. Clone PF repo
+	# 1. Clone PF repo
 	make ros2 ws or cd into ros2 ws
 ```
 cd src

@@ -1,12 +1,12 @@
 In terminal in sim_ws directory:
-ruan@ruan-OptiPlex-7050:~/sim_ws$ 
+`ruan@ruan-OptiPlex-7050:~/sim_ws$` 
 ```bash
 ros2 launch f1tenth_gym_ros gym_bridge_launch.py
 ```
 In another terminal directory:
-ruan@ruan-OptiPlex-7050:~/Ros2PP/src/my_waypoint_follower/my_waypoint_follower$
+`ruan@ruan-OptiPlex-7050:~/Ros2PP/src/my_waypoint_follower/my_waypoint_follower$`
 ```bash
-ruan@ruan-OptiPlex-7050:~/Ros2PP/src/my_waypoint_follower/my_waypoint_follower$
+
 ```
 
 # Setup

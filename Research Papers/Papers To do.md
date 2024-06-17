@@ -15,8 +15,10 @@
 - [ ] [[CommonRoad_Vehicle_Models.pdf]]
 - [ ] [[An_autonomous_racing_software_for_the_Indy_Autonomo.pdf]]
 - [ ] [[Model- and Acceleration-based Pursuit Controller for High-Performance Autonomous Racing.pdf]]
+- [ ] [[An Indoor Global Localization Technique for Mobile Robots in Long Straight Environments.pdf]]
 
-Farrming:
+
+## Farming:
 - [ ] [[Localization and Mapping for Robots in Agriculture and Forestry.pdf]]
 # Thesis to do
 - [ ] [[A SLAM Method for the Formula Student Driverless Competition.pdf]]
