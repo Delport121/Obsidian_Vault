@@ -1,1 +1,2 @@
+#DailyNotes
 # To do

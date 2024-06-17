@@ -1,6 +1,6 @@
 ## Admin
 - [ ] Deliver wine to charl
-- [ ] Study how to take notes of academic papers
+- [x] Study how to take notes of academic papers  [completion:: 2024-06-16]
 - [ ] Sheep counting with computer vision
 ## Personal
 - [ ] Exercise Program

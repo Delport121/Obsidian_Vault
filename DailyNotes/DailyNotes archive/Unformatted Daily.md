@@ -1,3 +1,4 @@
+#DailyNotes
 **Week 1**
 **Day 1**
 - [x] Registration  [completion:: 2024-02-28]

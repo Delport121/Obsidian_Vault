@@ -1,4 +1,12 @@
 {
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "Things",
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "Cascadia Code,Inter",
+  "textFontFamily": "Cascadia Code,Inter",
+  "monospaceFontFamily": "Cascadia Code,Inter",
+  "enabledCssSnippets": [
+    "Ruan-Colored Headings"
+  ]
 }

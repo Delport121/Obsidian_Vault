@@ -1,5 +1,5 @@
 # Types of SLAM
-[[https://medium.com/@nahmed3536/the-types-of-slam-algorithms-356196937e3d]]
+[[https://medium.com/@nah[]()med3536/the-types-of-slam-algorithms-356196937e3d]]
 ### Filter based SLAM
 The SLAM problem is seen as a state estimation problem.As more date is collected the estimate is augmented and refined
 - Kalman filter: 
