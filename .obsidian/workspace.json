@@ -23,11 +23,9 @@
             "id": "dc1267922d610b23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "DailyNotes/2024-06-17.md",
-                "mode": "source",
-                "source": false
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-17.md",
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-17.md",
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-06-17.md"
+                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
               }
             }
           }
@@ -173,39 +171,42 @@
   },
   "active": "dc1267922d610b23",
   "lastOpenFiles": [
+    "DailyNotes/2024-06-21.md",
+    "DailyNotes/2024-06-20.md",
+    "DailyNotes/2024-06-19.md",
+    "DailyNotes/2024-06-17.md",
+    "General Research/General Notes.md",
+    "General Research/Topics of interest.md",
+    "General Research/Untitled.md",
+    "DailyNotes/2024-06-14.md",
+    "Templates/Daily Template.md",
+    "General Research/Feature extraction.pdf",
+    "General Research/General research 22-04.md",
+    "General Research/KalmanFilterNotes.pdf",
+    "General Research/SLAM.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "Meetings/Meeting Notes 10.md",
+    "Meetings/Meeting 06-15.md",
+    "Meetings/Meeting 06-04.md",
     "General Research/uPennLectures/L08 Localization-Particle Filter.md",
     "General Research/uPennLectures/L09 Introduction to graph based SLAM.md",
     "ROS Notes and Installs/Articulated robotics/6) Adding Camera.md",
     "ROS Notes and Installs/Articulated robotics/7) Adding a depth camera.md",
-    "DailyNotes/2024-06-17.md",
     "ROS Notes and Installs/PF for ros install.md",
     "ROS Notes and Installs/ROS Commands.md",
     "ROS Notes and Installs/Udemy Ros Course.md",
     "ROS Notes and Installs/Running Imimg's ros.md",
     "ROS Notes and Installs/Articulated robotics/13) nav2.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
     "Introduction to F1Tenth Research.md",
     "Meetings/Meeting Notes 3.md",
     "Meetings/Meeting Notes 4.md",
-    "Meetings/Meeting Notes 5.md",
-    "Meetings/Meeting Notes 10.md",
-    "Meetings/Meeting Notes 9.md",
-    "Meetings/Meeting Notes 8.md",
-    "Meetings/Meeting Notes 7.md",
-    "Meetings/Meeting Notes 6.md",
-    "Meetings/Meeting Notes 2.md",
-    "To do.md",
     "Untitled.canvas",
-    "Research Papers/Papers To do.md",
     "Research Papers/Paper archive/An Indoor Global Localization Technique for Mobile Robots in Long Straight Environments.pdf",
     "Research Papers/Paper archive/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf",
     "Research Papers/Paper archive/Accurate_Mapping_and_Planning_for_Autonomous_Racing.pdf",
     "Research Papers/Paper archive/Accurate Mapping and Planning for Autonomous Racing.pdf",
-    "An Indoor Global Localization Technique for Mobile Robots in Long Straight Environments.pdf.md",
     "Research Papers/Paper archive/An_autonomous_racing_software_for_the_Indy_Autonomo.pdf",
     "Research Papers/Paper archive/CommonRoad_Vehicle_Models.pdf",
-    "ROS Notes and Installs/Nav2.md",
-    "ROS Notes and Installs/Latex setup.md",
     "Images/Screenshot from 2024-02-29 11-47-39.png",
     "Images/Screenshot from 2024-01-24 17-07-38.png",
     "Images/Screenshot from 2024-01-24 16-57-44.png",
@@ -216,10 +217,7 @@
     "Images/Pasted image 20240325095917.png",
     "Images/Pasted image 20240325095043.png",
     "Images/Pasted image 20240325095014.png",
-    "DailyNotes/DailyNotes archive/2024-06-06.md",
     "Untitled 1.canvas",
-    "Research Papers/Thesis examples/A SLAM Method for the Formula Student Driverless Competition.pdf",
-    "Research Papers/Thesis examples/Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf",
-    "Research Papers/Thesis examples/Simultaneous localisation and mapping using Lidar for autonomous racing.pdf"
+    "Research Papers/Thesis examples/A SLAM Method for the Formula Student Driverless Competition.pdf"
   ]
 }
