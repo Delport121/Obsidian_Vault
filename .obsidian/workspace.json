@@ -23,10 +23,20 @@
             "id": "dc1267922d610b23",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
+                "file": "Meetings/Meeting 06-25.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "7823c9c3bec9751d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
+                "file": "Meetings/Meeting 06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf",
+                "file": "Meetings/Meeting 06-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to F1Tenth Racing Research 2024.pdf"
+                "file": "Meetings/Meeting 06-25.md"
               }
             }
           }
@@ -171,53 +181,53 @@
   },
   "active": "dc1267922d610b23",
   "lastOpenFiles": [
+    "ROS Notes and Installs/Articulated robotics/14) Tracking with OpenCV.md",
+    "ROS Notes and Installs/Articulated robotics/13) nav2.md",
+    "ROS Notes and Installs/Articulated robotics/5) Adding Lidar.md",
+    "Meetings/Meeting 06-25.md",
+    "DailyNotes/2024-06-24.md",
+    "Meetings/Meeting notes.md",
+    "Meetings/Meeting 06-04.md",
     "DailyNotes/2024-06-21.md",
     "DailyNotes/2024-06-20.md",
     "DailyNotes/2024-06-19.md",
     "DailyNotes/2024-06-17.md",
+    "DailyNotes/2024-06-14.md",
+    "DailyNotes/2024-06-11.md",
+    "DailyNotes/2024-06-12.md",
+    "Pasted image 20240624142109.png",
+    "Pasted image 20240624142050.png",
+    "Pasted image 20240624142031.png",
+    "Pasted image 20240624142016.png",
+    "().md",
+    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240624120601.png",
+    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240624120502.png",
+    "Research Papers/Paper archive/High performance racing on unmapped tracks using local maps.pdf",
+    "Research Papers/Paper archive/Localization and Mapping for Robots in Agriculture and Forestry.pdf",
+    "Research Papers/Paper archive/Minimum curvature trajectory planning and control for an autonomous race car.pdf",
+    "Research Papers/Paper archive/Model- and Acceleration-based Pursuit Controller for High-Performance Autonomous Racing.pdf",
+    "Research Papers/Paper archive/Particle Filters - A Hands On Tutorial.pdf",
+    "Research Papers/Paper archive/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf",
+    "Research Papers/Paper archive/Safe_High-Performance_Autonomous_Off-Road_Driving_Using_Covariance_Steering_Stochastic_Model_Predictive_Control.pdf",
+    "Research Papers/Paper archive/UnifyingF1TenthRacing.pdf",
+    "Meetings/Meeting Notes 10.md",
+    "Introduction to F1Tenth Racing Research 2024.pdf",
     "General Research/General Notes.md",
     "General Research/Topics of interest.md",
     "General Research/Untitled.md",
-    "DailyNotes/2024-06-14.md",
     "Templates/Daily Template.md",
     "General Research/Feature extraction.pdf",
     "General Research/General research 22-04.md",
-    "General Research/KalmanFilterNotes.pdf",
     "General Research/SLAM.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "Meetings/Meeting Notes 10.md",
-    "Meetings/Meeting 06-15.md",
-    "Meetings/Meeting 06-04.md",
     "General Research/uPennLectures/L08 Localization-Particle Filter.md",
     "General Research/uPennLectures/L09 Introduction to graph based SLAM.md",
     "ROS Notes and Installs/Articulated robotics/6) Adding Camera.md",
     "ROS Notes and Installs/Articulated robotics/7) Adding a depth camera.md",
-    "ROS Notes and Installs/PF for ros install.md",
-    "ROS Notes and Installs/ROS Commands.md",
-    "ROS Notes and Installs/Udemy Ros Course.md",
-    "ROS Notes and Installs/Running Imimg's ros.md",
-    "ROS Notes and Installs/Articulated robotics/13) nav2.md",
-    "Introduction to F1Tenth Research.md",
-    "Meetings/Meeting Notes 3.md",
-    "Meetings/Meeting Notes 4.md",
     "Untitled.canvas",
-    "Research Papers/Paper archive/An Indoor Global Localization Technique for Mobile Robots in Long Straight Environments.pdf",
-    "Research Papers/Paper archive/An Indoor Global Localization Technique for\nMobile Robots in Long Straight Environments.pdf",
-    "Research Papers/Paper archive/Accurate_Mapping_and_Planning_for_Autonomous_Racing.pdf",
-    "Research Papers/Paper archive/Accurate Mapping and Planning for Autonomous Racing.pdf",
-    "Research Papers/Paper archive/An_autonomous_racing_software_for_the_Indy_Autonomo.pdf",
-    "Research Papers/Paper archive/CommonRoad_Vehicle_Models.pdf",
     "Images/Screenshot from 2024-02-29 11-47-39.png",
     "Images/Screenshot from 2024-01-24 17-07-38.png",
     "Images/Screenshot from 2024-01-24 16-57-44.png",
     "Images/Screenshot from 2024-01-24 16-45-13.png",
-    "Images/Pasted image 20240508103329.png",
-    "Images/Pasted image 20240417132242.png",
-    "Images/Pasted image 20240325102332.png",
-    "Images/Pasted image 20240325095917.png",
-    "Images/Pasted image 20240325095043.png",
-    "Images/Pasted image 20240325095014.png",
-    "Untitled 1.canvas",
-    "Research Papers/Thesis examples/A SLAM Method for the Formula Student Driverless Competition.pdf"
+    "Untitled 1.canvas"
   ]
 }
