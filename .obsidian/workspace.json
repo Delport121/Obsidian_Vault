@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "e5de8142e8fec27a",
+    "id": "b0c663361130466f",
     "type": "split",
     "children": [
       {
-        "id": "fde2fa9969b98d45",
+        "id": "93dda1a6362cddad",
         "type": "tabs",
         "children": [
           {
-            "id": "8f3ba2e1ae74d973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROS Notes and Installs/PF for ros install.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc1267922d610b23",
+            "id": "fe412a8ba11f2724",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,31 +18,22 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7823c9c3bec9751d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e7df701780714606",
+    "id": "4d8cd3ffbf245ce9",
     "type": "split",
     "children": [
       {
-        "id": "65b52c9f380bcffd",
+        "id": "da162335584b68c9",
         "type": "tabs",
         "children": [
           {
-            "id": "aae7dbed692d1818",
+            "id": "e909dbbb40a4122a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,12 +43,12 @@
             }
           },
           {
-            "id": "229604b4ae9b9b17",
+            "id": "372971fe42ec54e7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DailyNotes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +58,7 @@
             }
           },
           {
-            "id": "c3972812c76c4c42",
+            "id": "94c2e0e88bb73dd5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "ad4ca2dbb400e722",
+    "id": "f702152a80f8085a",
     "type": "split",
     "children": [
       {
-        "id": "d407520b921daee5",
+        "id": "6a9d9f0fa0737e84",
         "type": "tabs",
         "children": [
           {
-            "id": "15954b8b7c3c265e",
+            "id": "aefaf9c211c2411c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -109,7 +88,7 @@
             }
           },
           {
-            "id": "0e24617fa452c1c6",
+            "id": "7f3f1e3f01df02e4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -126,7 +105,7 @@
             }
           },
           {
-            "id": "848ca3b3375a4452",
+            "id": "91958e0db5ac0776",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -138,7 +117,7 @@
             }
           },
           {
-            "id": "6c294c295a6d28aa",
+            "id": "2712a898ec222e7b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,7 +128,7 @@
             }
           },
           {
-            "id": "a81f998065aba627",
+            "id": "494f98828263ca2d",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -167,67 +146,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "pomodoro-timer:Toggle timer panel": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "dc1267922d610b23",
+  "active": "fe412a8ba11f2724",
   "lastOpenFiles": [
-    "ROS Notes and Installs/Articulated robotics/14) Tracking with OpenCV.md",
-    "ROS Notes and Installs/Articulated robotics/13) nav2.md",
-    "ROS Notes and Installs/Articulated robotics/5) Adding Lidar.md",
-    "Meetings/Meeting 06-25.md",
-    "DailyNotes/2024-06-24.md",
-    "Meetings/Meeting notes.md",
-    "Meetings/Meeting 06-04.md",
-    "DailyNotes/2024-06-21.md",
-    "DailyNotes/2024-06-20.md",
-    "DailyNotes/2024-06-19.md",
-    "DailyNotes/2024-06-17.md",
-    "DailyNotes/2024-06-14.md",
-    "DailyNotes/2024-06-11.md",
-    "DailyNotes/2024-06-12.md",
-    "Pasted image 20240624142109.png",
-    "Pasted image 20240624142050.png",
-    "Pasted image 20240624142031.png",
-    "Pasted image 20240624142016.png",
-    "().md",
-    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240624120601.png",
-    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240624120502.png",
-    "Research Papers/Paper archive/High performance racing on unmapped tracks using local maps.pdf",
-    "Research Papers/Paper archive/Localization and Mapping for Robots in Agriculture and Forestry.pdf",
-    "Research Papers/Paper archive/Minimum curvature trajectory planning and control for an autonomous race car.pdf",
-    "Research Papers/Paper archive/Model- and Acceleration-based Pursuit Controller for High-Performance Autonomous Racing.pdf",
-    "Research Papers/Paper archive/Particle Filters - A Hands On Tutorial.pdf",
-    "Research Papers/Paper archive/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf",
-    "Research Papers/Paper archive/Safe_High-Performance_Autonomous_Off-Road_Driving_Using_Covariance_Steering_Stochastic_Model_Predictive_Control.pdf",
-    "Research Papers/Paper archive/UnifyingF1TenthRacing.pdf",
-    "Meetings/Meeting Notes 10.md",
-    "Introduction to F1Tenth Racing Research 2024.pdf",
-    "General Research/General Notes.md",
-    "General Research/Topics of interest.md",
-    "General Research/Untitled.md",
-    "Templates/Daily Template.md",
-    "General Research/Feature extraction.pdf",
-    "General Research/General research 22-04.md",
-    "General Research/SLAM.md",
-    "General Research/uPennLectures/L08 Localization-Particle Filter.md",
-    "General Research/uPennLectures/L09 Introduction to graph based SLAM.md",
-    "ROS Notes and Installs/Articulated robotics/6) Adding Camera.md",
-    "ROS Notes and Installs/Articulated robotics/7) Adding a depth camera.md",
-    "Untitled.canvas",
-    "Images/Screenshot from 2024-02-29 11-47-39.png",
-    "Images/Screenshot from 2024-01-24 17-07-38.png",
-    "Images/Screenshot from 2024-01-24 16-57-44.png",
-    "Images/Screenshot from 2024-01-24 16-45-13.png",
-    "Untitled 1.canvas"
+    "DailyNotes/2024-06-24.md"
   ]
 }
