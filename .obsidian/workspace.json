@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Meetings/Meeting 06-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1463fe1e2e6cbcd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Awesome weekly robotics repo.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31ea8791d7e27d23",
+  "active": "1463fe1e2e6cbcd7",
   "lastOpenFiles": [
-    "DailyNotes/2024-06-25.md",
+    "Meetings/Meeting notes.md",
+    "Meetings/Meeting 06-25.md",
     "Awesome weekly robotics repo.md",
+    "DailyNotes/2024-06-25.md",
     "New words and definitions.md",
     "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240624142109.png",
     "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240624142050.png",
@@ -182,7 +196,6 @@
     "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240523093307.png",
     "Pasted image 20240624142016.png",
     "To do.md",
-    "Meetings/Meeting 06-25.md",
     "DailyNotes/2024-06-24.md"
   ]
 }

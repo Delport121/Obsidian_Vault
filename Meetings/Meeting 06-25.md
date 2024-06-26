@@ -1,4 +1,4 @@
-# Questions  and topics
+# Questions and topics
 - Two week holiday
 - NRF and OMT applications
 - Ben
@@ -15,3 +15,4 @@
 - Map lab once we move in with ros SLAM
 - See if there are one or two useful repos
 - Still have to do the linkdin posts
+
