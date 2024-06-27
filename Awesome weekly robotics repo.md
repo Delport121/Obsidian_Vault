@@ -25,6 +25,20 @@ This document serve more as a checklist for myself regarding the repo. Only the 
 ## Drones
 ### Ardupilots
 ## Libraries and frameworks
+	- Rerun
+	- GTSAM
+	- Ceres Solver
+	- Point Cloud Library
+	- OpenCV
+	- Robotics Library
+	- Open motion planning library
+	- evo
+	- MRPT
+	- open3D
+	- Robotics toolbox for python
+	- Fields2Cover
+	- 
+
 ####  Where to look for some papers:
 	- Autorally
 	- Duckie town
@@ -49,3 +63,8 @@ for i in range(length(arr1))
 for i, arr1 in enumerate(arr1)
 	arr1 = arr1 +i
 ```
+# 
+##
+###
+####
+#####

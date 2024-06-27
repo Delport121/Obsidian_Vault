@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Awesome weekly robotics repo.md",
+                "file": "DailyNotes/2024-06-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awesome weekly robotics repo.md",
+                "file": "DailyNotes/2024-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Awesome weekly robotics repo.md",
+                "file": "DailyNotes/2024-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Awesome weekly robotics repo.md"
+                "file": "DailyNotes/2024-06-27.md"
               }
             }
           }
@@ -185,17 +185,36 @@
   },
   "active": "1463fe1e2e6cbcd7",
   "lastOpenFiles": [
-    "Meetings/Meeting notes.md",
-    "Meetings/Meeting 06-25.md",
-    "Awesome weekly robotics repo.md",
+    "General Research/F1Tenth Lectures/L11 Local Planning - RRT Spline Base planning.md",
+    "Pasted image 20240627154209.png",
+    "Pasted image 20240627154038.png",
+    "Pasted image 20240627153607.png",
+    "Pasted image 20240627151704.png",
+    "Pasted image 20240627151657.png",
+    "Pasted image 20240627150408.png",
+    "Pasted image 20240627140530.png",
+    "Probabilistic road map example.png",
+    "Motion planning goal.png",
+    "Motion planning given.png",
+    "General Research/F1Tenth Lectures/L10 Pure pursuit.md",
+    "General Research/F1Tenth Lectures/L22 Raceline optimization.md",
+    "DailyNotes/2024-06-27.md",
+    "DailyNotes/2024-06-21.md",
+    "DailyNotes/2024-06-24.md",
     "DailyNotes/2024-06-25.md",
+    "Meetings/Meeting Notes 2.md",
+    "Meetings/Meeting notes 1.md",
+    "Meetings/Meeting 07-14.md",
+    "Awesome weekly robotics repo.md",
+    "Introduction to F1Tenth Research.md",
     "New words and definitions.md",
-    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240624142109.png",
-    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240624142050.png",
-    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240624142031.png",
-    "ROS Notes and Installs/Articulated robotics/Articulated robotics images/Pasted image 20240523093307.png",
-    "Pasted image 20240624142016.png",
     "To do.md",
-    "DailyNotes/2024-06-24.md"
+    "Introduction to F1Tenth Racing Research 2024.pdf",
+    "Research Papers/Papers To do.md",
+    "General Research/F1Tenth Lectures/L09 Introduction to graph based SLAM.md",
+    "General Research/F1Tenth Lectures/L09 Scan Matching.md",
+    "General Research/F1Tenth Lectures/L09 Scan Matching Lab 1.md",
+    "Meetings/Meeting notes.md",
+    "Meetings/Meeting 06-25.md"
   ]
 }
