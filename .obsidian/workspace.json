@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024-06-27.md",
+                "file": "Awesome weekly robotics repo.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024-06-27.md",
+                "file": "Awesome weekly robotics repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024-06-27.md",
+                "file": "Awesome weekly robotics repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024-06-27.md"
+                "file": "Awesome weekly robotics repo.md"
               }
             }
           }
@@ -185,6 +185,7 @@
   },
   "active": "1463fe1e2e6cbcd7",
   "lastOpenFiles": [
+    "DailyNotes/2024-06-27.md",
     "General Research/F1Tenth Lectures/L11 Local Planning - RRT Spline Base planning.md",
     "Pasted image 20240627154209.png",
     "Pasted image 20240627154038.png",
@@ -198,7 +199,6 @@
     "Motion planning given.png",
     "General Research/F1Tenth Lectures/L10 Pure pursuit.md",
     "General Research/F1Tenth Lectures/L22 Raceline optimization.md",
-    "DailyNotes/2024-06-27.md",
     "DailyNotes/2024-06-21.md",
     "DailyNotes/2024-06-24.md",
     "DailyNotes/2024-06-25.md",
