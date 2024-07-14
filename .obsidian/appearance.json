@@ -1,12 +1,19 @@
 {
-  "accentColor": "",
+  "accentColor": "#018993",
   "theme": "obsidian",
-  "cssTheme": "Things",
+  "cssTheme": "Vanilla AMOLED",
   "baseFontSizeAction": false,
-  "interfaceFontFamily": "Cascadia Code,Inter",
-  "textFontFamily": "Cascadia Code,Inter",
-  "monospaceFontFamily": "Cascadia Code,Inter",
+  "interfaceFontFamily": "JetBrains Mono,Cascadia Code,Inter",
+  "textFontFamily": "JetBrains Mono,Cascadia Code,Inter",
+  "monospaceFontFamily": "JetBrains Mono,Cascadia Code,Inter",
   "enabledCssSnippets": [
-    "Ruan-Colored Headings"
-  ]
+    "Ruan-Colored Headings",
+    "Colored Sidebar Items",
+    "CyanVoxel's General Tweaks",
+    "Notebook Backgrounds",
+    "Minecraft",
+    "Japanese Font Support",
+    "Runescape"
+  ],
+  "baseFontSize": 17
 }

@@ -1,0 +1,2 @@
+ [[Recent Advancements in Agriculture Robots.pdf]]
+This paper mainly describes the different types of robots used. Although it gives a good overview, some of their sources uses quite primitive robots as prototypes. These prototypes will certainly not works in real environments, an will need considerable upgrades in order to be feasible.
