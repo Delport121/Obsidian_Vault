@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "f15796dc8afe37fa",
         "type": "tabs",
         "children": [
           {
             "id": "6b521f4a4b25a153",
+=======
+        "id": "50bf7ddb00315802",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54c932bd5399b33b",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "05 - ROS Simulator/PF for ros install.md",
+=======
+                "file": "01 - DailyNotes/2024-07-15.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +129,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "05 - ROS Simulator/PF for ros install.md",
+=======
+                "file": "01 - DailyNotes/2024-07-15.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +150,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "05 - ROS Simulator/PF for ros install.md",
+=======
+                "file": "01 - DailyNotes/2024-07-15.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +166,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "05 - ROS Simulator/PF for ros install.md"
+=======
+                "file": "01 - DailyNotes/2024-07-15.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -182,6 +206,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< Updated upstream
   "active": "6b521f4a4b25a153",
   "lastOpenFiles": [
     "05 - ROS Simulator/Running Imimg's ros.md",
@@ -203,6 +228,12 @@
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "01 - DailyNotes/2024-07-14.md",
+=======
+  "active": "54c932bd5399b33b",
+  "lastOpenFiles": [
+    "01 - DailyNotes/2024-07-14.md",
+    "01 - DailyNotes/2024-07-15.md",
+>>>>>>> Stashed changes
     "01 - DailyNotes/2024-07-03.md",
     "Untitled.md",
     "01 - DailyNotes/2024-06-27.md",
@@ -215,6 +246,18 @@
     "01 - DailyNotes/DailyNotes archive/2024-06-12.md",
     "01 - DailyNotes/DailyNotes archive/2024-06-11.md",
     "99 - Meta/Images/Pasted image 20240129083742.png",
+<<<<<<< Updated upstream
+=======
+    "03 - Research/F1Tenth Lectures/L08 Localization-Particle Filter.md",
+    "03 - Research/F1Tenth Lectures/L07 Filtering.md",
+    "03 - Research/F1Tenth Lectures/L06 Vehicle states, vehicle dynamics and map representations.md",
+    "03 - Research/F1Tenth Lectures/L05 Follow the gap for obstacle avoidance.md",
+    "03 - Research/F1Tenth Lectures/L03 Rigid body transformations.md",
+    "03 - Research/F1Tenth Lectures/L02 Autonomous Emergency Breaking.md",
+    "03 - Research/F1Tenth Lectures/L01 Introduction.md",
+    "03 - Research/F1Tenth Lectures/L09 Scan Matching.md",
+    "03 - Research/F1Tenth Lectures/L09 Introduction to graph based SLAM.md",
+>>>>>>> Stashed changes
     "99 - Meta/Images/Pasted image 20240129085317.png",
     "99 - Meta/Images/Pasted image 20240129090201.png",
     "99 - Meta/Images/Pasted image 20240129092537.png",
