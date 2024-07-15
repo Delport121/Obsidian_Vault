@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b447916ad071b711",
+        "id": "f15796dc8afe37fa",
         "type": "tabs",
         "children": [
           {
-            "id": "89bf3e36ed7ef5cc",
+            "id": "6b521f4a4b25a153",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - DailyNotes/2024-07-14.md",
+                "file": "05 - ROS Simulator/PF for ros install.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,6 @@
       {
         "id": "6a9d9f0fa0737e84",
         "type": "tabs",
-        "dimension": 63.93805309734514,
         "children": [
           {
             "id": "954a621ef53fd9f0",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - DailyNotes/2024-07-14.md",
+                "file": "05 - ROS Simulator/PF for ros install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - DailyNotes/2024-07-14.md",
+                "file": "05 - ROS Simulator/PF for ros install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - DailyNotes/2024-07-14.md"
+                "file": "05 - ROS Simulator/PF for ros install.md"
               }
             }
           },
@@ -156,21 +155,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "c517f2bc91c8979f",
-        "type": "tabs",
-        "dimension": 36.06194690265487,
-        "children": [
-          {
-            "id": "8f1405a04b3e52fd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
               "state": {}
             }
           }
@@ -187,10 +171,7 @@
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "canvas:Create new canvas": false,
-      "obsidian-kanban:Create new board": false,
-      "pomodoro-timer:Toggle timer panel": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
@@ -198,14 +179,31 @@
       "markdown-importer:Open format converter": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "workspaces:Manage workspace layouts": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89bf3e36ed7ef5cc",
+  "active": "6b521f4a4b25a153",
   "lastOpenFiles": [
-    "01 - DailyNotes/2024-07-03.md",
+    "05 - ROS Simulator/Running Imimg's ros.md",
+    "01 - DailyNotes/2024-07-15.md",
+    "00 - Admin/Meetings/Meeting 07-14.md",
+    "00 - Admin/Meetings/Meeting 06-25.md",
+    "00 - Admin/Meetings/Meeting 05-30.md",
+    "00 - Admin/Meetings/Meeting Notes 10.md",
+    "00 - Admin/Meetings/Meeting Notes 9.md",
+    "00 - Admin/Meetings/Meeting Notes 8.md",
+    "00 - Admin/Meetings/Meeting Notes 7.md",
+    "00 - Admin/Meetings/Meeting 06-04.md",
+    "L13 Vision 1 - Deep learning.png",
+    "L13 Vision 1 - Deep learning-1.png",
+    "L13 Vision 1 - Deep learning-2.png",
+    "00 - Admin/To do.md",
+    "01 - DailyNotes/DailyNotes archive/2024-06-17.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "01 - DailyNotes/2024-07-14.md",
+    "01 - DailyNotes/2024-07-03.md",
     "Untitled.md",
     "01 - DailyNotes/2024-06-27.md",
     "DailyNotes/240714.md",
@@ -213,25 +211,10 @@
     "01 - DailyNotes/2024-06-29.md",
     "01 - DailyNotes/2024-07-01.md",
     "DailyNotes",
-    "01 - DailyNotes/2024-06-17.md",
-    "01 - DailyNotes/2024-06-14.md",
-    "01 - DailyNotes/2024-06-12.md",
-    "01 - DailyNotes/2024-06-11.md",
-    "01 - DailyNotes/2024-06-25.md",
-    "01 - DailyNotes/2024-06-20.md",
-    "00 - Admin/To do.md",
-    "03 - Research/F1Tenth Lectures/L10 Pure pursuit.md",
+    "01 - DailyNotes/DailyNotes archive/2024-06-14.md",
+    "01 - DailyNotes/DailyNotes archive/2024-06-12.md",
+    "01 - DailyNotes/DailyNotes archive/2024-06-11.md",
     "99 - Meta/Images/Pasted image 20240129083742.png",
-    "03 - Research/F1Tenth Lectures/L08 Localization-Particle Filter.md",
-    "03 - Research/F1Tenth Lectures/L07 Filtering.md",
-    "03 - Research/F1Tenth Lectures/L06 Vehicle states, vehicle dynamics and map representations.md",
-    "03 - Research/F1Tenth Lectures/L05 Follow the gap for obstacle avoidance.md",
-    "03 - Research/F1Tenth Lectures/L03 Rigid body transformations.md",
-    "03 - Research/F1Tenth Lectures/L02 Autonomous Emergency Breaking.md",
-    "03 - Research/F1Tenth Lectures/L01 Introduction.md",
-    "03 - Research/F1Tenth Lectures/L09 Scan Matching.md",
-    "03 - Research/F1Tenth Lectures/L09 Introduction to graph based SLAM.md",
-    "03 - Research/F1Tenth Lectures/L04 PID control.md",
     "99 - Meta/Images/Pasted image 20240129085317.png",
     "99 - Meta/Images/Pasted image 20240129090201.png",
     "99 - Meta/Images/Pasted image 20240129092537.png",
@@ -245,9 +228,6 @@
     "01 - Daily Notes",
     "99 - Meta/Preloaded Classes",
     "99 - Meta/00 - Templates",
-    "L13 Vision 1 - Deep learning-2.png",
-    "L13 Vision 1 - Deep learning-1.png",
-    "L13 Vision 1 - Deep learning.png",
     "03 - Research/F1Tenth Lectures/F1tenth Lecture Images/L21 Model Predictive control-22.png",
     "03 - Research/F1Tenth Lectures/F1tenth Lecture Images/L21 Model Predictive control-21.png",
     "Untitled.canvas"

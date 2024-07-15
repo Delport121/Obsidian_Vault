@@ -4,7 +4,7 @@
 - [ ] Sheep counting with computer vision
 - [ ] Solder volume knob back on
 - [ ] Apply for OMT
-- [ ] Submit NRF
+- [x] Submit NRF
 ## Personal
 - [ ] Exercise Program
 - [ ] Get cracked version of FL studio
@@ -13,6 +13,7 @@
 ## To get
 - [ ] Get water pack
 - [ ] Get garmin watch
+- [ ] Wide mouse pad
 ## Later on or low priority
 - [ ] Reset windows
 - [ ] Leetcode?
