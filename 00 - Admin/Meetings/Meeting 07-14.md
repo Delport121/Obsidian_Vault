@@ -14,3 +14,7 @@ Please resend the the inkscape and paper notes you sent last time
 - [ ] Map the new lab
 - [ ] Apply for second bursary
 - [ ] Supervisor report for Skye foundtion
+- [ ] Attach the camera to the f1tenth car
+- [ ] Start with map localization in python simulator
+- [ ] Look at husky rbot
+- [ ] Frequnt result
