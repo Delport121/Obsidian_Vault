@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "b0c663361130466f",
+    "id": "7ae5b8c5ccfc4916",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "f15796dc8afe37fa",
+        "id": "60984681cb2bb375",
         "type": "tabs",
         "children": [
           {
-            "id": "6b521f4a4b25a153",
-=======
-        "id": "50bf7ddb00315802",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "54c932bd5399b33b",
->>>>>>> Stashed changes
+            "id": "e2a717da1cf7428e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "05 - ROS Simulator/PF for ros install.md",
-=======
-                "file": "01 - DailyNotes/2024-07-15.md",
->>>>>>> Stashed changes
+                "file": "03 - Research/General/Awesome weekly robotics repo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -38,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4d8cd3ffbf245ce9",
+    "id": "24f4ed4630d91f91",
     "type": "split",
     "children": [
       {
-        "id": "da162335584b68c9",
+        "id": "874a7ca3af4aa7f7",
         "type": "tabs",
         "children": [
           {
-            "id": "e909dbbb40a4122a",
+            "id": "6ca3d6a20d56d3d9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +44,12 @@
             }
           },
           {
-            "id": "372971fe42ec54e7",
+            "id": "8c5296de5e35697d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Local_planning",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +59,7 @@
             }
           },
           {
-            "id": "94c2e0e88bb73dd5",
+            "id": "1091cf348dbca26b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,18 +70,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5124969482422
+    "width": 300
   },
   "right": {
-    "id": "f702152a80f8085a",
+    "id": "5f9bae9b10a2d0c3",
     "type": "split",
     "children": [
       {
-        "id": "6a9d9f0fa0737e84",
+        "id": "729b54bea5c01849",
         "type": "tabs",
         "children": [
           {
-            "id": "954a621ef53fd9f0",
+            "id": "277c9465fbe9a1f7",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -101,39 +89,12 @@
             }
           },
           {
-            "id": "2712a898ec222e7b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "49742d4b2a623c38",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "7f3f1e3f01df02e4",
+            "id": "547e3b4ae0733cbb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "05 - ROS Simulator/PF for ros install.md",
-=======
-                "file": "01 - DailyNotes/2024-07-15.md",
->>>>>>> Stashed changes
+                "file": "03 - Research/General/Awesome weekly robotics repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,134 +106,85 @@
             }
           },
           {
-            "id": "91958e0db5ac0776",
+            "id": "64ec8ace7597638f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "05 - ROS Simulator/PF for ros install.md",
-=======
-                "file": "01 - DailyNotes/2024-07-15.md",
->>>>>>> Stashed changes
+                "file": "03 - Research/General/Awesome weekly robotics repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "494f98828263ca2d",
+            "id": "d13edfc333c744de",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-<<<<<<< Updated upstream
-                "file": "05 - ROS Simulator/PF for ros install.md"
-=======
-                "file": "01 - DailyNotes/2024-07-15.md"
->>>>>>> Stashed changes
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "c406b336da0b8f03",
+            "id": "2099c610c46f0c1f",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "9c097232f37db588",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Research/General/Awesome weekly robotics repo.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
-      "zk-prefixer:Create new unique note": false,
-      "homepage:Open homepage": false,
-      "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "markdown-importer:Open format converter": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "6b521f4a4b25a153",
+  "active": "e2a717da1cf7428e",
   "lastOpenFiles": [
-    "05 - ROS Simulator/Running Imimg's ros.md",
-    "01 - DailyNotes/2024-07-15.md",
+    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
+    "00 - Admin/Introduction to F1Tenth Research.md",
+    "00 - Admin/To do.md",
+    "00 - Admin/Roadmap.md",
+    "00 - Admin/Meetings/Meeting Notes 10.md",
+    "00 - Admin/Meetings/Meeting notes 1.md",
     "00 - Admin/Meetings/Meeting 07-14.md",
     "00 - Admin/Meetings/Meeting 06-25.md",
-    "00 - Admin/Meetings/Meeting 05-30.md",
-    "00 - Admin/Meetings/Meeting Notes 10.md",
-    "00 - Admin/Meetings/Meeting Notes 9.md",
-    "00 - Admin/Meetings/Meeting Notes 8.md",
-    "00 - Admin/Meetings/Meeting Notes 7.md",
-    "00 - Admin/Meetings/Meeting 06-04.md",
-    "L13 Vision 1 - Deep learning.png",
-    "L13 Vision 1 - Deep learning-1.png",
-    "L13 Vision 1 - Deep learning-2.png",
-    "00 - Admin/To do.md",
-    "01 - DailyNotes/DailyNotes archive/2024-06-17.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
-    "01 - DailyNotes/2024-07-14.md",
-=======
-  "active": "54c932bd5399b33b",
-  "lastOpenFiles": [
-    "01 - DailyNotes/2024-07-14.md",
     "01 - DailyNotes/2024-07-15.md",
->>>>>>> Stashed changes
-    "01 - DailyNotes/2024-07-03.md",
-    "Untitled.md",
-    "01 - DailyNotes/2024-06-27.md",
-    "DailyNotes/240714.md",
-    "DailyNotes/24-07-14.md",
-    "01 - DailyNotes/2024-06-29.md",
-    "01 - DailyNotes/2024-07-01.md",
-    "DailyNotes",
-    "01 - DailyNotes/DailyNotes archive/2024-06-14.md",
-    "01 - DailyNotes/DailyNotes archive/2024-06-12.md",
-    "01 - DailyNotes/DailyNotes archive/2024-06-11.md",
-    "99 - Meta/Images/Pasted image 20240129083742.png",
-<<<<<<< Updated upstream
-=======
-    "03 - Research/F1Tenth Lectures/L08 Localization-Particle Filter.md",
-    "03 - Research/F1Tenth Lectures/L07 Filtering.md",
-    "03 - Research/F1Tenth Lectures/L06 Vehicle states, vehicle dynamics and map representations.md",
-    "03 - Research/F1Tenth Lectures/L05 Follow the gap for obstacle avoidance.md",
-    "03 - Research/F1Tenth Lectures/L03 Rigid body transformations.md",
-    "03 - Research/F1Tenth Lectures/L02 Autonomous Emergency Breaking.md",
-    "03 - Research/F1Tenth Lectures/L01 Introduction.md",
-    "03 - Research/F1Tenth Lectures/L09 Scan Matching.md",
-    "03 - Research/F1Tenth Lectures/L09 Introduction to graph based SLAM.md",
->>>>>>> Stashed changes
-    "99 - Meta/Images/Pasted image 20240129085317.png",
-    "99 - Meta/Images/Pasted image 20240129090201.png",
-    "99 - Meta/Images/Pasted image 20240129092537.png",
-    "Untitled",
-    "02 - General Notes/Lit Review general notes.png",
-    "06 - Projects",
-    "02 - General Notes",
-    "03 - Simulator Notes",
-    "03 - Research",
-    "00 - Admin",
-    "01 - Daily Notes",
-    "99 - Meta/Preloaded Classes",
-    "99 - Meta/00 - Templates",
-    "03 - Research/F1Tenth Lectures/F1tenth Lecture Images/L21 Model Predictive control-22.png",
-    "03 - Research/F1Tenth Lectures/F1tenth Lecture Images/L21 Model Predictive control-21.png",
-    "Untitled.canvas"
+    "01 - DailyNotes/2024-07-14.md"
   ]
 }

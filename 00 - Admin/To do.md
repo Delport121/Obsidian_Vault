@@ -21,4 +21,3 @@
 Static vs Dynamic stretch
 Passive vs active strecth
 
-Vim
