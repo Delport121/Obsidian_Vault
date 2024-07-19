@@ -111,6 +111,7 @@ To
 ```
 
 - After many struggles I just could not get the saved map file to load. I continued to another tutorial that helped me implement  slam and NAV2 (RoboticsBackEnd) and continued with the video
+- The error eventually was a spelling mistake of async instead of asynch
 # Localisation with AMCL
 To enable the following
 ![[Pasted image 20240606172513.png]]
