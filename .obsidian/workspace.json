@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57b9c6aa276ee8d7",
+        "id": "118c2a12e9c9e2f5",
         "type": "tabs",
         "children": [
           {
-            "id": "3cbbe3c87acb9cae",
+            "id": "04d0b12c623dd74a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,13 +180,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3cbbe3c87acb9cae",
+  "active": "04d0b12c623dd74a",
   "lastOpenFiles": [
-    "01 - DailyNotes/2024-07-16.md",
+    "01 - DailyNotes/2024-07-22.md",
     "01 - DailyNotes/2024-07-19.md",
+    "01 - DailyNotes/2024-07-16.md",
+    "01 - DailyNotes/2024-07-15.md",
     "01 - DailyNotes/2024-07-17.md",
     "00 - Admin/Meetings/Meeting 07-14.md",
-    "01 - DailyNotes/2024-07-22.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
