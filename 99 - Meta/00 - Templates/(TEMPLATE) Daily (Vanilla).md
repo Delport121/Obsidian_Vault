@@ -6,7 +6,4 @@ cssclasses: [daily, {{date:dddd}}]
 # DAILY NOTE
 ### *{{date:dddd, MMMM Do, YYYY}}*
 
-## Journal
-...
-
 ## Ongoing Tasks

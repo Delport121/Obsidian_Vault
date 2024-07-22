@@ -16,5 +16,7 @@ Please resend the the inkscape and paper notes you sent last time
 - [ ] Supervisor report for Skye foundtion
 - [ ] Attach the camera to the f1tenth car
 - [ ] Start with map localization in python simulator
-- [ ] Look at husky rbot
-- [ ] Frequnt result
+- [ ] Look at husky robot
+- [ ] Physical results
+- [ ] Frequent result
+- [ ] Have a paper accepted at the end of the year

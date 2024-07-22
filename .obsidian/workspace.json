@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "7ae5b8c5ccfc4916",
+    "id": "5df02badfc3b7004",
     "type": "split",
     "children": [
       {
-        "id": "c3ab744dd535a0a4",
+        "id": "57b9c6aa276ee8d7",
         "type": "tabs",
         "children": [
           {
-            "id": "3aa9cbe0a956930d",
+            "id": "3cbbe3c87acb9cae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "24f4ed4630d91f91",
+    "id": "d38f4e02e9c8aa82",
     "type": "split",
     "children": [
       {
-        "id": "874a7ca3af4aa7f7",
+        "id": "2d1ccc84291f61c2",
         "type": "tabs",
         "children": [
           {
-            "id": "6ca3d6a20d56d3d9",
+            "id": "5fbb9f61a2465778",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "8c5296de5e35697d",
+            "id": "d3386959c485b47d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "1091cf348dbca26b",
+            "id": "b895cee950dd91af",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,15 +73,15 @@
     "width": 300
   },
   "right": {
-    "id": "5f9bae9b10a2d0c3",
+    "id": "064b8a2fc7d11826",
     "type": "split",
     "children": [
       {
-        "id": "729b54bea5c01849",
+        "id": "1eb3ef0976ccb379",
         "type": "tabs",
         "children": [
           {
-            "id": "277c9465fbe9a1f7",
+            "id": "175ff77abe47b72c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -89,7 +89,46 @@
             }
           },
           {
-            "id": "547e3b4ae0733cbb",
+            "id": "c514652a4cd84068",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dcfa6d0e5168a03b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "1c1837e3f070b1ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - DailyNotes/2024-07-19.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1f2828228a8f3fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1108c8e91776fd2d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +145,7 @@
             }
           },
           {
-            "id": "64ec8ace7597638f",
+            "id": "701d93eb834409ce",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,45 +155,12 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "d13edfc333c744de",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "2099c610c46f0c1f",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "9c097232f37db588",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "01 - DailyNotes/2024-07-19.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +168,6 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -171,27 +176,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3aa9cbe0a956930d",
+  "active": "3cbbe3c87acb9cae",
   "lastOpenFiles": [
+    "01 - DailyNotes/2024-07-16.md",
     "01 - DailyNotes/2024-07-19.md",
-    "Running the Python simulator in Windows.md",
-    "05 - ROS Simulator/PF for ros install.md",
-    "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
     "01 - DailyNotes/2024-07-17.md",
     "00 - Admin/Meetings/Meeting 07-14.md",
-    "01 - DailyNotes/2024-07-16.md",
-    "03 - Research/General/Awesome weekly robotics repo.md",
-    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
-    "00 - Admin/Introduction to F1Tenth Research.md",
-    "00 - Admin/To do.md",
-    "00 - Admin/Roadmap.md",
-    "00 - Admin/Meetings/Meeting Notes 10.md",
-    "00 - Admin/Meetings/Meeting notes 1.md",
-    "00 - Admin/Meetings/Meeting 06-25.md",
-    "01 - DailyNotes/2024-07-15.md",
-    "01 - DailyNotes/2024-07-14.md"
+    "01 - DailyNotes/2024-07-22.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "99 - Meta/00 - Templates/Footnotes test.md",
+    "04 - Python Simulator/Running the Python simulator in Windows.md",
+    "03 - Research/F1Tenth Lectures/L13 Vision 1 - Deep learning.md"
   ]
 }

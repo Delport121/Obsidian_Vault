@@ -15,3 +15,5 @@
 # Object detection with point clouds
 # Transformer for vision
 # Network deployment
+
+The following work is not completed, I figured it is not really necessary to look at it now.

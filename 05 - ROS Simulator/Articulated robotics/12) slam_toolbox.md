@@ -60,7 +60,7 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args -r /cmd_vel:=/di
 - Note how the map origin transform stays the same and how odom moves due to drift See transform names)
 - When you return to the map origin you will be more or less in the same origin as in gazebo
 
-You can use the plugins in rviz to save the map. Add the slam  toolbox panel in rviz
+You can use the plugins in rviz to save the map. Add the slam toolbox panel in rviz
 	Save Map: Old format that maps used and used to pas the map into external systems if required (.yaml and .pgm)
 	Serialise Map: Save to reuse with the Slam toolbox (.data and .posegraph)
 This will then appear as 4 folders in the workspace.
