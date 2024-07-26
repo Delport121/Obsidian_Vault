@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cbbce0ed327b2cf4",
+        "id": "2da1d7b8d0592a33",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d863e51f024755",
+            "id": "ce449d85e88c41fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - DailyNotes/2024-07-25.md",
+                "file": "02 - General Notes/Creating a driver stack.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - DailyNotes/2024-07-25.md"
+                "file": "02 - General Notes/Creating a driver stack.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - DailyNotes/2024-07-25.md",
+                "file": "02 - General Notes/Creating a driver stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - DailyNotes/2024-07-25.md",
+                "file": "02 - General Notes/Creating a driver stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,11 +181,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7d863e51f024755",
+  "active": "ce449d85e88c41fb",
   "lastOpenFiles": [
+    "00 - Admin/Meetings/Meeting 07-14.md",
+    "01 - DailyNotes/2024-07-25.md",
     "01 - DailyNotes/2024-07-24.md",
     "01 - DailyNotes/2024-07-23.md",
-    "01 - DailyNotes/2024-07-25.md",
     "01 - DailyNotes/2024-07-22.md",
     "01 - DailyNotes/2024-07-19.md",
     "01 - DailyNotes/2024-07-16.md",
@@ -209,7 +210,6 @@
     "05 - ROS Simulator/Nav2.md",
     "05 - ROS Simulator/PF for ros install.md",
     "F1tenth ROS.md",
-    "05 - ROS Simulator/F1tenth ROS.md",
-    "01 - DailyNotes/2024-07-15.md"
+    "05 - ROS Simulator/F1tenth ROS.md"
   ]
 }

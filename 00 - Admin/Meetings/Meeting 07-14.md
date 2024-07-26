@@ -13,10 +13,12 @@ Please resend the the inkscape and paper notes you sent last time
 # What I am planning to do
 - [ ] Map the new lab
 - [ ] Apply for second bursary
-- [ ] Supervisor report for Skye foundtion
+- [x] Supervisor report for Skye foundtion
 - [ ] Attach the camera to the f1tenth car
 - [ ] Start with map localization in python simulator
 - [ ] Look at husky robot
 - [ ] Physical results
 - [ ] Frequent result
 - [ ] Have a paper accepted at the end of the year
+- [ ] Find gmapping config file?
+- [ ] est map editor is paint of all things
