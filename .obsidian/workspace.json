@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2da1d7b8d0592a33",
+        "id": "8e33afef7c800b42",
         "type": "tabs",
         "children": [
           {
-            "id": "ce449d85e88c41fb",
+            "id": "6e25c2e58fd473a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - General Notes/Creating a driver stack.md",
+                "file": "01 - DailyNotes/2024-07-26.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - General Notes/Creating a driver stack.md"
+                "file": "01 - DailyNotes/2024-07-26.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - General Notes/Creating a driver stack.md",
+                "file": "01 - DailyNotes/2024-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - General Notes/Creating a driver stack.md",
+                "file": "01 - DailyNotes/2024-07-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce449d85e88c41fb",
+  "active": "6e25c2e58fd473a2",
   "lastOpenFiles": [
+    "02 - General Notes/Creating a driver stack.md",
+    "01 - DailyNotes/2024-07-26.md",
     "00 - Admin/Meetings/Meeting 07-14.md",
     "01 - DailyNotes/2024-07-25.md",
     "01 - DailyNotes/2024-07-24.md",
@@ -190,7 +192,6 @@
     "01 - DailyNotes/2024-07-22.md",
     "01 - DailyNotes/2024-07-19.md",
     "01 - DailyNotes/2024-07-16.md",
-    "02 - General Notes/Creating a driver stack.md",
     "02 - General Notes/VS Code shortcuts.md",
     "02 - General Notes/Realsense Camera D345i.md",
     "02 - General Notes/New words and definitions.md",
@@ -209,7 +210,6 @@
     "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
     "05 - ROS Simulator/Nav2.md",
     "05 - ROS Simulator/PF for ros install.md",
-    "F1tenth ROS.md",
-    "05 - ROS Simulator/F1tenth ROS.md"
+    "F1tenth ROS.md"
   ]
 }
