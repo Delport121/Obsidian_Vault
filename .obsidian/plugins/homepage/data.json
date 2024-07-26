@@ -3,8 +3,8 @@
   "homepages": {
     "Main Homepage": {
       "value": "Home",
-      "kind": "Daily Note",
-      "openOnStartup": true,
+      "kind": "Nothing",
+      "openOnStartup": false,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Default view",

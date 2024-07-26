@@ -1,8 +1,8 @@
-# Setting up the driver stack
+# Setting up the driver stack for 
 [Setting up the diver stack](https://f1tenth.readthedocs.io/en/foxy_test/getting_started/firmware/drive_workspace.html#doc-drive-workspace)
-This link shows how to create a basic f1tenth stack for the car. It contains a basic configurations and files for the vesc, ackerman steering and other things that the car require to operate.
+This link shows how to create a basic f1tenth stack for the car. It contains the basic configurations and files for the vesc, ackerman steering and other things that the car require to operate.
 
-It does not appear to work out of the box for our car however, thus the following:
+It does not appear to work out of the box for our car. You my run into an error trying to run 
 ### Error: `Urg` node crashes when running `bringup`
 The default stack also launches the `urg` node which is the lidar's node when you run `bringup.launch.py`. It's best to remove the line that launches the node in the launch file and launch the node manually. 
 
@@ -13,7 +13,7 @@ The mapping procedure is supposed the be very simple and easy. However, the slam
 
 - Make sure the odometry of the car is tuned as this will affect mapping.
 # Map Post processing
-The map while most like be noisy. Noisy segment can be edited out using microsoft paint. Some people use photoshop and there is many ways to do this. I you want to generate racelines or waypoints, you can also close of corridors and gaps for this
+The map while most like be noisy. Noisy segments (Such as black squares in spaces that should be open) can be edited out using Microsoft paint. Some people use Photoshop and there are many ways to do this. I you want to generate racelines or waypoints, you can also close of corridors and gaps with black pixels
 
 # Loading and localising on the new map
 - Localising on the new map also require the particle filter to be setup

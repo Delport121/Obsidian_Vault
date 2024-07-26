@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "5df02badfc3b7004",
+    "id": "19b6507ae9785835",
     "type": "split",
     "children": [
       {
-        "id": "8e33afef7c800b42",
+        "id": "de119f65f319ba16",
         "type": "tabs",
         "children": [
           {
-            "id": "6e25c2e58fd473a2",
+            "id": "0582670cd978be13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - DailyNotes/2024-07-26.md",
+                "file": "02 - General Notes/Creating a driver stack.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d38f4e02e9c8aa82",
+    "id": "ebee86918cad58e6",
     "type": "split",
     "children": [
       {
-        "id": "2d1ccc84291f61c2",
+        "id": "bcb02f80ab7b73ff",
         "type": "tabs",
         "children": [
           {
-            "id": "5fbb9f61a2465778",
+            "id": "7775cff26287adb5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "d3386959c485b47d",
+            "id": "2e3310abd128d0b4",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:F1tenthPipeline",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "b895cee950dd91af",
+            "id": "6c4c770b7962979b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,15 +73,15 @@
     "width": 300
   },
   "right": {
-    "id": "064b8a2fc7d11826",
+    "id": "37f869232d97109c",
     "type": "split",
     "children": [
       {
-        "id": "1eb3ef0976ccb379",
+        "id": "3f7f81179e8c5f8d",
         "type": "tabs",
         "children": [
           {
-            "id": "175ff77abe47b72c",
+            "id": "f5f6c3df59058ec7",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -89,51 +89,12 @@
             }
           },
           {
-            "id": "c514652a4cd84068",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "dcfa6d0e5168a03b",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "1c1837e3f070b1ff",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "01 - DailyNotes/2024-07-26.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a1f2828228a8f3fb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1108c8e91776fd2d",
+            "id": "6cec17db747fbbfd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - DailyNotes/2024-07-26.md",
+                "file": "02 - General Notes/Creating a driver stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,71 +106,80 @@
             }
           },
           {
-            "id": "701d93eb834409ce",
+            "id": "a6541754fd10b84f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - DailyNotes/2024-07-26.md",
+                "file": "02 - General Notes/Creating a driver stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "6f48a7c855f5f966",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fed82c64d895ddfe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "688513d04f14735e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - General Notes/Creating a driver stack.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
-      "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "graph:Open graph view": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e25c2e58fd473a2",
+  "active": "0582670cd978be13",
   "lastOpenFiles": [
+    "F1tenth ROS.md",
     "02 - General Notes/Creating a driver stack.md",
     "01 - DailyNotes/2024-07-26.md",
-    "00 - Admin/Meetings/Meeting 07-14.md",
-    "01 - DailyNotes/2024-07-25.md",
-    "01 - DailyNotes/2024-07-24.md",
-    "01 - DailyNotes/2024-07-23.md",
-    "01 - DailyNotes/2024-07-22.md",
-    "01 - DailyNotes/2024-07-19.md",
-    "01 - DailyNotes/2024-07-16.md",
-    "02 - General Notes/VS Code shortcuts.md",
-    "02 - General Notes/Realsense Camera D345i.md",
-    "02 - General Notes/New words and definitions.md",
-    "02 - General Notes/Typing speed.md",
-    "02 - General Notes/Ubuntu configurations and changes.md",
-    "00 - Admin/To do.md",
-    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
-    "00 - Admin/Introduction to F1Tenth Research.md",
-    "00 - Admin/Roadmap.md",
-    "02 - General Notes/Lit Review general notes.md",
-    "02 - General Notes/Lit Review general notes.png",
-    "02 - General Notes/Latex setup.md",
-    "02 - General Notes/Linux command stuff.md",
-    "05 - ROS Simulator/ROS Commands.md",
-    "05 - ROS Simulator/Articulated robotics/13) nav2.md",
-    "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
-    "05 - ROS Simulator/Nav2.md",
-    "05 - ROS Simulator/PF for ros install.md",
-    "F1tenth ROS.md"
+    "01 - DailyNotes/2024-07-25.md"
   ]
 }
