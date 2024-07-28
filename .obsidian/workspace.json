@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "03 - Research/Papers/Papers To do.md",
+=======
+                "file": "00 - Admin/Introduction to F1Tenth Research.md",
+>>>>>>> 9d0b65c23f39622ea3da2831d13218613410914a
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +98,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "03 - Research/Papers/Papers To do.md",
+=======
+                "file": "00 - Admin/Introduction to F1Tenth Research.md",
+>>>>>>> 9d0b65c23f39622ea3da2831d13218613410914a
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "03 - Research/Papers/Papers To do.md",
+=======
+                "file": "00 - Admin/Introduction to F1Tenth Research.md",
+>>>>>>> 9d0b65c23f39622ea3da2831d13218613410914a
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "03 - Research/Papers/Papers To do.md"
+=======
+                "file": "00 - Admin/Introduction to F1Tenth Research.md"
+>>>>>>> 9d0b65c23f39622ea3da2831d13218613410914a
               }
             }
           }
@@ -177,10 +193,16 @@
   },
   "active": "0582670cd978be13",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "03 - Research/Papers/Paper archive/Demonstrating Agile Flight from Pixels.pdf",
     "03 - Research/Papers/Papers To do.md",
     "02 - General Notes/Rtab.md",
     "03 - Research/Papers/Paper archive/Demonstrating Agile Flight from Pixels.pdf.crdownload",
+=======
+    "02 - General Notes/OpenCV.md",
+    "02 - General Notes/Creating a driver stack.md",
+    "F1tenth ROS.md",
+>>>>>>> 9d0b65c23f39622ea3da2831d13218613410914a
     "01 - DailyNotes/2024-07-26.md",
     "00 - Admin/To do.md",
     "02 - General Notes/Creating a driver stack.md",
