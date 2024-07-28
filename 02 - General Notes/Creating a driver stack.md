@@ -55,7 +55,7 @@ The command will save two a `.pgm` and `.yaml` file in the directory that you ar
 # Map Post processing
 The map while most like be noisy. Noisy segments (Such as black squares in spaces that should be open) can be edited out using Microsoft paint. Some people use Photoshop and there are many ways to do this. I you want to generate racelines or waypoints, you can also close of corridors and gaps with black pixels.
 
-# Loading and localizing on the new map
+# Loading and localising on the new map
 Localising on the new map also require the particle filter to be setup. Chris made a guide on this, but I just used the one that was already setup in `f1tenth_ws`. The directories referred to in this section is for `f1tent_ws`
 
 Add the two map files to the following directory in your workspace:

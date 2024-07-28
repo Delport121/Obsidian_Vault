@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - General Notes/Creating a driver stack.md",
+                "file": "03 - Research/Papers/Papers To do.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - General Notes/Creating a driver stack.md",
+                "file": "03 - Research/Papers/Papers To do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - General Notes/Creating a driver stack.md",
+                "file": "03 - Research/Papers/Papers To do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - General Notes/Creating a driver stack.md"
+                "file": "03 - Research/Papers/Papers To do.md"
               }
             }
           }
@@ -177,9 +177,14 @@
   },
   "active": "0582670cd978be13",
   "lastOpenFiles": [
-    "F1tenth ROS.md",
-    "02 - General Notes/Creating a driver stack.md",
+    "03 - Research/Papers/Paper archive/Demonstrating Agile Flight from Pixels.pdf",
+    "03 - Research/Papers/Papers To do.md",
+    "02 - General Notes/Rtab.md",
+    "03 - Research/Papers/Paper archive/Demonstrating Agile Flight from Pixels.pdf.crdownload",
     "01 - DailyNotes/2024-07-26.md",
+    "00 - Admin/To do.md",
+    "02 - General Notes/Creating a driver stack.md",
+    "F1tenth ROS.md",
     "01 - DailyNotes/2024-07-25.md"
   ]
 }

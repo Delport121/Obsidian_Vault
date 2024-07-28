@@ -21,6 +21,9 @@
 ## Farming:
 - [x] [[Localization and Mapping for Robots in Agriculture and Forestry.pdf]]
 - [x] [[Recent Advancements in Agriculture Robots.pdf]]
+
+## Cool papers
+- [ ] [[Demonstrating Agile Flight from Pixels.pdf]]
 # Thesis to do
 - [ ] [[A SLAM Method for the Formula Student Driverless Competition.pdf]]
 - [x] [[Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf]]  [completion:: 2024-05-28]
