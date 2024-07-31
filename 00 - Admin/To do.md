@@ -2,7 +2,7 @@
 - [ ] Deliver wine to charl
 - [x] Study how to take notes of academic papers  [completion:: 2024-06-16]
 - [ ] Sheep counting with computer vision
-- [ ] Solder volume knob back on
+- [x] Solder volume knob back on
 - [ ] Apply for OMT
 - [x] Submit NRF
 ## Personal
@@ -13,7 +13,7 @@
 ## To get
 - [ ] Get water pack
 - [ ] Get garmin watch
-- [ ] Wide mouse pad
+- [x] Wide mouse pad
 ## Later on or low priority
 - [ ] Reset windows
 - [ ] Leetcode?

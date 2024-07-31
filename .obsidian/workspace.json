@@ -1,44 +1,54 @@
 {
   "main": {
-    "id": "19b6507ae9785835",
+    "id": "54ec91fd8baa0a7f",
     "type": "split",
     "children": [
       {
-        "id": "de119f65f319ba16",
+        "id": "29d157fb627b9b29",
         "type": "tabs",
         "children": [
           {
-            "id": "0582670cd978be13",
+            "id": "87911d162a48a4cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "03 - Research/Papers/Papers To do.md",
-=======
-                "file": "00 - Admin/Introduction to F1Tenth Research.md",
->>>>>>> 9d0b65c23f39622ea3da2831d13218613410914a
+                "file": "00 - Admin/Meetings/Meeting 07-14.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9edb6637e9e8a1c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - DailyNotes/2024-07-31.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ebee86918cad58e6",
+    "id": "78581194d22248ee",
     "type": "split",
     "children": [
       {
-        "id": "bcb02f80ab7b73ff",
+        "id": "e5791b468a12248f",
         "type": "tabs",
         "children": [
           {
-            "id": "7775cff26287adb5",
+            "id": "acc6c1e43ba1eaf4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +58,7 @@
             }
           },
           {
-            "id": "2e3310abd128d0b4",
+            "id": "8f4b60220198b1cc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +73,7 @@
             }
           },
           {
-            "id": "6c4c770b7962979b",
+            "id": "3a02bb6d488113c9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +87,15 @@
     "width": 300
   },
   "right": {
-    "id": "37f869232d97109c",
+    "id": "6cbcc2a1b6f5d84f",
     "type": "split",
     "children": [
       {
-        "id": "3f7f81179e8c5f8d",
+        "id": "8d7140130500328c",
         "type": "tabs",
         "children": [
           {
-            "id": "f5f6c3df59058ec7",
+            "id": "2f43c10cdc36272e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -93,16 +103,12 @@
             }
           },
           {
-            "id": "6cec17db747fbbfd",
+            "id": "84f68832eb82b1f2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "03 - Research/Papers/Papers To do.md",
-=======
-                "file": "00 - Admin/Introduction to F1Tenth Research.md",
->>>>>>> 9d0b65c23f39622ea3da2831d13218613410914a
+                "file": "01 - DailyNotes/2024-07-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,23 +120,19 @@
             }
           },
           {
-            "id": "a6541754fd10b84f",
+            "id": "b98309a776825d4b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "03 - Research/Papers/Papers To do.md",
-=======
-                "file": "00 - Admin/Introduction to F1Tenth Research.md",
->>>>>>> 9d0b65c23f39622ea3da2831d13218613410914a
+                "file": "01 - DailyNotes/2024-07-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6f48a7c855f5f966",
+            "id": "5b22dbd9a28d834f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,7 +143,7 @@
             }
           },
           {
-            "id": "fed82c64d895ddfe",
+            "id": "d51fb8ff99af62eb",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,16 +155,12 @@
             }
           },
           {
-            "id": "688513d04f14735e",
+            "id": "0c2c84f0dab8fd8f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "03 - Research/Papers/Papers To do.md"
-=======
-                "file": "00 - Admin/Introduction to F1Tenth Research.md"
->>>>>>> 9d0b65c23f39622ea3da2831d13218613410914a
+                "file": "01 - DailyNotes/2024-07-31.md"
               }
             }
           }
@@ -175,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
@@ -183,7 +182,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
@@ -191,22 +189,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0582670cd978be13",
+  "active": "9edb6637e9e8a1c4",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "03 - Research/Papers/Paper archive/Demonstrating Agile Flight from Pixels.pdf",
-    "03 - Research/Papers/Papers To do.md",
-    "02 - General Notes/Rtab.md",
-    "03 - Research/Papers/Paper archive/Demonstrating Agile Flight from Pixels.pdf.crdownload",
-=======
-    "02 - General Notes/OpenCV.md",
-    "02 - General Notes/Creating a driver stack.md",
-    "F1tenth ROS.md",
->>>>>>> 9d0b65c23f39622ea3da2831d13218613410914a
+    "02 - General Notes/Realsense Camera D345i.md",
+    "00 - Admin/Meetings/Meeting 07-31.md",
+    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
+    "00 - Admin/Introduction to F1Tenth Research.md",
+    "00 - Admin/Meetings/Meeting 07-14.md",
+    "00 - Admin/Meetings/Meeting 06-25.md",
+    "00 - Admin/Meetings/Meeting 06-04.md",
+    "00 - Admin/Meetings/Meeting notes.md",
+    "01 - DailyNotes/2024-07-31.md",
     "01 - DailyNotes/2024-07-26.md",
+    "01 - DailyNotes/2024-07-25.md",
     "00 - Admin/To do.md",
-    "02 - General Notes/Creating a driver stack.md",
-    "F1tenth ROS.md",
-    "01 - DailyNotes/2024-07-25.md"
+    "00 - Admin/Roadmap.md"
   ]
 }
