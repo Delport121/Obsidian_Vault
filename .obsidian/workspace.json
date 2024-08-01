@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - DailyNotes/2024-07-31.md",
+                "file": "02 - General Notes/Realsense Camera D345i.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - DailyNotes/2024-07-31.md",
+                "file": "02 - General Notes/Realsense Camera D345i.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - DailyNotes/2024-07-31.md",
+                "file": "02 - General Notes/Realsense Camera D345i.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - DailyNotes/2024-07-31.md"
+                "file": "02 - General Notes/Realsense Camera D345i.md"
               }
             }
           }
@@ -191,6 +191,7 @@
   },
   "active": "9edb6637e9e8a1c4",
   "lastOpenFiles": [
+    "01 - DailyNotes/2024-07-31.md",
     "02 - General Notes/Realsense Camera D345i.md",
     "00 - Admin/Meetings/Meeting 07-31.md",
     "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
@@ -199,7 +200,6 @@
     "00 - Admin/Meetings/Meeting 06-25.md",
     "00 - Admin/Meetings/Meeting 06-04.md",
     "00 - Admin/Meetings/Meeting notes.md",
-    "01 - DailyNotes/2024-07-31.md",
     "01 - DailyNotes/2024-07-26.md",
     "01 - DailyNotes/2024-07-25.md",
     "00 - Admin/To do.md",
