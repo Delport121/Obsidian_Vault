@@ -93,8 +93,9 @@ ros2 launch particle_filter localize_launch.py
 ```
 In terminal 3:
 Navigate to correct directory:
+(Note: Imings's repo was saved as a package in this workspace)
 ```bash
-cd Ros2PP/src/my_waypoint_follower/my_waypoint_follower/
+cd sim_ws/src/my_waypoint_follower/my_waypoint_follower/
 ```
 The run:
 ```bash

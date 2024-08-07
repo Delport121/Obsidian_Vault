@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "29d157fb627b9b29",
+        "id": "bf374d97cbc3c4ac",
         "type": "tabs",
         "children": [
           {
-            "id": "87911d162a48a4cb",
+            "id": "708888ad4157f2ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Admin/Meetings/Meeting 07-14.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9edb6637e9e8a1c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - General Notes/Realsense Camera D345i.md",
+                "file": "05 - ROS Simulator/Creating a driver stack.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "calen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,6 +79,7 @@
       {
         "id": "8d7140130500328c",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "2f43c10cdc36272e",
@@ -100,35 +87,6 @@
             "state": {
               "type": "calendar",
               "state": {}
-            }
-          },
-          {
-            "id": "84f68832eb82b1f2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02 - General Notes/Realsense Camera D345i.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b98309a776825d4b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "02 - General Notes/Realsense Camera D345i.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
             }
           },
           {
@@ -143,7 +101,29 @@
             }
           },
           {
-            "id": "d51fb8ff99af62eb",
+            "id": "0c2c84f0dab8fd8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05 - ROS Simulator/Creating a driver stack.md"
+              }
+            }
+          },
+          {
+            "id": "95efd317469d3075",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05 - ROS Simulator/Creating a driver stack.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8c18f881fbaef3a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,34 +133,56 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "0c2c84f0dab8fd8f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "02 - General Notes/Realsense Camera D345i.md"
-              }
-            }
           }
         ]
+      },
+      {
+        "id": "93b9ccb88c6c421d",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "84f68832eb82b1f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 - ROS Simulator/Creating a driver stack.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d04f614dd4fe9a90",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -189,20 +191,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9edb6637e9e8a1c4",
+  "active": "acc6c1e43ba1eaf4",
   "lastOpenFiles": [
-    "01 - DailyNotes/2024-07-31.md",
+    "02 - General Notes/Latex setup.md",
+    "02 - General Notes/Linux command stuff.md",
+    "02 - General Notes/Lit Review general notes.md",
+    "02 - General Notes/Lit Review general notes.png",
+    "02 - General Notes/New words and definitions.md",
+    "02 - General Notes/OpenCV.md",
     "02 - General Notes/Realsense Camera D345i.md",
+    "02 - General Notes/Rtab.md",
+    "02 - General Notes/Typing speed.md",
+    "02 - General Notes/Ubuntu configurations and changes.md",
+    "02 - General Notes/Why using Ben's simulator is better.md",
+    "02 - General Notes/VS Code shortcuts.md",
+    "01 - DailyNotes/2024-08-07.md",
+    "05 - ROS Simulator/PF for ros install.md",
+    "05 - ROS Simulator/ROS Commands.md",
+    "01 - DailyNotes/2024-08-06.md",
+    "00 - Admin/Meetings/Meeting 08-06.md",
+    "00 - Admin/Meetings/Meeting 07-14.md",
     "00 - Admin/Meetings/Meeting 07-31.md",
+    "03 - Research/General/Visual SLAM.md",
+    "04 - Python Simulator/Follow the Gap.md",
+    "Pasted image 20240806083940.png",
+    "Visual SLAM.png",
+    "05 - ROS Simulator/Articulated robotics/13) nav2.md",
     "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
     "00 - Admin/Introduction to F1Tenth Research.md",
-    "00 - Admin/Meetings/Meeting 07-14.md",
-    "00 - Admin/Meetings/Meeting 06-25.md",
-    "00 - Admin/Meetings/Meeting 06-04.md",
-    "00 - Admin/Meetings/Meeting notes.md",
-    "01 - DailyNotes/2024-07-26.md",
-    "01 - DailyNotes/2024-07-25.md",
-    "00 - Admin/To do.md",
-    "00 - Admin/Roadmap.md"
+    "03 - Research/General/SLAM.md",
+    "03 - Research/General/SLAM Types.md",
+    "03 - Research/General/Topics of interest.md",
+    "99 - Meta/Images/Iterative Closest Point.png",
+    "03 - Research/General/Iterative Closest Point.md",
+    "99 - Meta/Images/SLAM-1.jpg",
+    "99 - Meta/Images/SLAM.jpg",
+    "03 - Research/General/KalmanFilterNotes.pdf",
+    "99 - Meta/Images/Normal Distribution Transformation-2.png",
+    "99 - Meta/Images/Normal Distribution Transformation-1.png",
+    "99 - Meta/Images/Normal Distribution Transformation.png",
+    "Normal Distribution Transformation 2.png",
+    "03 - Research/General/Feature extraction.pdf"
   ]
 }
