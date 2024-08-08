@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - ROS Simulator/Creating a driver stack.md",
+                "file": "01 - DailyNotes/2024-08-08.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - ROS Simulator/Creating a driver stack.md"
+                "file": "01 - DailyNotes/2024-08-08.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - ROS Simulator/Creating a driver stack.md",
+                "file": "01 - DailyNotes/2024-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - ROS Simulator/Creating a driver stack.md",
+                "file": "01 - DailyNotes/2024-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,8 +191,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acc6c1e43ba1eaf4",
+  "active": "708888ad4157f2ec",
   "lastOpenFiles": [
+    "01 - DailyNotes/2024-08-05.md",
+    "01 - DailyNotes/2024-08-06.md",
+    "01 - DailyNotes/2024-08-07.md",
+    "01 - DailyNotes/2024-08-08.md",
+    "00 - Admin/Introduction to F1Tenth Research.md",
+    "03 - Research/Papers/Paper archive/Feature Extraction from Laser Scan Data based on.pdf",
+    "03 - Research/Papers/Paper archive/Feature Extraction from Laser Scan Data based on.pdf.crdownload",
+    "02 - General Notes/Github.md",
+    "05 - ROS Simulator/Creating a driver stack.md",
     "02 - General Notes/Latex setup.md",
     "02 - General Notes/Linux command stuff.md",
     "02 - General Notes/Lit Review general notes.md",
@@ -205,10 +214,8 @@
     "02 - General Notes/Ubuntu configurations and changes.md",
     "02 - General Notes/Why using Ben's simulator is better.md",
     "02 - General Notes/VS Code shortcuts.md",
-    "01 - DailyNotes/2024-08-07.md",
     "05 - ROS Simulator/PF for ros install.md",
     "05 - ROS Simulator/ROS Commands.md",
-    "01 - DailyNotes/2024-08-06.md",
     "00 - Admin/Meetings/Meeting 08-06.md",
     "00 - Admin/Meetings/Meeting 07-14.md",
     "00 - Admin/Meetings/Meeting 07-31.md",
@@ -218,12 +225,7 @@
     "Visual SLAM.png",
     "05 - ROS Simulator/Articulated robotics/13) nav2.md",
     "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
-    "00 - Admin/Introduction to F1Tenth Research.md",
-    "03 - Research/General/SLAM.md",
-    "03 - Research/General/SLAM Types.md",
-    "03 - Research/General/Topics of interest.md",
     "99 - Meta/Images/Iterative Closest Point.png",
-    "03 - Research/General/Iterative Closest Point.md",
     "99 - Meta/Images/SLAM-1.jpg",
     "99 - Meta/Images/SLAM.jpg",
     "03 - Research/General/KalmanFilterNotes.pdf",

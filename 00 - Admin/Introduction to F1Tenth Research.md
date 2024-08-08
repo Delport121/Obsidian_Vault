@@ -51,10 +51,10 @@ Expand the current method into a localisation and mapping algorithm
 	- [x] Youtube resources  [completion:: 2024-04-30]
 
 - [x] Reimplement particle filter for F1Tenth racing
-	- [ ] Experiment to maximise localisation performance
-	- [ ] Recreate sensor model used in https://github.com/f1tenth/particle_filter
-	- [ ] Write in JAX libraries
-	- [ ] Look at numba library
+	- [x] Experiment to maximise localisation performance
+	- [x] Recreate sensor model used in https://github.com/f1tenth/particle_filter
+	- [x] Write in JAX libraries
+	- [x] Look at numba library
 	
 - [ ] Start to adapt the local map racing method into a localisation method
 	- Do it mathmatically
