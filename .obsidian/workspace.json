@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "54ec91fd8baa0a7f",
+    "id": "85e8a0f38c8b3b91",
     "type": "split",
     "children": [
       {
-        "id": "bf374d97cbc3c4ac",
+        "id": "8880eb32789e915c",
         "type": "tabs",
         "children": [
           {
-            "id": "708888ad4157f2ec",
+            "id": "b1a7cdc7b7a41674",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "01 - DailyNotes/2024-08-12.md",
-=======
-                "file": "02 - General Notes/Commenting guide.md",
->>>>>>> 62f3c5c26ad30f7cca8f0acc8f09826840e3a454
+                "file": "02 - General Notes/Github.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -30,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "78581194d22248ee",
+    "id": "2eda2573b34e2d39",
     "type": "split",
     "children": [
       {
-        "id": "e5791b468a12248f",
+        "id": "8c8078f824afc7e4",
         "type": "tabs",
         "children": [
           {
-            "id": "acc6c1e43ba1eaf4",
+            "id": "d9f8f96a8b2cac03",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +44,12 @@
             }
           },
           {
-            "id": "8f4b60220198b1cc",
+            "id": "a87d04dd873d3597",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "calen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +59,7 @@
             }
           },
           {
-            "id": "3a02bb6d488113c9",
+            "id": "8a673164da3e8cb6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,16 +73,15 @@
     "width": 300
   },
   "right": {
-    "id": "6cbcc2a1b6f5d84f",
+    "id": "614ae2f695f2d311",
     "type": "split",
     "children": [
       {
-        "id": "8d7140130500328c",
+        "id": "f7a4a48e15120f5c",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "2f43c10cdc36272e",
+            "id": "d68820a0258e7207",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -94,76 +89,12 @@
             }
           },
           {
-            "id": "5b22dbd9a28d834f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "0c2c84f0dab8fd8f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "01 - DailyNotes/2024-08-12.md"
-=======
-                "file": "02 - General Notes/Commenting guide.md"
->>>>>>> 62f3c5c26ad30f7cca8f0acc8f09826840e3a454
-              }
-            }
-          },
-          {
-            "id": "95efd317469d3075",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-<<<<<<< HEAD
-                "file": "01 - DailyNotes/2024-08-12.md",
-=======
-                "file": "02 - General Notes/Commenting guide.md",
->>>>>>> 62f3c5c26ad30f7cca8f0acc8f09826840e3a454
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c8c18f881fbaef3a",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "93b9ccb88c6c421d",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "84f68832eb82b1f2",
+            "id": "10766fc62729f9a1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "01 - DailyNotes/2024-08-12.md",
-=======
-                "file": "02 - General Notes/Commenting guide.md",
->>>>>>> 62f3c5c26ad30f7cca8f0acc8f09826840e3a454
+                "file": "02 - General Notes/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,24 +106,72 @@
             }
           },
           {
-            "id": "d04f614dd4fe9a90",
+            "id": "bf3b3e6972500544",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - General Notes/Github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2a2631529a73471",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "805bc7b8872ed63f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "6e001006d70903d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - General Notes/Github.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4ae450b33236effe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62db33c34a2ecfd4",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
-      "graph:Open graph view": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
@@ -200,62 +179,19 @@
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "708888ad4157f2ec",
+  "active": "b1a7cdc7b7a41674",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "03 - Research/General/Visual SLAM.png",
-    "01 - DailyNotes/2024-08-12.md",
-=======
-    "02 - General Notes/Github.md",
-    "02 - General Notes/Commenting guide.md",
->>>>>>> 62f3c5c26ad30f7cca8f0acc8f09826840e3a454
-    "01 - DailyNotes/2024-08-08.md",
-    "01 - DailyNotes/2024-08-07.md",
-    "01 - DailyNotes/2024-08-05.md",
-    "01 - DailyNotes/2024-08-06.md",
-    "00 - Admin/Introduction to F1Tenth Research.md",
-    "03 - Research/Papers/Paper archive/Feature Extraction from Laser Scan Data based on.pdf",
-    "03 - Research/Papers/Paper archive/Feature Extraction from Laser Scan Data based on.pdf.crdownload",
-    "05 - ROS Simulator/Creating a driver stack.md",
     "02 - General Notes/Latex setup.md",
-    "02 - General Notes/Linux command stuff.md",
-    "02 - General Notes/Lit Review general notes.md",
-    "02 - General Notes/Lit Review general notes.png",
-    "02 - General Notes/New words and definitions.md",
-    "02 - General Notes/OpenCV.md",
-    "02 - General Notes/Realsense Camera D345i.md",
-    "02 - General Notes/Rtab.md",
-    "02 - General Notes/Typing speed.md",
-    "02 - General Notes/Ubuntu configurations and changes.md",
-    "02 - General Notes/Why using Ben's simulator is better.md",
-    "02 - General Notes/VS Code shortcuts.md",
-    "05 - ROS Simulator/PF for ros install.md",
-    "05 - ROS Simulator/ROS Commands.md",
-    "00 - Admin/Meetings/Meeting 08-06.md",
-    "00 - Admin/Meetings/Meeting 07-14.md",
-    "00 - Admin/Meetings/Meeting 07-31.md",
-    "03 - Research/General/Visual SLAM.md",
-    "Pasted image 20240806083940.png",
-<<<<<<< HEAD
-=======
-    "Visual SLAM.png",
->>>>>>> 62f3c5c26ad30f7cca8f0acc8f09826840e3a454
-    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
-    "99 - Meta/Images/Iterative Closest Point.png",
-    "99 - Meta/Images/SLAM-1.jpg",
-    "99 - Meta/Images/SLAM.jpg",
-    "03 - Research/General/KalmanFilterNotes.pdf",
-    "99 - Meta/Images/Normal Distribution Transformation-2.png",
-    "99 - Meta/Images/Normal Distribution Transformation-1.png",
-    "99 - Meta/Images/Normal Distribution Transformation.png",
-    "Normal Distribution Transformation 2.png",
-    "03 - Research/General/Feature extraction.pdf"
+    "02 - General Notes/Commenting guide.md",
+    "01 - DailyNotes/2024-08-12.md"
   ]
 }
