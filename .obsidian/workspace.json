@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "01 - DailyNotes/2024-08-12.md",
+=======
+                "file": "02 - General Notes/Commenting guide.md",
+>>>>>>> 62f3c5c26ad30f7cca8f0acc8f09826840e3a454
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +110,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "01 - DailyNotes/2024-08-12.md"
+=======
+                "file": "02 - General Notes/Commenting guide.md"
+>>>>>>> 62f3c5c26ad30f7cca8f0acc8f09826840e3a454
               }
             }
           },
@@ -116,7 +124,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "01 - DailyNotes/2024-08-12.md",
+=======
+                "file": "02 - General Notes/Commenting guide.md",
+>>>>>>> 62f3c5c26ad30f7cca8f0acc8f09826840e3a454
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "01 - DailyNotes/2024-08-12.md",
+=======
+                "file": "02 - General Notes/Commenting guide.md",
+>>>>>>> 62f3c5c26ad30f7cca8f0acc8f09826840e3a454
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +209,13 @@
   },
   "active": "708888ad4157f2ec",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "03 - Research/General/Visual SLAM.png",
     "01 - DailyNotes/2024-08-12.md",
+=======
+    "02 - General Notes/Github.md",
+    "02 - General Notes/Commenting guide.md",
+>>>>>>> 62f3c5c26ad30f7cca8f0acc8f09826840e3a454
     "01 - DailyNotes/2024-08-08.md",
     "01 - DailyNotes/2024-08-07.md",
     "01 - DailyNotes/2024-08-05.md",
@@ -202,7 +223,6 @@
     "00 - Admin/Introduction to F1Tenth Research.md",
     "03 - Research/Papers/Paper archive/Feature Extraction from Laser Scan Data based on.pdf",
     "03 - Research/Papers/Paper archive/Feature Extraction from Laser Scan Data based on.pdf.crdownload",
-    "02 - General Notes/Github.md",
     "05 - ROS Simulator/Creating a driver stack.md",
     "02 - General Notes/Latex setup.md",
     "02 - General Notes/Linux command stuff.md",
@@ -223,6 +243,10 @@
     "00 - Admin/Meetings/Meeting 07-31.md",
     "03 - Research/General/Visual SLAM.md",
     "Pasted image 20240806083940.png",
+<<<<<<< HEAD
+=======
+    "Visual SLAM.png",
+>>>>>>> 62f3c5c26ad30f7cca8f0acc8f09826840e3a454
     "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
     "99 - Meta/Images/Iterative Closest Point.png",
     "99 - Meta/Images/SLAM-1.jpg",
