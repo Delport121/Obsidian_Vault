@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - DailyNotes/2024-08-08.md",
+                "file": "02 - General Notes/Commenting guide.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - DailyNotes/2024-08-08.md"
+                "file": "02 - General Notes/Commenting guide.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - DailyNotes/2024-08-08.md",
+                "file": "02 - General Notes/Commenting guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - DailyNotes/2024-08-08.md",
+                "file": "02 - General Notes/Commenting guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,14 +193,15 @@
   },
   "active": "708888ad4157f2ec",
   "lastOpenFiles": [
-    "01 - DailyNotes/2024-08-07.md",
+    "02 - General Notes/Github.md",
+    "02 - General Notes/Commenting guide.md",
     "01 - DailyNotes/2024-08-08.md",
+    "01 - DailyNotes/2024-08-07.md",
     "01 - DailyNotes/2024-08-05.md",
     "01 - DailyNotes/2024-08-06.md",
     "00 - Admin/Introduction to F1Tenth Research.md",
     "03 - Research/Papers/Paper archive/Feature Extraction from Laser Scan Data based on.pdf",
     "03 - Research/Papers/Paper archive/Feature Extraction from Laser Scan Data based on.pdf.crdownload",
-    "02 - General Notes/Github.md",
     "05 - ROS Simulator/Creating a driver stack.md",
     "02 - General Notes/Latex setup.md",
     "02 - General Notes/Linux command stuff.md",
@@ -223,7 +224,6 @@
     "04 - Python Simulator/Follow the Gap.md",
     "Pasted image 20240806083940.png",
     "Visual SLAM.png",
-    "05 - ROS Simulator/Articulated robotics/13) nav2.md",
     "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
     "99 - Meta/Images/Iterative Closest Point.png",
     "99 - Meta/Images/SLAM-1.jpg",
