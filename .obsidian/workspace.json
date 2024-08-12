@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - DailyNotes/2024-08-08.md",
+                "file": "01 - DailyNotes/2024-08-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - DailyNotes/2024-08-08.md"
+                "file": "01 - DailyNotes/2024-08-12.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - DailyNotes/2024-08-08.md",
+                "file": "01 - DailyNotes/2024-08-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - DailyNotes/2024-08-08.md",
+                "file": "01 - DailyNotes/2024-08-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,8 +193,10 @@
   },
   "active": "708888ad4157f2ec",
   "lastOpenFiles": [
-    "01 - DailyNotes/2024-08-07.md",
+    "03 - Research/General/Visual SLAM.png",
+    "01 - DailyNotes/2024-08-12.md",
     "01 - DailyNotes/2024-08-08.md",
+    "01 - DailyNotes/2024-08-07.md",
     "01 - DailyNotes/2024-08-05.md",
     "01 - DailyNotes/2024-08-06.md",
     "00 - Admin/Introduction to F1Tenth Research.md",
@@ -220,10 +222,7 @@
     "00 - Admin/Meetings/Meeting 07-14.md",
     "00 - Admin/Meetings/Meeting 07-31.md",
     "03 - Research/General/Visual SLAM.md",
-    "04 - Python Simulator/Follow the Gap.md",
     "Pasted image 20240806083940.png",
-    "Visual SLAM.png",
-    "05 - ROS Simulator/Articulated robotics/13) nav2.md",
     "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
     "99 - Meta/Images/Iterative Closest Point.png",
     "99 - Meta/Images/SLAM-1.jpg",
