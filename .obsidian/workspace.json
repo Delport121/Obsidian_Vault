@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - General Notes/Github.md",
+                "file": "01 - DailyNotes/2024-08-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - General Notes/Github.md",
+                "file": "01 - DailyNotes/2024-08-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - General Notes/Github.md",
+                "file": "01 - DailyNotes/2024-08-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - General Notes/Github.md"
+                "file": "01 - DailyNotes/2024-08-12.md"
               }
             }
           }
@@ -190,6 +190,8 @@
   },
   "active": "b1a7cdc7b7a41674",
   "lastOpenFiles": [
+    "03 - Research/Papers/Paper archive/download.jpeg",
+    "02 - General Notes/Github.md",
     "02 - General Notes/Latex setup.md",
     "02 - General Notes/Commenting guide.md",
     "01 - DailyNotes/2024-08-12.md"
