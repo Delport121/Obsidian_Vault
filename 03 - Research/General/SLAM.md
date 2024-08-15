@@ -11,7 +11,7 @@ The components of SLAM include the following:
 5. Feature Extraction: Salient features are identified from the LiDAR point cloud, which may include corners, line segments, or other geometric features. 
 6. [[Feature Matching]]: The features from the current LiDAR scan are aligned with the features from the previous LiDAR scan to estimate the robot’s pose. 
 # Navigation methods
-If the reference (grid) map of a vehicle using scan matching navigation can be compared to a digital image made up of pixels, then the reference map of a feature matching vehicle is similar to a line drawing.
+If the reference (grid) map of a vehicle using scan matching navigation can be compared to a digital image made up of pixels, then the reference map of a feature matching vehicle is similar to a line drawing. This is seem to be more for visual slam though
 ![[SLAM.jpg]]
 ![[SLAM-1.jpg]]
 # References

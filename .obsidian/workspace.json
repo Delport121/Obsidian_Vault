@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - DailyNotes/2024-08-12.md",
+                "file": "01 - DailyNotes/2024-08-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - DailyNotes/2024-08-12.md",
+                "file": "01 - DailyNotes/2024-08-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - DailyNotes/2024-08-12.md",
+                "file": "01 - DailyNotes/2024-08-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - DailyNotes/2024-08-12.md"
+                "file": "01 - DailyNotes/2024-08-15.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
@@ -179,7 +180,6 @@
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
@@ -190,10 +190,26 @@
   },
   "active": "b1a7cdc7b7a41674",
   "lastOpenFiles": [
+    "03 - Research/General/SLAM.md",
+    "03 - Research/General/SLAM Types.md",
+    "03 - Research/General/Topics of interest.md",
+    "03 - Research/General/Visual SLAM.md",
+    "03 - Research/General/Feature Matching.md",
+    "03 - Research/General/General Notes.md",
+    "03 - Research/General/General research 22-04.md",
+    "03 - Research/General/Iterative Closest Point.md",
+    "03 - Research/General/KalmanFilterNotes.pdf",
+    "03 - Research/General/Normal Distribution Transformation.md",
+    "03 - Research/General/Scan matching.md",
+    "03 - Research/F1Tenth Lectures/L09 Scan Matching.md",
+    "03 - Research/F1Tenth Lectures/L09 Scan Matching Lab 1.md",
+    "01 - DailyNotes/2024-08-15.md",
+    "01 - DailyNotes/2024-08-14.md",
+    "01 - DailyNotes/2024-08-13.md",
+    "01 - DailyNotes/2024-08-12.md",
     "03 - Research/Papers/Paper archive/download.jpeg",
     "02 - General Notes/Github.md",
     "02 - General Notes/Latex setup.md",
-    "02 - General Notes/Commenting guide.md",
-    "01 - DailyNotes/2024-08-12.md"
+    "02 - General Notes/Commenting guide.md"
   ]
 }
