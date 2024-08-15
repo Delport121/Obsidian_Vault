@@ -1,9 +1,11 @@
 #SLAM #Scan_matching #Iterative_closest_point #Localization #Lectures
 # 1 Localization with odometry
+-  Dead reckoning is a synonym
 ### Pose correction
 ![[Pasted image 20240313111906.png]]
 - A fast scan rate is required
 - Non smooth surfaces work better, smooth surfaces all look the same to the algorithm
+
 # 2 Localization with scan matching
 # 3 Iterative closest point algorithm
 ![[Pasted image 20240313115622.png|]]
