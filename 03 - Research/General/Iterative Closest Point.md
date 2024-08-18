@@ -16,3 +16,4 @@ The Generalized-ICP (GICP) algorithm combines P2P-ICP and P2PL-ICP into a probab
 Other improvements include ICP using invariant features (ICPIF), Multi-scale ICP (MbICP), Normal-distributions transform (NDT), Continuous-ICP (CICP), Enhanced ICP, AA-ICP (using Anderson acceleration), and Robust ICP with Sparsity Induction Norms. 
 # Reference
 https://ignitarium.com/3d-lidar-slam-scan-matching-explained/
+https://github.com/yuwwang123/LiDAR-Scan-Matching

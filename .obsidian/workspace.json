@@ -14,9 +14,13 @@
               "type": "pdf",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf"
 =======
                 "file": "01 - DailyNotes/2024-08-15.md",
+=======
+                "file": "01 - DailyNotes/2024-08-16.md",
+>>>>>>> d958a470b08a12f38f18d6b51934a4c6939f4df0
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,10 +103,14 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
 =======
                 "file": "01 - DailyNotes/2024-08-15.md",
 >>>>>>> c2094e005f6a53aa0dd592213d50064c84ccea4e
+=======
+                "file": "01 - DailyNotes/2024-08-16.md",
+>>>>>>> d958a470b08a12f38f18d6b51934a4c6939f4df0
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,10 +128,14 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
 =======
                 "file": "01 - DailyNotes/2024-08-15.md",
 >>>>>>> c2094e005f6a53aa0dd592213d50064c84ccea4e
+=======
+                "file": "01 - DailyNotes/2024-08-16.md",
+>>>>>>> d958a470b08a12f38f18d6b51934a4c6939f4df0
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,10 +171,14 @@
               "type": "outline",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf"
 =======
                 "file": "01 - DailyNotes/2024-08-15.md"
 >>>>>>> c2094e005f6a53aa0dd592213d50064c84ccea4e
+=======
+                "file": "01 - DailyNotes/2024-08-16.md"
+>>>>>>> d958a470b08a12f38f18d6b51934a4c6939f4df0
               }
             }
           }
@@ -207,22 +223,44 @@
   "active": "b1a7cdc7b7a41674",
   "lastOpenFiles": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     "00 - Admin/Introduction to F1Tenth Research.md",
 =======
     "03 - Research/General/SLAM.md",
     "03 - Research/General/SLAM Types.md",
+=======
+    "03 - Research/Papers/Thesis examples/ForzaETH_Particle_Filter_Thesis.pdf",
+    "03 - Research/Papers/Thesis examples/evans_deep_2023.pdf",
+    "03 - Research/Papers/Thesis examples/AMurdoch_Thesis.pdf",
+    "03 - Research/Papers/Thesis examples/A SLAM Method for the Formula Student Driverless Competition.pdf",
+    "03 - Research/Papers/Thesis examples/Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf",
+    "03 - Research/Papers/Paper archive/Extracting general-purpose features from lidar data.pdf",
+    "03 - Research/Papers/Paper archive/ForzaETH_Racestack 1.pdf",
+    "03 - Research/Papers/Paper archive/Robustness evaluation of localization techniques.pdf",
+    "03 - Research/General/Sensor model.md",
+>>>>>>> d958a470b08a12f38f18d6b51934a4c6939f4df0
     "03 - Research/General/Topics of interest.md",
-    "03 - Research/General/Visual SLAM.md",
+    "03 - Research/General/Extracting curvature from local maps.md",
+    "03 - Research/General/Feature extraction.pdf",
     "03 - Research/General/Feature Matching.md",
+    "03 - Research/General/Iterative Closest Point.md",
+    "03 - Research/General/Scan matching.md",
+    "02 - General Notes/Latex on linux and vs code.md",
+    "02 - General Notes/Untitled.md",
+    "03 - Research/General/Visual SLAM.png",
     "03 - Research/General/General Notes.md",
     "03 - Research/General/General research 22-04.md",
-    "03 - Research/General/Iterative Closest Point.md",
     "03 - Research/General/KalmanFilterNotes.pdf",
     "03 - Research/General/Normal Distribution Transformation.md",
-    "03 - Research/General/Scan matching.md",
+    "03 - Research/General/SLAM Types.md",
+    "03 - Research/General/Visual SLAM.md",
+    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
+    "00 - Admin/Introduction to F1Tenth Research.md",
+    "01 - DailyNotes/2024-08-16.md",
+    "01 - DailyNotes/2024-08-15.md",
+    "03 - Research/General/SLAM.md",
     "03 - Research/F1Tenth Lectures/L09 Scan Matching.md",
     "03 - Research/F1Tenth Lectures/L09 Scan Matching Lab 1.md",
-    "01 - DailyNotes/2024-08-15.md",
     "01 - DailyNotes/2024-08-14.md",
     "01 - DailyNotes/2024-08-13.md",
     "01 - DailyNotes/2024-08-12.md",
