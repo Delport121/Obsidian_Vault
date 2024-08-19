@@ -1,30 +1,22 @@
 {
   "main": {
-    "id": "85e8a0f38c8b3b91",
+    "id": "30c62a48f97b3dcb",
     "type": "split",
     "children": [
       {
-        "id": "8880eb32789e915c",
+        "id": "3f832899ed0608b4",
         "type": "tabs",
         "children": [
           {
-            "id": "b1a7cdc7b7a41674",
+            "id": "a1d427e5109c3abf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf"
-=======
-                "file": "01 - DailyNotes/2024-08-15.md",
-=======
-                "file": "01 - DailyNotes/2024-08-16.md",
->>>>>>> d958a470b08a12f38f18d6b51934a4c6939f4df0
+                "file": "03 - Research/General/Visual SLAM.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
->>>>>>> c2094e005f6a53aa0dd592213d50064c84ccea4e
               }
             }
           }
@@ -34,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2eda2573b34e2d39",
+    "id": "0dde8852e66dcd5b",
     "type": "split",
     "children": [
       {
-        "id": "8c8078f824afc7e4",
+        "id": "c3d48d9d4948f1d6",
         "type": "tabs",
         "children": [
           {
-            "id": "d9f8f96a8b2cac03",
+            "id": "f882bbd1350f0fe3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +44,7 @@
             }
           },
           {
-            "id": "a87d04dd873d3597",
+            "id": "33b54345d5b20074",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +59,7 @@
             }
           },
           {
-            "id": "8a673164da3e8cb6",
+            "id": "7b6156fdf2271521",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +73,15 @@
     "width": 300
   },
   "right": {
-    "id": "614ae2f695f2d311",
+    "id": "7a8258614f7f1d3f",
     "type": "split",
     "children": [
       {
-        "id": "f7a4a48e15120f5c",
+        "id": "5f1f9e231c04a668",
         "type": "tabs",
         "children": [
           {
-            "id": "d68820a0258e7207",
+            "id": "ace04ca368f51eb9",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -97,20 +89,12 @@
             }
           },
           {
-            "id": "10766fc62729f9a1",
+            "id": "74367efedc162534",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
-=======
-                "file": "01 - DailyNotes/2024-08-15.md",
->>>>>>> c2094e005f6a53aa0dd592213d50064c84ccea4e
-=======
-                "file": "01 - DailyNotes/2024-08-16.md",
->>>>>>> d958a470b08a12f38f18d6b51934a4c6939f4df0
+                "file": "03 - Research/General/Visual SLAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,27 +106,19 @@
             }
           },
           {
-            "id": "bf3b3e6972500544",
+            "id": "c9c017acb2153ce0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
-=======
-                "file": "01 - DailyNotes/2024-08-15.md",
->>>>>>> c2094e005f6a53aa0dd592213d50064c84ccea4e
-=======
-                "file": "01 - DailyNotes/2024-08-16.md",
->>>>>>> d958a470b08a12f38f18d6b51934a4c6939f4df0
+                "file": "03 - Research/General/Visual SLAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b2a2631529a73471",
+            "id": "aad7d6a8279a9376",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,7 +129,7 @@
             }
           },
           {
-            "id": "805bc7b8872ed63f",
+            "id": "b60da9ad087da15c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -165,35 +141,13 @@
             }
           },
           {
-            "id": "6e001006d70903d0",
+            "id": "c077c954f6545024",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf"
-=======
-                "file": "01 - DailyNotes/2024-08-15.md"
->>>>>>> c2094e005f6a53aa0dd592213d50064c84ccea4e
-=======
-                "file": "01 - DailyNotes/2024-08-16.md"
->>>>>>> d958a470b08a12f38f18d6b51934a4c6939f4df0
+                "file": "03 - Research/General/Visual SLAM.md"
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4ae450b33236effe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "62db33c34a2ecfd4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -209,65 +163,19 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "graph:Open graph view": false
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b1a7cdc7b7a41674",
+  "active": "a1d427e5109c3abf",
   "lastOpenFiles": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "00 - Admin/Introduction to F1Tenth Research.md",
-=======
-    "03 - Research/General/SLAM.md",
-    "03 - Research/General/SLAM Types.md",
-=======
-    "03 - Research/Papers/Thesis examples/ForzaETH_Particle_Filter_Thesis.pdf",
-    "03 - Research/Papers/Thesis examples/evans_deep_2023.pdf",
-    "03 - Research/Papers/Thesis examples/AMurdoch_Thesis.pdf",
-    "03 - Research/Papers/Thesis examples/A SLAM Method for the Formula Student Driverless Competition.pdf",
-    "03 - Research/Papers/Thesis examples/Simultaneous Localization and Mapping Algorithm for an Autonomous Race Car.pdf",
-    "03 - Research/Papers/Paper archive/Extracting general-purpose features from lidar data.pdf",
-    "03 - Research/Papers/Paper archive/ForzaETH_Racestack 1.pdf",
-    "03 - Research/Papers/Paper archive/Robustness evaluation of localization techniques.pdf",
-    "03 - Research/General/Sensor model.md",
->>>>>>> d958a470b08a12f38f18d6b51934a4c6939f4df0
-    "03 - Research/General/Topics of interest.md",
-    "03 - Research/General/Extracting curvature from local maps.md",
-    "03 - Research/General/Feature extraction.pdf",
-    "03 - Research/General/Feature Matching.md",
-    "03 - Research/General/Iterative Closest Point.md",
-    "03 - Research/General/Scan matching.md",
-    "02 - General Notes/Latex on linux and vs code.md",
-    "02 - General Notes/Untitled.md",
-    "03 - Research/General/Visual SLAM.png",
-    "03 - Research/General/General Notes.md",
-    "03 - Research/General/General research 22-04.md",
-    "03 - Research/General/KalmanFilterNotes.pdf",
-    "03 - Research/General/Normal Distribution Transformation.md",
-    "03 - Research/General/SLAM Types.md",
-    "03 - Research/General/Visual SLAM.md",
-    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
-    "00 - Admin/Introduction to F1Tenth Research.md",
-    "01 - DailyNotes/2024-08-16.md",
-    "01 - DailyNotes/2024-08-15.md",
-    "03 - Research/General/SLAM.md",
-    "03 - Research/F1Tenth Lectures/L09 Scan Matching.md",
-    "03 - Research/F1Tenth Lectures/L09 Scan Matching Lab 1.md",
-    "01 - DailyNotes/2024-08-14.md",
-    "01 - DailyNotes/2024-08-13.md",
-    "01 - DailyNotes/2024-08-12.md",
-    "03 - Research/Papers/Paper archive/download.jpeg",
->>>>>>> c2094e005f6a53aa0dd592213d50064c84ccea4e
-    "02 - General Notes/Github.md",
-    "02 - General Notes/Latex setup.md",
-    "02 - General Notes/Commenting guide.md"
+    "03 - Research/General/Visual SLAM.png"
   ]
 }

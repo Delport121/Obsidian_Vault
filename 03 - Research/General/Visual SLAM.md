@@ -33,5 +33,18 @@ The geometry-based visual odometry computes the camera pose from the image by ex
 The deep learning-based visual odometry can estimate the camera pose directly from the data. For supervised visual odometry, it requires external ground truth as the supervision signal, which is usually expensive. In contrast, the unsupervised visual odometry uses its output as supervision signal. Besides, the local optimization module is optional for deep learning-based visual odometry.
 #### ORB SLAM
 ORB-SLAM is a real-time SLAM library for monocular, stereo and RGB-D cameras that computes the camera trajectory and a sparse 3D reconstruction. It can detect loops and re-localize the camera in real time. The system works in real-time on standard CPUs in a wide variety of environments from small hand-held indoor sequences, to drones in industrial environments and cars driving around a city. The back end based on bundle adjustment with monocular and stereo observations allows for accurate trajectory estimation with metric scale. The system includes a lightweight localization mode that leverages visual odometry tracks for unmapped regions and matches map points that allow for zero-drift localization. The main functionalities of ORB SLAM are feature tracking, mapping, loop closure and localization.
+# Further topics of interest
+We encourage submissions related, but not limited, to the following topics:
+
+● Robust SLAM  
+● Representations in SLAM (NeRF, Gaussian Splatting, etc.)  
+● Semantic, Object-level, and Dynamic SLAM  
+● Large Scale SLAM  
+● Unconventional vision sensors for SLAM (event cameras, thermal cameras)  
+● SLAM for Robotics Navigation  
+● Multi-agents SLAM  
+● Visual(-Inertial) Odometry  
+● Learning-based SLAM  
+● Beyond Conventional SLAM (Large Language Models, Foundation Models, …)
 # Resources
 https://ignitarium.com/visual-slam-possibilities-challenges-and-the-future/
