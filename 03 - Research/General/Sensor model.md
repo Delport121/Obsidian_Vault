@@ -20,6 +20,10 @@ A type of 'ad hoc' algorithm that lacks a plausible physical explanation, but wo
 Takes a local map to global map approach
 ## Feature-Based Measurement models
 Models each landmark with its range, bearing and additional information regarding the feature. The way in which additional information is displayed can take many forms.
+### Sensor model with known correspondence
+[[Data association problem]] A key problem with range and bearing sensors. This problem arises when landmarks cannot be uniquely identified, so that some residual uncertainty exist with regards to the identity of the landmark.
+
+It is thus useful to introduce a [[Correspondence variable]] between the feature and the landmark in the map. The variable is the true identity of an observed feature. 
 
 # References
 - Probabilistic robotics

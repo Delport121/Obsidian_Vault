@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f832899ed0608b4",
+        "id": "42068f6c86081975",
         "type": "tabs",
         "children": [
           {
-            "id": "a1d427e5109c3abf",
+            "id": "ec465ee3746d4383",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "03 - Research/General/Visual SLAM.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "03 - Research/Papers/Thesis examples/Robust_LIDAR-Based_Localization_in_Underground_Min.pdf"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Research/General/Visual SLAM.md",
+                "file": "03 - Research/Papers/Thesis examples/Robust_LIDAR-Based_Localization_in_Underground_Min.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Research/General/Visual SLAM.md",
+                "file": "03 - Research/Papers/Thesis examples/Robust_LIDAR-Based_Localization_in_Underground_Min.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +143,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Research/General/Visual SLAM.md"
+                "file": "03 - Research/Papers/Thesis examples/Robust_LIDAR-Based_Localization_in_Underground_Min.pdf"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "57eeaefa6f9dc324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1d427e5109c3abf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +185,35 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a1d427e5109c3abf",
+  "active": "ec465ee3746d4383",
   "lastOpenFiles": [
-    "03 - Research/General/Visual SLAM.png"
+    "03 - Research/Papers/Thesis examples/Implementation of SLAM.pdf",
+    "03 - Research/Papers/Thesis examples/Robust_LIDAR-Based_Localization_in_Underground_Min.pdf",
+    "03 - Research/General/Monte Carlo localisation.md",
+    "03 - Research/General/Localisation.md",
+    "03 - Research/General/Iterative Closest Point.md",
+    "03 - Research/General/Awesome weekly robotics repo.md",
+    "03 - Research/General/Extracting curvature from local maps.md",
+    "03 - Research/General/Feature extraction.pdf",
+    "03 - Research/General/Feature Matching.md",
+    "03 - Research/General/General Notes.md",
+    "03 - Research/General/General research 22-04.md",
+    "03 - Research/General/Scan matching.md",
+    "03 - Research/General/Scan matching.png",
+    "00 - Admin/To do.md",
+    "03 - Research/General/SLAM Types.md",
+    "03 - Research/General/Topics of interest.md",
+    "03 - Research/General/Visual SLAM.md",
+    "03 - Research/General/Visual SLAM.png",
+    "03 - Research/General/KalmanFilterNotes.pdf",
+    "03 - Research/General/Normal Distribution Transformation.md",
+    "03 - Research/General/Markov localisation.md",
+    "03 - Research/General/Markov's assumption.md",
+    "01 - DailyNotes/2024-08-21.md",
+    "01 - DailyNotes/2024-08-20.md",
+    "01 - DailyNotes/2024-08-19.md",
+    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
+    "00 - Admin/Introduction to F1Tenth Research.md",
+    "03 - Research/General/Sensor model.md"
   ]
 }

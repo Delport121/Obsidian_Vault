@@ -14,7 +14,7 @@ This document serve more as a checklist for myself regarding the repo. Only the 
 ### Quadrupeds
 
 ## Open source sensors
-- OpenMV: Python powered machine vision module
+- OpenCV: Python powered machine vision module
 ## Bionics
 ## Graphical users interface
 ## Soft robotics
