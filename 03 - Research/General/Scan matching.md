@@ -24,4 +24,8 @@ To position (localize) itself in the map, the navigation system calculates the v
 https://bluebotics.com/differences-natural-navigation-scan-feature/
 https://ignitarium.com/3d-lidar-slam-scan-matching-explained/
 
+NB
+https://daniel.lawrence.lu/blog/y2014m11d25/
+
+
 
