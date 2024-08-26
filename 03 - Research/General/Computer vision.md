@@ -1,0 +1,3 @@
+Semantic information
+Geometric information
+Aperture
