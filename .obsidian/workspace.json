@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - DailyNotes/2024-08-25.md",
+                "file": "01 - DailyNotes/2024-08-23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - DailyNotes/2024-08-25.md",
+                "file": "01 - DailyNotes/2024-08-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - DailyNotes/2024-08-25.md",
+                "file": "01 - DailyNotes/2024-08-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - DailyNotes/2024-08-25.md"
+                "file": "01 - DailyNotes/2024-08-23.md"
               }
             }
           }
@@ -190,12 +190,18 @@
   },
   "active": "ec465ee3746d4383",
   "lastOpenFiles": [
-    "03 - Research/General/Computer vision.md",
+    "01 - DailyNotes/2024-08-22.md",
+    "01 - DailyNotes/2024-08-21.md",
+    "01 - DailyNotes/2024-08-20.md",
+    "01 - DailyNotes/2024-08-19.md",
+    "01 - DailyNotes/2024-08-23.md",
     "01 - DailyNotes/2024-08-25.md",
+    "01 - DailyNotes/2024-08-27.md",
+    "01 - DailyNotes/2024-08-26.md",
+    "03 - Research/General/Computer vision.md",
     "03 - Research/General/Markov's assumption.md",
     "03 - Research/General/The Covariance matrix.md",
     "The Covariance matrix-3.png",
-    "01 - DailyNotes/2024-08-23.md",
     "The Covariance matrix-2.png",
     "The Covariance matrix-1.png",
     "The Covariance matrix.png",
@@ -207,8 +213,6 @@
     "Splines-6.png",
     "Splines-5.png",
     "Splines-4.png",
-    "01 - DailyNotes/2024-08-21.md",
-    "01 - DailyNotes/2024-08-22.md",
     "03 - Research/Papers/Thesis examples/Robust_LIDAR-Based_Localization_in_Underground_Min.pdf",
     "03 - Research/Papers/Thesis examples/Implementation of SLAM.pdf",
     "03 - Research/General/Monte Carlo localisation.md",
@@ -226,10 +230,6 @@
     "03 - Research/General/Visual SLAM.md",
     "03 - Research/General/KalmanFilterNotes.pdf",
     "03 - Research/General/Normal Distribution Transformation.md",
-    "03 - Research/General/Markov localisation.md",
-    "01 - DailyNotes/2024-08-20.md",
-    "01 - DailyNotes/2024-08-19.md",
-    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
-    "00 - Admin/Introduction to F1Tenth Research.md"
+    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf"
   ]
 }
