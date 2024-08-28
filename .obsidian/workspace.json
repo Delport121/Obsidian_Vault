@@ -11,12 +11,9 @@
             "id": "ec465ee3746d4383",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "01 - DailyNotes/2024-08-25.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - DailyNotes/2024-08-25.md",
+                "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - DailyNotes/2024-08-25.md",
+                "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - DailyNotes/2024-08-25.md"
+                "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf"
               }
             }
           }
@@ -190,8 +187,9 @@
   },
   "active": "ec465ee3746d4383",
   "lastOpenFiles": [
-    "03 - Research/General/Computer vision.md",
+    "00 - Admin/Introduction to F1Tenth Research.md",
     "01 - DailyNotes/2024-08-25.md",
+    "03 - Research/General/Computer vision.md",
     "03 - Research/General/Markov's assumption.md",
     "03 - Research/General/The Covariance matrix.md",
     "The Covariance matrix-3.png",
@@ -229,7 +227,6 @@
     "03 - Research/General/Markov localisation.md",
     "01 - DailyNotes/2024-08-20.md",
     "01 - DailyNotes/2024-08-19.md",
-    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
-    "00 - Admin/Introduction to F1Tenth Research.md"
+    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf"
   ]
 }
