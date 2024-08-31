@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - DailyNotes/2024-08-29.md",
+                "file": "01 - DailyNotes/2024-08-31.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - DailyNotes/2024-08-29.md",
+                "file": "01 - DailyNotes/2024-08-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - DailyNotes/2024-08-29.md",
+                "file": "01 - DailyNotes/2024-08-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - DailyNotes/2024-08-29.md"
+                "file": "01 - DailyNotes/2024-08-31.md"
               }
             }
           }
@@ -176,20 +176,43 @@
   },
   "active": "5775506c7c183a46",
   "lastOpenFiles": [
-    "01 - DailyNotes/2024-08-28.md",
-    "01 - DailyNotes/2024-08-27.md",
-    "01 - DailyNotes/2024-08-29.md",
+    "01 - DailyNotes/2024-08-30.md",
+    "01 - DailyNotes/2024-08-31.md",
     "01 - DailyNotes/2024-08-26.md",
+    "01 - DailyNotes/2024-08-27.md",
+    "01 - DailyNotes/2024-08-28.md",
+    "01 - DailyNotes/2024-08-29.md",
     "01 - DailyNotes/2024-08-25.md",
+    "01 - DailyNotes/2024-08-24.md",
+    "01 - DailyNotes/2024-08-23.md",
+    "01 - DailyNotes/2024-08-22.md",
+    "03 - Research/General/Mahalanobis distance.md",
+    "03 - Research/Random/slam10-fastslam-4.pdf.crdownload",
+    "03 - Research/Random/amr_exercise_4_slides_new.pdf",
+    "03 - Research/Random",
+    "Mahalanobis distance-3.png",
+    "Mahalanobis distance-2.png",
+    "Mahalanobis distance-1.png",
+    "Mahalanobis distance.png",
+    "03 - Research/General/Centroid.md",
+    "Centroid.png",
+    "03 - Research/General/Euclidean distance.md",
+    "Euclidean distance.png",
+    "03 - Research/General/Sensor model.md",
+    "03 - Research/General/Topics of interest.md",
+    "03 - Research/General/Splines.md",
+    "03 - Research/General/Images",
+    "03 - Research/General/Awesome weekly robotics repo.md",
+    "03 - Research/General/Computer vision.md",
+    "03 - Research/General/Extracting curvature from local maps.md",
+    "03 - Research/General/Feature extraction.pdf",
+    "03 - Research/General/Images/Scan matching.png",
+    "03 - Research/General/Scan matching.md",
+    "03 - Research/General/Markov's assumption.md",
     "01 - DailyNotes/2024-08-12.md",
     "01 - DailyNotes/2024-08-13.md",
     "01 - DailyNotes/2024-08-14.md",
     "01 - DailyNotes/2024-08-15.md",
-    "01 - DailyNotes/2024-08-16.md",
-    "01 - DailyNotes/2024-08-19.md",
-    "01 - DailyNotes/2024-08-20.md",
-    "01 - DailyNotes/2024-08-21.md",
-    "01 - DailyNotes/2024-08-22.md",
-    "01 - DailyNotes/2024-08-23.md"
+    "01 - DailyNotes/2024-08-16.md"
   ]
 }
