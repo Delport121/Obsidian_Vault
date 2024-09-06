@@ -6,7 +6,7 @@ Some SLAM system also want a base footprint frame. Its like a shadow of the base
 
 Pose: Position and orientation (Equivalent
 to transform frame)
-# Setting up the SLAM toolbox
+# Setting up the SLAM toolbox and creating a map
 Lets first add the base footprint to `robot_core.xacro`
 ```xacro
 <!-- BASE_FOOTPRINT LINK -->

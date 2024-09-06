@@ -1,5 +1,6 @@
 Toggle full screen mode `F11`
-Collapse all `ctrl+k ctrl++)`
+Expand all `ctrl+k ctrl++)`
+Collapse all `ctrl+k ctrl+))`
 
 # Starting a Virtual environment in Python
 ```python
