@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - ROS Simulator/Usefull notes.md",
+                "file": "03 - Research/General/Lidar point cloud vecterization.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - ROS Simulator/Usefull notes.md",
+                "file": "03 - Research/General/Lidar point cloud vecterization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - ROS Simulator/Usefull notes.md",
+                "file": "03 - Research/General/Lidar point cloud vecterization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - ROS Simulator/Usefull notes.md"
+                "file": "03 - Research/General/Lidar point cloud vecterization.md"
               }
             }
           }
@@ -176,8 +176,9 @@
   },
   "active": "5775506c7c183a46",
   "lastOpenFiles": [
-    "05 - ROS Simulator/Articulated robotics/13) nav2.md",
     "05 - ROS Simulator/Usefull notes.md",
+    "03 - Research/General/Lidar point cloud vecterization.md",
+    "05 - ROS Simulator/Articulated robotics/13) nav2.md",
     "01 - DailyNotes/2024-09-04.md",
     "01 - DailyNotes/2024-09-03.md",
     "01 - DailyNotes/2024-09-02.md",
@@ -201,7 +202,6 @@
     "05 - ROS Simulator/Articulated robotics/12) Advanced Teleoperation.md",
     "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
     "03 - Research/General/Visual SLAM.md",
-    "03 - Research/General/Correpondence in SLAM.md",
     "03 - Research/Random/slam10-fastslam-4.pdf.crdownload",
     "03 - Research/Random/amr_exercise_4_slides_new.pdf",
     "03 - Research/Random",
