@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - DailyNotes/2024-09-09.md",
+                "file": "03 - Research/General/Open3D.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - DailyNotes/2024-09-09.md",
+                "file": "03 - Research/General/Open3D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - DailyNotes/2024-09-09.md",
+                "file": "03 - Research/General/Open3D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - DailyNotes/2024-09-09.md"
+                "file": "03 - Research/General/Open3D.md"
               }
             }
           }
@@ -176,13 +176,19 @@
   },
   "active": "5775506c7c183a46",
   "lastOpenFiles": [
-    "01 - DailyNotes/2024-09-05.md",
+    "01 - DailyNotes/2024-09-10.md",
+    "05 - ROS Simulator/Usefull notes.md",
+    "03 - Research/General/Lidar point cloud vecterization.md",
+    "03 - Research/General/Monte Carlo localisation.md",
+    "03 - Research/General/Normal Distribution Transformation.md",
+    "03 - Research/General/Open3D.md",
+    "03 - Research/General/Sensor model.md",
+    "03 - Research/General/SLAM.md",
     "01 - DailyNotes/2024-09-09.md",
+    "01 - DailyNotes/2024-09-05.md",
     "01 - DailyNotes/2024-09-02.md",
     "01 - DailyNotes/2024-09-03.md",
     "01 - DailyNotes/2024-09-04.md",
-    "03 - Research/General/Lidar point cloud vecterization.md",
-    "05 - ROS Simulator/Usefull notes.md",
     "05 - ROS Simulator/Articulated robotics/13) nav2.md",
     "03 - Research/General/Splines.md",
     "00 - Admin/Meetings/Meeting 09-01.md",
@@ -196,12 +202,6 @@
     "05 - ROS Simulator/Articulated robotics/5) Adding Lidar.md",
     "05 - ROS Simulator/Articulated robotics/6) Adding Camera.md",
     "05 - ROS Simulator/Articulated robotics/7) Adding a depth camera.md",
-    "05 - ROS Simulator/Articulated robotics/8) ros2_control Control and Simulation.md",
-    "05 - ROS Simulator/Articulated robotics/9) ros2_control Extra bits.md",
-    "05 - ROS Simulator/Articulated robotics/10) ros2_control on real robot.md",
-    "05 - ROS Simulator/Articulated robotics/11) Teleoperation.md",
-    "05 - ROS Simulator/Articulated robotics/12) Advanced Teleoperation.md",
-    "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
     "03 - Research/Random/slam10-fastslam-4.pdf.crdownload",
     "03 - Research/Random/amr_exercise_4_slides_new.pdf",
     "03 - Research/Random",
