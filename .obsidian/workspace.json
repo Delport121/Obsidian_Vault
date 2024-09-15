@@ -1,22 +1,19 @@
 {
   "main": {
-    "id": "a4f7abed0f5887b8",
+    "id": "082f5966765b460c",
     "type": "split",
     "children": [
       {
-        "id": "a8322b4d23ce1679",
+        "id": "7175714f64dd3e49",
         "type": "tabs",
         "children": [
           {
-            "id": "5775506c7c183a46",
+            "id": "917ec7005c56a6d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "03 - Research/General/Open3D.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf"
               }
             }
           }
@@ -26,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "61a5d4a8afd3f288",
+    "id": "d6b4edba7bef2837",
     "type": "split",
     "children": [
       {
-        "id": "76d181d6567fefc7",
+        "id": "beccdf3a518d57f7",
         "type": "tabs",
         "children": [
           {
-            "id": "612f4e4341dc384c",
+            "id": "f4259dbda50003e7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +41,7 @@
             }
           },
           {
-            "id": "15d6655a831ea08d",
+            "id": "30179eb3488b5997",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +56,7 @@
             }
           },
           {
-            "id": "d7fd7254f6a4d2b4",
+            "id": "77ca85de44635bc8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,15 +70,15 @@
     "width": 300
   },
   "right": {
-    "id": "ee5cca4648eedec8",
+    "id": "9d65c7aec509f1dc",
     "type": "split",
     "children": [
       {
-        "id": "53e6d86c1da87cf3",
+        "id": "9bf4ee78379492fc",
         "type": "tabs",
         "children": [
           {
-            "id": "2eca15d4631f1f3c",
+            "id": "dccab4a3b13a40b1",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -89,12 +86,12 @@
             }
           },
           {
-            "id": "82b6b8a2db3a169b",
+            "id": "fcc3e168ae45ef87",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Research/General/Open3D.md",
+                "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +103,19 @@
             }
           },
           {
-            "id": "5aa8ca682c2050e4",
+            "id": "4c51cc51afc11f4b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Research/General/Open3D.md",
+                "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "309b38a321e0ec8d",
+            "id": "f3fc1bf909d1f0d8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,7 +126,7 @@
             }
           },
           {
-            "id": "72cd3888a56a5ad6",
+            "id": "78d26e7aa25ff1de",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -141,12 +138,12 @@
             }
           },
           {
-            "id": "3c4ac1bf6c50cc17",
+            "id": "410ca28088cf36e0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Research/General/Open3D.md"
+                "file": "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf"
               }
             }
           }
@@ -154,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,45 +172,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5775506c7c183a46",
+  "active": "917ec7005c56a6d1",
   "lastOpenFiles": [
-    "01 - DailyNotes/2024-09-10.md",
-    "05 - ROS Simulator/Usefull notes.md",
-    "03 - Research/General/Lidar point cloud vecterization.md",
-    "03 - Research/General/Monte Carlo localisation.md",
-    "03 - Research/General/Normal Distribution Transformation.md",
-    "03 - Research/General/Open3D.md",
-    "03 - Research/General/Sensor model.md",
-    "03 - Research/General/SLAM.md",
-    "01 - DailyNotes/2024-09-09.md",
-    "01 - DailyNotes/2024-09-05.md",
-    "01 - DailyNotes/2024-09-02.md",
-    "01 - DailyNotes/2024-09-03.md",
-    "01 - DailyNotes/2024-09-04.md",
-    "05 - ROS Simulator/Articulated robotics/13) nav2.md",
-    "03 - Research/General/Splines.md",
-    "00 - Admin/Meetings/Meeting 09-01.md",
-    "05 - ROS Simulator/PF for ros install.md",
-    "05 - ROS Simulator/Running Imimg's ros.md",
-    "05 - ROS Simulator/Ros Mapping with car.md",
-    "05 - ROS Simulator/Articulated robotics/Robotics backend.md",
-    "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
-    "05 - ROS Simulator/Udemy Ros Course.md",
-    "05 - ROS Simulator/ROS Commands.md",
-    "05 - ROS Simulator/Articulated robotics/5) Adding Lidar.md",
-    "05 - ROS Simulator/Articulated robotics/6) Adding Camera.md",
-    "05 - ROS Simulator/Articulated robotics/7) Adding a depth camera.md",
-    "03 - Research/Random/slam10-fastslam-4.pdf.crdownload",
-    "03 - Research/Random/amr_exercise_4_slides_new.pdf",
-    "03 - Research/Random",
-    "Mahalanobis distance-3.png",
-    "Mahalanobis distance-2.png",
-    "Mahalanobis distance-1.png",
-    "Mahalanobis distance.png",
-    "Centroid.png",
-    "Euclidean distance.png",
-    "03 - Research/General/Images",
-    "03 - Research/General/Feature extraction.pdf",
-    "03 - Research/General/Images/Scan matching.png"
+    "00 - Admin/Introduction to F1Tenth Research.md",
+    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
+    "03 - Research/General/Lidar point cloud vecterization.md"
   ]
 }
