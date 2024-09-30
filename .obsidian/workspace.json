@@ -173,6 +173,7 @@
   },
   "active": "917ec7005c56a6d1",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "00 - Admin/Introduction to F1Tenth Research.md",
     "03 - Research/General/Conditional independence.md",
     "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
@@ -182,6 +183,13 @@
     "01 - DailyNotes/2024-09-19.md",
     "01 - DailyNotes/2024-09-09.md",
     "01 - DailyNotes/2024-09-10.md",
+=======
+    "05 - ROS Simulator/Usefull notes.md",
+    "03 - Research/General/Open3D.md",
+    "03 - Research/General/Scan matching.md",
+    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
+    "00 - Admin/Introduction to F1Tenth Research.md",
+>>>>>>> origin/main
     "03 - Research/General/Lidar point cloud vecterization.md"
   ]
 }
