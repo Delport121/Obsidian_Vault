@@ -1,0 +1,1 @@
+Events A and B are conditionally independent given event C, if knowledge that whether A occurs provide no knowledge of whether b occurs or not.

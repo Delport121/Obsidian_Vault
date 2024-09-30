@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +174,14 @@
   "active": "917ec7005c56a6d1",
   "lastOpenFiles": [
     "00 - Admin/Introduction to F1Tenth Research.md",
+    "03 - Research/General/Conditional independence.md",
+    "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
     "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
+    "01 - DailyNotes/2024-09-20.md",
+    "02 - General Notes/Rtab map.md",
+    "01 - DailyNotes/2024-09-19.md",
+    "01 - DailyNotes/2024-09-09.md",
+    "01 - DailyNotes/2024-09-10.md",
     "03 - Research/General/Lidar point cloud vecterization.md"
   ]
 }
