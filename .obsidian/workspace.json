@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
+                "file": "03 - Research/General/The Covariance matrix.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
+                "file": "03 - Research/General/The Covariance matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
+                "file": "03 - Research/General/The Covariance matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - ROS Simulator/Articulated robotics/Launch simulation.md"
+                "file": "03 - Research/General/The Covariance matrix.md"
               }
             }
           },
@@ -185,25 +185,36 @@
   },
   "active": "14a0fe8a9410655e",
   "lastOpenFiles": [
-    "05 - ROS Simulator/Articulated robotics/13) nav2.md",
+    "03 - Research/General/Splines.md",
+    "03 - Research/General/Normal Distribution Transformation.md",
+    "03 - Research/General/Localisation.md",
+    "03 - Research/General/Mahalanobis distance.md",
+    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
+    "05 - ROS Simulator/Usefull notes.md",
     "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
+    "05 - ROS Simulator/Creating a driver stack.md",
+    "05 - ROS Simulator/ROS Commands.md",
+    "02 - General Notes/Python tricks.md",
+    "02 - General Notes/Github.md",
+    "05 - ROS Simulator/PF for ros install.md",
+    "05 - ROS Simulator/Running Imimg's ros.md",
+    "03 - Research/Random/amr_exercise_4_slides_new.pdf",
+    "03 - Research/Random/slam10-fastslam-4.pdf",
+    "03 - Research/Random/slam10-fastslam-4.pdf.crdownload",
+    "03 - Research/Random/scan-matching.pdf",
+    "05 - ROS Simulator/Articulated robotics/13) nav2.md",
     "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
     "05 - ROS Simulator/Articulated robotics/14) Tracking with OpenCV.md",
     "05 - ROS Simulator/Husky.md",
     "05 - ROS Simulator/Articulated robotics/Robotics backend.md",
-    "05 - ROS Simulator/Running Imimg's ros.md",
     "05 - ROS Simulator/Udemy Ros Course.md",
-    "05 - ROS Simulator/Usefull notes.md",
     "05 - ROS Simulator/Ros Mapping with car.md",
-    "05 - ROS Simulator/ROS Commands.md",
     "03 - Research/General/Topics of interest.md",
     "03 - Research/General/Visual SLAM.md",
     "03 - Research/General/Feature extraction.pdf",
     "03 - Research/General/Open3D.md",
     "03 - Research/General/KalmanFilterNotes.pdf",
     "03 - Research/General/Images/Centroid.png",
-    "03 - Research/Random/amr_exercise_4_slides_new.pdf",
-    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
     "00 - Admin/Introduction to F1Tenth Research.md"
   ]
 }
