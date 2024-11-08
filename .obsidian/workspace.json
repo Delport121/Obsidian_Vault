@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Research/General/The Covariance matrix.md",
+                "file": "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Launch simulation"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Research/General/The Covariance matrix.md",
+                "file": "01 - DailyNotes/2024-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-10-18"
             }
           },
           {
@@ -111,10 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Research/General/The Covariance matrix.md",
+                "file": "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Launch simulation"
             }
           },
           {
@@ -125,7 +139,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -137,7 +153,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -146,8 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Research/General/The Covariance matrix.md"
-              }
+                "file": "01 - DailyNotes/2024-10-18.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-18"
             }
           },
           {
@@ -155,11 +175,13 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -185,36 +207,51 @@
   },
   "active": "14a0fe8a9410655e",
   "lastOpenFiles": [
-    "03 - Research/General/Splines.md",
-    "03 - Research/General/Normal Distribution Transformation.md",
-    "03 - Research/General/Localisation.md",
-    "03 - Research/General/Mahalanobis distance.md",
-    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
-    "05 - ROS Simulator/Usefull notes.md",
-    "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
-    "05 - ROS Simulator/Creating a driver stack.md",
     "05 - ROS Simulator/ROS Commands.md",
-    "02 - General Notes/Python tricks.md",
-    "02 - General Notes/Github.md",
-    "05 - ROS Simulator/PF for ros install.md",
-    "05 - ROS Simulator/Running Imimg's ros.md",
-    "03 - Research/Random/amr_exercise_4_slides_new.pdf",
-    "03 - Research/Random/slam10-fastslam-4.pdf",
-    "03 - Research/Random/slam10-fastslam-4.pdf.crdownload",
-    "03 - Research/Random/scan-matching.pdf",
-    "05 - ROS Simulator/Articulated robotics/13) nav2.md",
-    "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
-    "05 - ROS Simulator/Articulated robotics/14) Tracking with OpenCV.md",
-    "05 - ROS Simulator/Husky.md",
-    "05 - ROS Simulator/Articulated robotics/Robotics backend.md",
     "05 - ROS Simulator/Udemy Ros Course.md",
+    "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
+    "05 - ROS Simulator/Setup EKF slam repo.md",
+    "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
+    "05 - ROS Simulator/Articulated robotics/13) nav2.md",
+    "05 - ROS Simulator/Articulated robotics/14) Tracking with OpenCV.md",
+    "05 - ROS Simulator/Creating a driver stack.md",
+    "05 - ROS Simulator/F1tenth ROS.md",
+    "03 - Research/General/SLAM.md",
     "05 - ROS Simulator/Ros Mapping with car.md",
-    "03 - Research/General/Topics of interest.md",
-    "03 - Research/General/Visual SLAM.md",
-    "03 - Research/General/Feature extraction.pdf",
-    "03 - Research/General/Open3D.md",
+    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
+    "00 - Admin/Introduction to F1Tenth Research.md",
+    "01 - DailyNotes/2024-10-24.md",
+    "01 - DailyNotes/2024-10-18.md",
+    "03 - Research/General/The Covariance matrix.md",
+    "03 - Research/General/Mahalanobis distance.md",
+    "03 - Research/General/Localisation.md",
+    "03 - Research/General/Lidar point cloud vecterization.md",
     "03 - Research/General/KalmanFilterNotes.pdf",
-    "03 - Research/General/Images/Centroid.png",
-    "00 - Admin/Introduction to F1Tenth Research.md"
+    "03 - Research/General/Iterative Closest Point.md",
+    "03 - Research/General/General research 22-04.md",
+    "03 - Research/General/General Notes.md",
+    "03 - Research/General/Feature Matching.md",
+    "03 - Research/General/Feature extraction.pdf",
+    "03 - Research/General/Correpondence in SLAM.md",
+    "03 - Research/General/Extracting curvature from local maps.md",
+    "03 - Research/General/Euclidean distance.md",
+    "03 - Research/Papers/Paper archive/Robustness evaluation of localization techniques.pdf",
+    "03 - Research/Papers/Paper archive/Recent Advancements in Agriculture Robots.pdf",
+    "03 - Research/Papers/Paper archive/Minimum curvature trajectory planning and control for an autonomous race car.pdf",
+    "03 - Research/Papers/Paper archive/An Indoor Global Localization Technique for Mobile Robots in Long Straight Environments.pdf",
+    "03 - Research/Papers/Paper archive/An_autonomous_racing_software_for_the_Indy_Autonomo.pdf",
+    "03 - Research/Papers/Paper archive/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf",
+    "00 - Admin/Roadmap.md",
+    "03 - Research/Papers/Thesis examples/2024_hughes_autonomous.pdf",
+    "03 - Research/General/Images/Splines-4.png",
+    "03 - Research/General/Images/Splines-5.png",
+    "03 - Research/General/Images/Splines-6.png",
+    "03 - Research/General/Images/Splines-3.png",
+    "03 - Research/General/Images/Splines-2.png",
+    "03 - Research/General/Images/Splines-1.png",
+    "03 - Research/General/Images/Splines.png",
+    "Ideal match.png",
+    "aut_Iteration_Time.svg",
+    "aut_localisation_comparison.svg"
   ]
 }
