@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
+                "file": "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Launch simulation"
+              "title": "12) slam_toolbox"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
+                "file": "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Launch simulation"
+              "title": "Outgoing links from 12) slam_toolbox"
             }
           },
           {
@@ -207,19 +207,19 @@
   },
   "active": "14a0fe8a9410655e",
   "lastOpenFiles": [
+    "05 - ROS Simulator/Articulated robotics/14) Tracking with OpenCV.md",
+    "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
+    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
+    "00 - Admin/Introduction to F1Tenth Research.md",
     "05 - ROS Simulator/ROS Commands.md",
     "05 - ROS Simulator/Udemy Ros Course.md",
-    "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
     "05 - ROS Simulator/Setup EKF slam repo.md",
     "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
     "05 - ROS Simulator/Articulated robotics/13) nav2.md",
-    "05 - ROS Simulator/Articulated robotics/14) Tracking with OpenCV.md",
     "05 - ROS Simulator/Creating a driver stack.md",
     "05 - ROS Simulator/F1tenth ROS.md",
     "03 - Research/General/SLAM.md",
     "05 - ROS Simulator/Ros Mapping with car.md",
-    "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
-    "00 - Admin/Introduction to F1Tenth Research.md",
     "01 - DailyNotes/2024-10-24.md",
     "01 - DailyNotes/2024-10-18.md",
     "03 - Research/General/The Covariance matrix.md",
@@ -241,7 +241,6 @@
     "03 - Research/Papers/Paper archive/An Indoor Global Localization Technique for Mobile Robots in Long Straight Environments.pdf",
     "03 - Research/Papers/Paper archive/An_autonomous_racing_software_for_the_Indy_Autonomo.pdf",
     "03 - Research/Papers/Paper archive/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf",
-    "00 - Admin/Roadmap.md",
     "03 - Research/Papers/Thesis examples/2024_hughes_autonomous.pdf",
     "03 - Research/General/Images/Splines-4.png",
     "03 - Research/General/Images/Splines-5.png",
