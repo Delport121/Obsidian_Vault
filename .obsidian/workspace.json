@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - ROS Simulator/Data association development.md",
+                "file": "05 - ROS Simulator/ROS Commands.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data association development"
+              "title": "ROS Commands"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - ROS Simulator/Data association development.md",
+                "file": "05 - ROS Simulator/ROS Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Data association development"
+              "title": "Outgoing links from ROS Commands"
             }
           },
           {
@@ -207,7 +207,17 @@
   },
   "active": "14a0fe8a9410655e",
   "lastOpenFiles": [
+    "05 - ROS Simulator/Udemy Ros Course.md",
     "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
+    "03 - Research/Papers/Thesis examples/Robust_LIDAR-Based_Localization_in_Underground_Min.pdf",
+    "03 - Research/Papers/Thesis examples/Implementation of SLAM.pdf",
+    "03 - Research/Papers/Thesis examples/A SLAM Method for the Formula Student Driverless Competition.pdf",
+    "05 - ROS Simulator/ROS Commands.md",
+    "05 - ROS Simulator/Mapping guide.md",
+    "05 - ROS Simulator/Ros Mapping with car.md",
+    "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
+    "05 - ROS Simulator/Articulated robotics/9) ros2_control Extra bits.md",
+    "05 - ROS Simulator/Articulated robotics/8) ros2_control Control and Simulation.md",
     "05 - ROS Simulator/Data association development.md",
     "05 - ROS Simulator/PF for ros install.md",
     "05 - ROS Simulator/Nav2.md",
@@ -221,28 +231,17 @@
     "03 - Research/General/The Covariance matrix.md",
     "03 - Research/General/Splines.md",
     "03 - Research/General/SLAM Types.md",
-    "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
     "05 - ROS Simulator/Articulated robotics/14) Tracking with OpenCV.md",
     "00 - Admin/Introduction to F1Tenth Racing Research 2024.pdf",
     "00 - Admin/Introduction to F1Tenth Research.md",
-    "05 - ROS Simulator/ROS Commands.md",
-    "05 - ROS Simulator/Udemy Ros Course.md",
     "05 - ROS Simulator/Setup EKF slam repo.md",
     "05 - ROS Simulator/Articulated robotics/13) nav2.md",
-    "05 - ROS Simulator/Ros Mapping with car.md",
-    "01 - DailyNotes/2024-10-24.md",
-    "01 - DailyNotes/2024-10-18.md",
-    "03 - Research/General/Mahalanobis distance.md",
-    "03 - Research/General/Localisation.md",
     "03 - Research/General/KalmanFilterNotes.pdf",
     "03 - Research/General/Feature extraction.pdf",
     "03 - Research/Papers/Paper archive/Robustness evaluation of localization techniques.pdf",
     "03 - Research/Papers/Paper archive/Recent Advancements in Agriculture Robots.pdf",
     "03 - Research/Papers/Paper archive/Minimum curvature trajectory planning and control for an autonomous race car.pdf",
     "03 - Research/Papers/Paper archive/An Indoor Global Localization Technique for Mobile Robots in Long Straight Environments.pdf",
-    "03 - Research/Papers/Paper archive/An_autonomous_racing_software_for_the_Indy_Autonomo.pdf",
-    "03 - Research/Papers/Paper archive/ROS_based localization of a race vehicle at highspeed using LIDAR.pdf",
-    "03 - Research/Papers/Thesis examples/2024_hughes_autonomous.pdf",
     "03 - Research/General/Images/Splines-4.png",
     "03 - Research/General/Images/Splines-5.png",
     "03 - Research/General/Images/Splines-6.png",

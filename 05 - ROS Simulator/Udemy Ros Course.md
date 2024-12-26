@@ -49,6 +49,7 @@ To start of a package must be created. The default creation is for C++ thus why 
 In terminal 1:
 ```bash
 ros2 pkg create my_robot_interfaces
+cd my_robot_interfaces
 rm -rf include/
 rm -rf src/
 mkdir msg
@@ -196,11 +197,15 @@ ros2 bag record /number
 ```
 For custom name:
 ```bash
-ros2 bag record /number -o test
+ros2 bag record <topic_name> -o <bag_name>
 ```
-For info:
+For multiple topics:
 ```bash
-ros2 bag info test/
+ros2 bag record <topic_name> <topic_name> -o <bag_name>
+```
+For info: (While in the directory that contains the bag)
+```bash
+ros2 bag info <bag_name>
 ```
 Play info on topic
 ```bash
