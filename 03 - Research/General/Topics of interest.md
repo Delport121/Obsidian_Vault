@@ -1,6 +1,0 @@
-- Autorally
-- Wireframe mapping
-- Rotation matrices
-	- [Wiki page](https://en.wikipedia.org/wiki/Rotation_matrix)
-	- [Rotation matrices in context of robotics ](https://articulatedrobotics.xyz/category/coordinate-transforms-for-robotics)
-- ![[Pasted image 20240417132242.png|500]]
