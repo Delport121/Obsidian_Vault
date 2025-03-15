@@ -6,7 +6,7 @@ Go to workspace src
 ```
 colcon build --symlink-install --packages-select octomap_server2
 ```
-Change neccasarry config in package launch file
+Change neccasarry configurations in package launch file
 
 Run octomap
 ```bash

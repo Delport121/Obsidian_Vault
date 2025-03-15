@@ -1,10 +1,15 @@
 #ROS
 ```bash
-ros2 run teleop_twist_keyboard teleop_twist_keyboard
-
 ros2 launch my_bot launch_sim.launch.py
 
+ros2 run teleop_twist_keyboard teleop_twist_keyboard
+
+ros2 run 
+
 rviz2 -d src/my_bot/config/main.rviz
+
+ros2 topic echo /laser_controller/out | grep frame_id
+
 
 ros2 launch slam_toolbox online_async_launch.py slam_params_file:=/home/ruan/dev_ws/src/my_bot/config/mapper_params_online_async.yaml use_sim_time:=true
 
@@ -34,6 +39,9 @@ export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:/home/ruan/dev_ws/src/my_bot/w
 ros2 launch my_bot launch_sim.launch.py --show-args
 
 chmod +x robot_pose_publisher.py
+
+ros2 pkg list | grep pcl_conversions
+
 
 ```
 
