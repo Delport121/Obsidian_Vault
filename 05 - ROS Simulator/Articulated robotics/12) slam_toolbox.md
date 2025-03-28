@@ -34,6 +34,8 @@ cp /opt/ros/humble/share/slam_toolbox/config/mapper_params_online_async.yaml dev
 ```
 (You can press double tab after `params_` to see a list of all the options)
 
+## Creating a map
+
 For a full start: (I'm going to start and assume I'm working in the workspace, hence the directories in the commands might change slightly)
 Terminal 1:
 ```bash

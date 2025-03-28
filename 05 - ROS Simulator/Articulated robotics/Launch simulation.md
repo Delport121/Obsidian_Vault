@@ -42,6 +42,8 @@ chmod +x robot_pose_publisher.py
 
 ros2 pkg list | grep pcl_conversions
 
+ros2 run tf2_ros static_transform_publisher 0 0 0 0 0 0 base_link lidar2d_0_laser
+
 
 ```
 
