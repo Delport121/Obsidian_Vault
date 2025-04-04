@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - ROS Simulator/GMapping Ros2.md",
+                "file": "05 - ROS Simulator/Launch simulation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GMapping Ros2"
+              "title": "Launch simulation"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - ROS Simulator/GMapping Ros2.md",
+                "file": "05 - ROS Simulator/Launch simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GMapping Ros2"
+              "title": "Outgoing links from Launch simulation"
             }
           },
           {
@@ -254,21 +254,23 @@
   },
   "active": "618de14a279e68d3",
   "lastOpenFiles": [
+    "05 - ROS Simulator/ROS Commands.md",
+    "05 - ROS Simulator/Octomap install guide.md",
+    "05 - ROS Simulator/Octomap.md",
+    "05 - ROS Simulator/Ros packages.md",
+    "05 - ROS Simulator/GMapping Ros2.md",
+    "05 - ROS Simulator/Ros course section 3.md",
+    "05 - ROS Simulator/Udemy Ros Course.md",
     "05 - ROS Simulator/Cartographer.md",
     "05 - ROS Simulator/SLAM toolbox Husky.md",
-    "05 - ROS Simulator/GMapping Ros2.md",
     "01 - DailyNotes/2025-03-12.md",
-    "05 - ROS Simulator/Articulated robotics/Launch simulation.md",
+    "05 - ROS Simulator/Launch simulation.md",
     "05 - ROS Simulator/Articulated robotics/12) slam_toolbox.md",
-    "05 - ROS Simulator/Articulated robotics/Robotics backend.md",
+    "05 - ROS Simulator/Robotics backend.md",
     "05 - ROS Simulator/Articulated robotics/13) nav2.md",
-    "05 - ROS Simulator/ROS Commands.md",
-    "05 - ROS Simulator/Ros course section 3.md",
     "05 - ROS Simulator/Articulated robotics/12) Advanced Teleoperation.md",
     "05 - ROS Simulator/Nav2 Basic guide.md",
     "05 - ROS Simulator/Lego-LOAM Setup and run.md",
-    "05 - ROS Simulator/Octomap install guide.md",
-    "05 - ROS Simulator/Udemy Ros Course.md",
     "01 - DailyNotes/2025-03-08.md",
     "01 - DailyNotes/2025-02-24.md",
     "05 - ROS Simulator/LIO-SAM startup.md",
@@ -279,8 +281,6 @@
     "01 - DailyNotes/2025-02-19.md",
     "01 - DailyNotes/2025-02-18.md",
     "03 - Research/General/Awesome weekly robotics repo.md",
-    "03 - Research/General/Centroid.md",
-    "05 - ROS Simulator/Husky Repo link.md",
     "Projecting global map to particles.png",
     "Local minimuma example 1.png",
     "Local minimuma example.png",

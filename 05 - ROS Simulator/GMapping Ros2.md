@@ -7,7 +7,7 @@ This one may also be good
 ```bash
 https://github.com/siddarth09/ros2_gmapping.git
 ```
-When bilding the package may not be found. The name has to be changed form slam_gmapping to ros2_gmapping
+When building the package it may not be found. The name has to be changed form slam_gmapping to ros2_gmapping
 
 It would seem that the launch file uses the wrong format when trying to run with
 ```bash
